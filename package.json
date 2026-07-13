@@ -1,0 +1,10 @@
+{
+  "name": "kb",
+  "version": "1.0.0",
+  "description": "kb — AI-assisted project",
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": ">=18"
+  }
+}

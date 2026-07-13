@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "48980e9a6be3b455",
+    "type": "split",
+    "children": [
+      {
+        "id": "a542320ec673fccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0817ad4e53f50b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4567b6de8a0cb799",
+    "type": "split",
+    "children": [
+      {
+        "id": "0161df6f80887a30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c5bd1441b2e4be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "930f003c086129a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "449c04f9c2a39836",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eed78d2d6c768005",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ea23400bb6de5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd5d2160e34f600",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Index"
+            }
+          },
+          {
+            "id": "863929dd693d3541",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Index"
+            }
+          },
+          {
+            "id": "358d36482693701c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c171b7fb2d1d2ae1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6f1dcf45e3154d1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0817ad4e53f50b5e",
+  "lastOpenFiles": [
+    "12-Casos-Aplicacion/12-glosario-avanzado.md",
+    "12-Casos-Aplicacion/11-antologia-pensadores.md",
+    "12-Casos-Aplicacion/10-playbook-transformacion.md",
+    "12-Casos-Aplicacion/09-checklist-squad.md",
+    "12-Casos-Aplicacion/08-checklist-proyecto.md",
+    "12-Casos-Aplicacion/07-buenas-practicas-compendium.md",
+    "12-Casos-Aplicacion/06-fallidos-comunes.md",
+    "12-Casos-Aplicacion/05-anti-patrones.md",
+    "12-Casos-Aplicacion/04-ai-adopcion-casos.md",
+    "12-Casos-Aplicacion/03-adopcion-devops.md",
+    "12-Casos-Aplicacion/02-migracion-cloud.md",
+    "12-Casos-Aplicacion/01-transformacion-digital.md",
+    "12-Casos-Aplicacion/README.md",
+    "11-Cultura-Equipo/12-innovation-time.md",
+    "11-Cultura-Equipo/11-communities-practice.md",
+    "11-Cultura-Equipo/10-motivacion-devs.md",
+    "11-Cultura-Equipo/09-burnout-prevencion.md",
+    "11-Cultura-Equipo/08-diversidad-inclusion.md",
+    "11-Cultura-Equipo/07-career-ladders.md",
+    "11-Cultura-Equipo/06-mentoria-coaching.md",
+    "11-Cultura-Equipo/05-knowledge-sharing.md",
+    "11-Cultura-Equipo/04-collaboration-tools.md",
+    "11-Cultura-Equipo/03-remote-hybrid.md",
+    "11-Cultura-Equipo/02-psychological-safety.md",
+    "11-Cultura-Equipo/01-cultura-ingenieria.md",
+    "11-Cultura-Equipo/README.md"
+  ]
+}
