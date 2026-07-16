@@ -41,6 +41,10 @@ Los servidores MCP (Model Context Protocol) extienden las capacidades del harnes
 
 Plugins aportan hooks y herramientas personalizadas escritas en JavaScript. Se alojan en `.opencode/plugins/` y se registran en `opencode.json`.
 
+> Para una guía completa del sistema de plugins, ver [[13-Sistema-de-Plugins|Sistema de Plugins]].
+> Para el API de hooks, ver [[14-Hooks-Referencia-Completa|Hooks — Referencia Completa]].
+> Para crear tools via plugins, ver [[16-Creando-Tools-via-Plugins|Creando Tools vía Plugins]].
+
 ## Custom Tools
 
 Las herramientas personalizadas se definen con JSON Schema en `opencode.json`:

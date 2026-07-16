@@ -66,6 +66,11 @@ Configura harness completos en OpenCode siguiendo mejores prácticas.
 10. [[Módulo 6 — Harness en OpenCode/10-Skills-y-Aprendizaje-Bajo-Demanda|Skills y Aprendizaje Bajo Demanda]]
 11. [[Módulo 6 — Harness en OpenCode/11-Arquitecturas-Multi-Agente-y-Flujos|Arquitecturas Multi-Agente y Flujos]]
 12. [[Módulo 6 — Harness en OpenCode/12-Poniendolo-Todo-Junto|Poniéndolo Todo Junto]]
+13. [[Módulo 6 — Harness en OpenCode/13-Sistema-de-Plugins|Sistema de Plugins]]
+14. [[Módulo 6 — Harness en OpenCode/14-Hooks-Referencia-Completa|Hooks — Referencia Completa]]
+15. [[Módulo 6 — Harness en OpenCode/15-TUI-Customizacion-y-Dialogs|TUI — Customización y Dialogs]]
+16. [[Módulo 6 — Harness en OpenCode/16-Creando-Tools-via-Plugins|Creando Tools vía Plugins]]
+17. [[Módulo 6 — Harness en OpenCode/17-Caso-Practico-Plugin-Completo|Caso Práctico — Plugin Completo]]
 
 ### 📚 [[Recursos/Glosario|Recursos]]
 

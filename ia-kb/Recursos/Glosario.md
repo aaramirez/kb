@@ -22,9 +22,17 @@
 
 **Glob** — Patrón para buscar archivos usando comodines (ej: `**/*.js`).
 
+## H
+
+**Hook** — Callback event-driven que un plugin suscribe para interceptar o modificar el comportamiento de opencode en puntos específicos del ciclo de vida (tools, LLM, permisos, sesiones, shell). Cada hook recibe un `input` (contexto) y un `output` (objeto mutable). Ver [[14-Hooks-Referencia-Completa|Hooks — Referencia Completa]].
+
 ## I
 
 **Issue** — Tarea, bug o mejora registrada en un sistema de tracking (GitHub Issues, Jira, etc.).
+
+## K
+
+**KV Store** — Almacén key-value persistente disponible para plugins TUI. Almacenado en `state/kv.json`. No está namespaced por plugin — todos comparten el mismo store. Ver [[15-TUI-Customizacion-y-Dialogs|TUI — Customización y Dialogs]].
 
 ## M
 
@@ -38,7 +46,10 @@
 
 ## P
 
-**Plugin** — Extensión de opencode que permite personalizar el comportamiento del agente (hooks, configuración custom).
+**Plugin** — Módulo JS/TS que se ejecuta dentro del proceso de opencode para extender sus capacidades. Existen dos tipos:
+- **Plugin (Server)**: intercepta eventos del backend (tools, LLM, permisos, sesiones). Se configura en `opencode.json`.
+- **Plugin (TUI)**: extiende la interfaz de terminal con rutas, dialogs, keybindings, slots y themes. Se configura en `tui.json`.
+Ver [[13-Sistema-de-Plugins|Sistema de Plugins]].
 
 **Prompt** — Instrucción o pregunta que se le da a un modelo de IA para generar una respuesta.
 
@@ -46,7 +57,9 @@
 
 ## S
 
-**Skill** — Conjunto de instrucciones especializadas en formato SKILL.md que se carga según la tarea. Las skills son reutilizables entre opencode y Claude Code.
+**Skill** — Conjunto de instrucciones especializadas en formato SKILL.md que se carga bajo demanda cuando el agente la invoca. Las skills son reutilizables y se almacenan en `.opencode/skills/<nombre>/SKILL.md`. Ver [[10-Skills-y-Aprendizaje-Bajo-Demanda|Skills y Aprendizaje Bajo Demanda]].
+
+**Slot** — Punto de extensión en la UI de opencode donde un plugin TUI puede inyectar contenido JSX. Slots built-in incluyen `home_logo`, `session_prompt`, `sidebar_content`, etc. Ver [[15-TUI-Customizacion-y-Dialogs|TUI — Customización y Dialogs]].
 
 **Spec (Specification)** — Documento detallado que describe qué debe hacer una funcionalidad, incluyendo criterios de aceptación.
 
@@ -54,4 +67,6 @@
 
 ## T
 
-**Tool (Herramienta)** — Capacidad que tiene un agente para interactuar con el entorno: leer/escribir archivos, ejecutar comandos, hacer peticiones web, etc.
+**Tool (Herramienta)** — Capacidad que tiene un agente para interactuar con el entorno: leer/escribir archivos, ejecutar comandos, hacer peticiones web, etc. Las tools se definen con JSON Schema o Zod y se ejecutan en el contexto del agente. Ver [[16-Creando-Tools-via-Plugins|Creando Tools vía Plugins]].
+
+**TUI (Terminal User Interface)** — Interfaz de usuario basada en terminal, construida con SolidJS en opencode. Soporta JSX, themes, keybindings, navegación por teclado, dialogs, y personalización vía plugins. Ver [[15-TUI-Customizacion-y-Dialogs|TUI — Customización y Dialogs]].

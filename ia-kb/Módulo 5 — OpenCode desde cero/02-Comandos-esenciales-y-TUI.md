@@ -79,6 +79,10 @@ OpenCode tiene dos modos principales que se alternan con `/plan` y `/build`:
 - Usa `/clear` entre tareas no relacionadas para evitar contaminación de contexto
 - Aprende los atajos de teclado para no sacar las manos del teclado
 
+## TUI Avanzada
+
+La TUI de opencode se puede personalizar profundamente vía plugins: dialogs, rutas custom, themes, keybindings, slots, toasts, y acceso al estado del sistema. Para una guía completa, ver [[15-TUI-Customizacion-y-Dialogs|TUI — Customización y Dialogs]] en el Módulo 6.
+
 ## Enlaces
 
 - [[01-Instalacion-y-primeros-pasos|Anterior: Instalación y primeros pasos]]

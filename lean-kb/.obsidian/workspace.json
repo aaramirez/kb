@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Vertientes/5l-Lean-Change/01-lean-change-vista-general.md",
+                "file": "lean-glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-lean-change-vista-general"
+              "title": "lean-glossary"
             }
           }
         ]
@@ -185,13 +185,17 @@
   },
   "active": "0a77fe42b4d04b3d",
   "lastOpenFiles": [
+    "01-Fundamentos/03-toyota-way-14-principios.md",
+    "01-Fundamentos/02-toyota-production-system.md",
+    "01-Fundamentos/01-que-es-lean.md",
+    "01-Fundamentos/01-historia-lean.md",
+    "Index.md",
     "05-Vertientes/5l-Lean-Change/01-lean-change-vista-general.md",
     "07-Implementacion/19-sostenibilidad-lean.md",
     "07-Implementacion/18-roadmap-implementacion-lean.md",
     "07-Implementacion/17-dashboard-kpi-lean.md",
     "07-Implementacion/16-metricas-lean.md",
     "07-Implementacion/15-contabilidad-lean.md",
-    "01-Fundamentos/01-historia-lean.md",
     "07-Implementacion/14-proceso-catchball.md",
     "07-Implementacion/13-despliegue-hoshin-kanri.md",
     "07-Implementacion/12-liderazgo-gemba.md",
@@ -207,10 +211,6 @@
     "06-Complementarias/08-toc-cinco-pasos.md",
     "08-Ruta-Aprendizaje/05-lecturas-recomendadas.md",
     "07-Implementacion/06-gestion-del-cambio-lean.md",
-    "06-Complementarias/07-doe-diseno-experimentos.md",
-    "07-Implementacion/05-liderazgo-lean.md",
-    "08-Ruta-Aprendizaje/04-guia-certificacion.md",
-    "06-Complementarias/06-spc-control-estadistico.md",
     "08-Ruta-Aprendizaje",
     "07-Implementacion",
     "06-Complementarias",
