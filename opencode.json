@@ -70,6 +70,14 @@
     "plan": {
       "description": "Generate a detailed requirements plan in plans/ with TDD philosophy",
       "template": "Create a detailed implementation plan for: $ARGUMENTS. Follow the TDD process: understand the request, research the codebase, create a plan document in plans/<feature-slug>.md with objective, requirements, architecture decisions, file changes, TDD flow, and verification steps. Write failing tests first, then implement, then verify."
+    },
+    "getrepo": {
+      "description": "Clone reference repositories defined in repos.json",
+      "template": "Clone the repository defined in repos.json into references/. Read repos.json, clone the specified repo (or all if 'all' is passed). Run: node .opencode/scripts/repos-sync.js get $ARGUMENTS"
+    },
+    "updaterepo": {
+      "description": "Update reference repositories already cloned in references/",
+      "template": "Update the repository already cloned in references/ with latest changes. Read repos.json, pull latest for the specified repo (or all if 'all' is passed). Run: node .opencode/scripts/repos-sync.js update $ARGUMENTS"
     }
   },
 

@@ -2,6 +2,7 @@
   {
     "name": "owner/repo",
     "url": "https://github.com/owner/repo.git",
+    "branch": "main",
     "description": "Description of this reference repo"
   }
 ]

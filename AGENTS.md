@@ -47,6 +47,7 @@ lean-ai/
 
 | Skill | Description |
 |-------|-------------|
+| architecture-creator | Create multi-agent architecture patterns — orchestrator, tiered, peer, or chain delegation models. |
 | branding | Define and apply brand identity — colors, logos, and typography for all generated documents. Use when creating or customizing visual assets. |
 | ci-validate | Validate project integrity — required files, placeholders, frontmatter, and structural consistency. |
 | code-review | Use for reviewing pull requests, performing code audits, and enforcing quality standards. |
@@ -66,6 +67,7 @@ lean-ai/
 
 | Script | Type |
 |--------|------|
+| .opencode/scripts/create-base.js | file |
 | .opencode/scripts/ci-validate.js | file |
 | .opencode/scripts/create-brand.js | file |
 | .opencode/scripts/docgen | dir |
@@ -95,6 +97,8 @@ lean-ai/
 | `arai generate command <name>` | Create opencode command |
 | `arai generate brand` | Set brand identity (colors, logos) |
 | `arai generate kb [dir]` | Create Obsidian vault (`--force` to overwrite) |
+| `/getrepo <name\|all>` | Clone reference repos from repos.json into references/ |
+| `/updaterepo <name\|all>` | Update reference repos already cloned in references/ |
 
 ## When working
 
