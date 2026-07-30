@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lean-glossary.md",
+                "file": "06-Implementacion/02-ciclo-lean-change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lean-glossary"
+              "title": "02-ciclo-lean-change"
             }
           }
         ]
@@ -185,6 +185,10 @@
   },
   "active": "0a77fe42b4d04b3d",
   "lastOpenFiles": [
+    "02-Modelos/02-lean-change-framework.md",
+    "02-Modelos/01-modelo-kotter.md",
+    "01-Fundamentos/02-evolucion-cambio-organizacional.md",
+    "01-Fundamentos/01-que-es-lean-change.md",
     "01-Fundamentos/03-toyota-way-14-principios.md",
     "01-Fundamentos/02-toyota-production-system.md",
     "01-Fundamentos/01-que-es-lean.md",
@@ -207,10 +211,6 @@
     "07-Implementacion/08-modelo-madurez.md",
     "06-Complementarias/09-plantilla-reporte-8d.md",
     "08-Ruta-Aprendizaje/06-autoevaluacion.md",
-    "07-Implementacion/07-evaluacion-lean.md",
-    "06-Complementarias/08-toc-cinco-pasos.md",
-    "08-Ruta-Aprendizaje/05-lecturas-recomendadas.md",
-    "07-Implementacion/06-gestion-del-cambio-lean.md",
     "08-Ruta-Aprendizaje",
     "07-Implementacion",
     "06-Complementarias",
