@@ -100,6 +100,37 @@ lean-ai/
 | `/getrepo <name\|all>` | Clone reference repos from repos.json into references/ |
 | `/updaterepo <name\|all>` | Update reference repos already cloned in references/ |
 
+## ytpeople-kb — Knowledge base de empresarios de tecnología
+
+KB con conocimiento de emprendedores y referentes de tecnología basado en transcripciones fieles de YouTube, en `ytpeople-kb/`.
+
+### Estructura
+
+```
+ytpeople-kb/
+  ├── Index.md                        Índice general con lista de canales/personas
+  ├── como-usar-este-kb.md            Guía de uso del KB
+  └── <Persona>/                      Una carpeta por persona/canal
+      ├── Index.md                    Índice del canal con videos y links a YouTube
+      ├── <slug-tema>.md              Nota estructurada (título = tema del contenido)
+      └── 01-Transcripciones/
+          └── <videoId> - <slug>.md   Transcripción legible del video
+```
+
+### Flujo para agregar un video
+
+1. Obtener la transcripción: `node .opencode/scripts/youtube-transcript.js <videoId> --lang es`
+2. Guardar los segmentos con timestamps y crear la transcripción legible en `01-Transcripciones/`: markdown con timestamps, párrafos reconstruidos y secciones `##`, fiel al contenido original.
+3. Crear la nota estructurada con el **título basado en el tema del video** (no el videoId). Formato: frontmatter (title, person, channel, videoId, source, created, aliases, related) + `## Resumen` + contenido reorganizado por temas + `## Referencias` con wikilink a la transcripción.
+4. Agregar la fila al `Index.md` de la persona con los wikilinks `[[slug-tema]]` y `[[videoId - slug|Transcripción]]` (escapar el pipe como `\|` dentro de la tabla).
+5. Ejecutar la validación: `node tests/test-ytpeople-kb.js`
+
+### Reglas de naming
+
+- Nombre de la nota: slug del tema del video, kebab-case, sin acentos.
+- Wikilinks dentro de tablas: escapar el pipe como `\|`.
+- Transcripciones siempre verbatim/legibles: nunca resumidas.
+
 ## When working
 
 - Follow the existing code style (see `.opencode/rules/code-style.md`)

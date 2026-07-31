@@ -23,11 +23,11 @@ Knowledge base para implementar agentes de IA en una empresa de telecomunicacion
 
 ### Por nivel de experiencia
 
-| Nivel | Secciones | Tiempo estimado |
-|-------|-----------|-----------------|
-| **Principiante** | [[01-Fundamentos/README]] → [[02-Metodologia/README]] | 2-3 horas |
-| **Intermedio** | [[03-Harness-Por-Rol/README]] → [[04-Agentes-Clientes/README]] | 4-6 horas |
-| **Avanzado** | [[06-Arquitectura/README]] → [[07-Retos-Soluciones/README]] | 3-4 horas |
+| Nivel            | Secciones                                                      | Tiempo estimado |
+| ---------------- | -------------------------------------------------------------- | --------------- |
+| **Principiante** | [[01-Fundamentos/README]] → [[02-Metodologia/README]]          | 2-3 horas       |
+| **Intermedio**   | [[03-Harness-Por-Rol/README]] → [[04-Agentes-Clientes/README]] | 4-6 horas       |
+| **Avanzado**     | [[06-Arquitectura/README]] → [[07-Retos-Soluciones/README]]    | 3-4 horas       |
 
 ### Por área de trabajo
 
