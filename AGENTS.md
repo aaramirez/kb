@@ -131,6 +131,29 @@ ytpeople-kb/
 - Wikilinks dentro de tablas: escapar el pipe como `\|`.
 - Transcripciones siempre verbatim/legibles: nunca resumidas.
 
+## arnes-kb — Arnés (harness engineering)
+
+KB sobre harness engineering —el entorno que rodea a un modelo (contexto, herramientas, memoria, bucles, evals, sandbox, orquestación) para convertirlo en un agente confiable—, construido a partir de los 57 videos de la playlist [Harness](https://www.youtube.com/playlist?list=PLQ-6al9D-7mk), en `arnes-kb/`.
+
+### Estructura
+
+```
+arnes-kb/
+  ├── Index.md                        Índice: videos por tema y tabla de la playlist completa
+  ├── como-usar-este-kb.md            Guía de uso, flujo de ingesta y convenciones
+  ├── 01-Transcripciones/
+  │   └── <videoId> - <slug>.md       Transcripción fiel en el idioma original, con timestamps y secciones ##
+  └── 02-Notas/
+      └── <slug>.md                   Nota en español (Resumen, Contenido estructurado, Conceptos clave, Referencias)
+```
+
+### Flujo para agregar un video
+
+1. Obtener la transcripción en el idioma original del audio siguiendo el skill `youtube` (sección "Descargas en lote: siempre en modo lento").
+2. Crear la transcripción legible en `01-Transcripciones/` y la nota en `02-Notas/` con tags `arnes/nota` + 1–3 tags de tema (`arnes/fundamentos`, `arnes/construccion`, `arnes/contexto-y-memoria`, …; ver `como-usar-este-kb.md`).
+3. Registrar el video en `Index.md` (tabla de la playlist y grupo temático).
+4. Ejecutar la validación: `node tests/test-arnes-kb.js`
+
 ## When working
 
 - Follow the existing code style (see `.opencode/rules/code-style.md`)

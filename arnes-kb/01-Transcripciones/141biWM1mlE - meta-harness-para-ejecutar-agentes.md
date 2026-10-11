@@ -1,0 +1,72 @@
+---
+title: "Transcripción: This Meta-Harness Changes How You Run AI Agents"
+type: transcripcion
+channel: "Prompt Engineering"
+videoId: "141biWM1mlE"
+source: "https://www.youtube.com/watch?v=141biWM1mlE"
+language: "en"
+playlistOrder: 44
+created: 2026-10-10
+tags:
+  - arnes/transcripcion
+related:
+  - "[[meta-harness-para-ejecutar-agentes]]"
+---
+
+# This Meta-Harness Changes How You Run AI Agents
+
+> Video original: https://www.youtube.com/watch?v=141biWM1mlE
+> Canal: Prompt Engineering — duración 14:09 — idioma: inglés (subtítulos auto-generados)
+> Nota estructurada: [[meta-harness-para-ejecutar-agentes]]
+
+## Introducción: agentes aislados y qué es un harness
+
+[0:00] Most of us don't use a single AI agent. We use multiple of them for different purposes because each one of them have their own capabilities. But none of them can see each other. You are the one connecting them. Copy, paste, and repeat. Now, every agent is trapped in its own box, but what if they were not? Now, an agent today is basically the model plus the harness. A model on its own just predicts text. A harness is everything wrapped around it that gets the work done. It usually includes agent loop, tools, memories, and a UI. Codex, Cloud, Code, Pi, each one is a harness with similar ideas, but very different implementations. And different capabilities. Now, line up the agents that you actually use. The here are four different harnesses side by side. Each one has its own memory, its own UI, its own tools.
+
+## El problema del lock-in y la interfaz común de los harnesses
+
+[0:54] And no harness can see the other one. No shared session, no shared history. Now, we usually work simultaneously in most of them, but what if you can put everything under a single roof? Now, if you build agents on top of them, the wall hurts from the other side. When a better model ships, say a new SDK or a stronger harness, to adopt it, you replumb everything you built and the cost climbs. You are basically locked to the layer you started on. Now, but if you look closer at any harness, however different they are from the inside, everyone speaks the same language on the outside. There are messages and files in, text and tool calls out. So, it's a great advantage that they have exactly this identical interface. Now, if the interface is identical, you can build one layer over all of them. Take the harness you already use and slide one rail underneath them.
+
+## Meta-harness: Omni de Databricks y su arquitectura
+
+[1:50] Every harness becomes an interchangeable worker. So, a harness sits over a model and this layer sits over the harness. We can call this a meta harness. This is exactly what Databricks just open-sourced. They are calling it Omni. It's a meta harness for all your AI agents. It's Apache 2.0, so you can build on top of it. It's one command, and every agent you have runs under one roof. They use it internally, so it's a battle-tested. Under the hood, it has three different pieces. On the left, you bring your agents. These include proprietary agents like Cloud Code, Codex, or your custom agents, which you can set up in the form of a YAML file. Then, runner wraps any of them in one uniform sandbox session.
+
+[2:42] A server adds search history, policies, MCPs, skills, and artifacts. It's Postgres and deploys everywhere. You can run this on Docker, Railway, Fly, or Cloud Sandbox. And it exposes that one session everywhere, whether you want to access it through terminal, web native app, mobile, or a REST API, which is pretty great, because you can now use the same interface interacting with Codex, Cloud Code, Pi, or any agent of your choice. Now, because the session lives in the layer, not the tool, there is just one session object, which is your agent files and history. Every device is just a window onto it. You can start in your terminal, continue in the browser, or pick it up on your phone, which is pretty awesome, because you have the same agent, same files, just different interfaces, which are in sync, and you can work from anywhere.
+
+## Composición: agentes en YAML, Polly y revisión entre proveedores
+
+[3:38] Okay, now let's talk about the capabilities. This is an open-source meta harness. The beauty is that you can customize it for your own need, if you want. Let's first talk about what exactly does it unlock. The first one is composition. An agent is just a short YAML file which includes a prompt, some tools, and a harness. Switching from Claude to Codex is one-line change. And you can run several at once as a team. Now, agents can even write agents. You can just describe one and it authors the file. Now, they ship with two different ready-made agents. The first one is Polly. Polly does not write any code. It's the tech lead. It plans and splits the work across coding agents in parallel, get work trees, then routes each diff to a reviewer from a different vendor than which wrote the code.
+
+[4:33] So, say Claude codes is reviewed by Codex code is reviewed by Claude. And when you're happy with the results, you just merge it. So, cross-vendor review only works about the harness. Now, this planner, executor, and reviewer or verify by patterns is extremely important. Especially, you don't want the same agent that wrote the code to review its code because it has internal biases. And OmniJade makes it extremely easy. Now, the second built-in agent is called Debbie, which basically is a brainstorm partner with two heads. So, the two are Claude and GPT. You can I think bring your own one as well. Every question goes to both at once. You will get two answers side by side.
+
+## Debbie y debate; control mediante gates de políticas
+
+[5:22] But here's the fun part. If you type {slash} debate, these are going to critique each other for a few rounds, then converge. A lot of people plan with say Codex and then implement with Claude code or the other way around. You could do that. Or if you have to make an architectural decision, this agent can be extremely helpful. Okay, the second big unlock that this provides is control. Now, in this case every action passes through a gate, allow deny or ask you first. Now, the thing is that this is not just a polite request in a prompt. It is enforced on every tool call. And because it lives in the layer, the rules can depend on history. This is going to be extremely important, especially if you want to impose cost gaps, risk scores, repo and file scopes.
+
+## Sandbox del SO, secretos y colaboración en vivo
+
+[6:13] Or even things like PPI scans, everything is built in. Now, this is important, especially if you don't want to have YOLO runs and really want to make sure that there are specific follow policies that the agents follow. Okay, so how exactly all of this work? Well, underneath all of this is the OS sandbox. So, every agent runs boxed in. It can only touch the files and network you allow. Now, another most important feature is that it the agents cannot directly read your secret keys. The agent actually never sees this. The layer injects it on the way out through an approval proxy. So, even if you're running the YOLO mode, it is going to be a lot safer than just providing it access to the agent. Now, the third biggest unlock this provides is collaboration. When your session is live and you're driving it, you can share a link and a teammate can watch the work or even chat with it in real time. So, basically this is code driving and collaboration. The beauty is that their messages run on your machine.
+
+## Demo: instalación y configuración local
+
+[7:27] Or you can simply fork it and take the conversation your own way. Okay, let me show you a quick demo of how exactly this works in practice. Thanks to Databricks for giving me early access in making this video possible through their sponsorship. In the rest of the video, I'll show you how to set it up and use it locally. All you need to do is just run this command to install the meta harness. Now, after installation, the first thing you want to do is to set up this on your local machine. Right now, I'm using my cloud code subscription, code x subscription, and Pi is using Ollama. In each one of this case, you can add your own API keys or use your subscription. Then, you can use coding agent of your choice. So, say you can use the cloud code harness or code x harness.
+
+[8:20] Or you can also use some of the built-in agents. They have Poly, which is basically a multi-agent orchestration setup. Now, keep in mind, Omni harness is not a coding harness. It basically enables you to interact with these multiple harnesses directly. So, Poly doesn't write code itself. It decomposes your goal into subtasks and delegates each one of them into a subagent running on its own harness and get work tree. So, in my case, you can just directly start this orchestrator agent. Now, whenever you start a session, you're going to see that it opens up this web UI along with the actual terminal window. So, either you can work here in the terminal or in the web UI or even there is a desktop app.
+
+## Demo: tarea orquestada con Claude Code y Codex
+
+[9:08] The beauty is that all of them are going to be sharing the exact same session. To show you a quick example, I'm going to describe a task. Create a single-page web UI that uses the Gemini Nano Banana model for image generation. User provides input in the form of text. The output is going to be an image. Also, add the ability for the user to provide their API key within and UI. Now, we can just send this. Okay, so on my machine, it wasn't actually able to see the Pine and Cloud Code CLI. Uh so, I simply asked it to configure those for me, and it went ahead and configured everything. Which is pretty awesome. But more interestingly, you actually see the same conversation happening exactly in the terminal where I started this.
+
+[10:01] Right? So, these are different interfaces which are interacting with the exact same session. Now, in this case, it's going to use Cloud Code to implement things. Then for review, it's going to use CodeX. And it says that it runs autonomously and will wake me up when it's done. Right? So, it seems like the process is running. If we look back, uh here are basically the agents working under the hood. So, it gives you visibility to what exactly every agent is doing. So, right now it's autonomously testing the app. Okay, so it quickly tested the app. Seems to be working. Now, on the meta harness side, right now the implementation is done by Cloud Code. Then it started the independent verification step. For this, it's using CodeX. Now, the interesting thing is that it's going to be only passing on the diffs cuz there are different work trees where these agents or harnesses are working independently.
+
+## Interacción directa, sesiones compartidas y costos
+
+[10:58] Now, another feature is that you can just directly interact with a specific agent or harness. Which is pretty neat, right? So, right now CodeX is reviewing the code, but you can go and ask Cloud Code something. Now, here's another browser session that I opened. I see exactly the same processing happening. So, you could just potentially deploy this in the cloud and then share the link from here with your coworker, and they will be able to interact with the exact same session that is running in the cloud. Or if it's via local network, you can have the session running on your machine and your teammates will be able to interact with that. So, it's great for collaboration. Okay, so a couple of other features I think are going to be very important for everybody who's building with this, especially given the cost of these API based models is crazy right now. So, you can actually see the session cost.
+
+[11:54] It gives you a breakdown of what exactly was done, how many tokens was consumed by each one of these models, but then you can set up different policies. [clears throat] And I think this is very important. You can have, let's say, limit tool calls or for the specific session, uh maybe deny PPI and other requests, right? So, these are contextual policies that you can set. Even you can set access to different tools or connectors, but what I would highly recommend is to set the cost. So, you can have a session cost budget or for user daily cost budget. I think this is going to be more and more important for organizations. So, just to give you an example, I would say like $10, right? And then you can define different thresholds based on soft warnings.
+
+## Resultado final y conclusiones
+
+[12:46] Okay, so here's the app that is running. It has a link to the Google AI Studio. Now, here here was the initial implementation from Cloud Code. Then there was a independent review from Codex and you can actually see that it specifically found issues. Those were sent back. The implementation was done again, tested again, right? And this is kind of the loop that you want. Now, you can write this orchestration logic yourself, but OmniGen ships this with their polyagent. So, here's the final app that it created. A picture of a starfish wearing sunglasses jumping with happiness. All right, so we're going to see. This is pretty awesome. Okay, there is a lot more to cover, but do check out Omnigen. It's an open source model. I think this meta harness of orchestration layer is going to be very critical, especially when you have these different harnesses designed for custom tasks with different capabilities.
+
+[13:49] It's a very awesome project. Still really early days. There might be some tweaks that you'll need, but since this is open source, I think this is going to grow really fast. Again, thanks to Databricks for giving me early access and making this video possible. Anyways, I hope you found this video useful. Thanks for watching and as always, see you in the next one.
