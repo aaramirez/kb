@@ -24,6 +24,7 @@ Por cada video hay dos archivos:
 ## Cómo navegarlo
 
 - [[Index]] — todos los videos en el orden de la playlist y agrupados por tema.
+- [[matriz-problema-conocimiento]] — problemas concretos (diagnosticar fallos, memoria, evals, producción…) mapeados a las notas que aplican.
 - Filtra por tags de tema en Obsidian: `arnes/fundamentos`, `arnes/construccion`, `arnes/contexto-y-memoria`, `arnes/herramientas-y-sandbox`, `arnes/evals-y-observabilidad`, `arnes/orquestacion-multiagente`, `arnes/fabricas-de-software`, `arnes/flujos-de-trabajo`, `arnes/ontologias`, `arnes/frameworks`, `arnes/produccion`, `arnes/opinion`.
 - Para citar o verificar un dato, salta de la nota a la transcripción y busca el timestamp.
 
