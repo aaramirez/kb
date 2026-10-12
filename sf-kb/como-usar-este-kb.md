@@ -37,7 +37,7 @@ Los backlinks muestran qué notas enlazan a la nota actual. Útiles para navegar
 
 ## Navegación por Secciones
 
-El vault tiene 12 secciones principales:
+El vault tiene 13 secciones principales:
 
 - **01-Fundamentos**: Qué es, historia, principios
 - **02-Estructura**: Roles, equipos, gobernanza
@@ -51,6 +51,15 @@ El vault tiene 12 secciones principales:
 - **10-Gestión-Proyectos**: Estimación, OKRs, SLAs
 - **11-Cultura-Equipo**: Cultura, remoto, mentoring
 - **12-Casos-Aplicación**: Transformación, checklists
+- **13-Fabricas-con-IA**: Videos sobre software factories habilitadas por IA — cada uno con nota en español (`02-Notas/`, enlazada a las notas conceptuales relacionadas) y transcripción fiel (`01-Transcripciones/`)
+
+### Agregar videos a la sección 13
+
+1. Obtener la transcripción en el idioma original siguiendo el skill `youtube` (sección "Descargas en lote: siempre en modo lento").
+2. Crear la transcripción legible en `13-Fabricas-con-IA/01-Transcripciones/<videoId> - <slug>.md` (timestamps `[M:SS]` y secciones `##`, contenido fiel).
+3. Crear la nota en `13-Fabricas-con-IA/02-Notas/<slug>.md` con `## Resumen`, `## Contenido estructurado`, `## Conceptos clave`, `## Relación con el SF KB` (2–5 notas conceptuales de las secciones 01–12) y `## Referencias`.
+4. Registrar el video en `13-Fabricas-con-IA/README.md`.
+5. Validar: `node tests/test-sf-kb.js`
 
 ## Sistema de Tags
 
@@ -58,6 +67,7 @@ El vault tiene 12 secciones principales:
 - `sf/fundamentos`, `sf/estructura`, `sf/procesos`, `sf/practicas`
 - `sf/herramientas`, `sf/metricas`, `sf/ia-software`, `sf/calidad`
 - `sf/devops`, `sf/gestion`, `sf/cultura`, `sf/casos`
+- `sf/fabricas-ia` — notas y transcripciones de videos de la sección 13 (combinado con 1–3 tags de sección)
 
 ### Tags de Tipo
 - `type/concepto` — Definición y explicación
@@ -68,6 +78,8 @@ El vault tiene 12 secciones principales:
 - `type/agente` — Agente de IA
 - `type/arquitectura` — Arquitectura o patrón
 - `type/protocolo` — Protocolo o estándar
+- `type/nota` — Nota de un video (sección 13)
+- `type/transcripcion` — Transcripción fiel de un video (sección 13)
 
 ### Niveles de Dificultad
 - `difficulty/principiante` — Sin prerrequisitos

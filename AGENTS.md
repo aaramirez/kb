@@ -154,6 +154,12 @@ arnes-kb/
 3. Registrar el video en `Index.md` (tabla de la playlist y grupo temático).
 4. Ejecutar la validación: `node tests/test-arnes-kb.js`
 
+## sf-kb — Sección 13: Software Factories con IA (videos)
+
+`sf-kb/` es un KB conceptual de 12 secciones sobre software factories. La sección `13-Fabricas-con-IA/` lo complementa con los videos de la playlist [Software Factories](https://www.youtube.com/playlist?list=PLfZlklpUd4zY): `README.md` (videos por tema y tabla de la playlist), `01-Transcripciones/<videoId> - <slug>.md` (transcripción fiel) y `02-Notas/<slug>.md` (nota en español con `## Relación con el SF KB`, que enlaza 2–5 notas conceptuales de las secciones 01–12 con rutas relativas `[[../../NN-Seccion/archivo|…]]`).
+
+Flujo para agregar un video: ver "Agregar videos a la sección 13" en `sf-kb/como-usar-este-kb.md`. Validación: `node tests/test-sf-kb.js`
+
 ## When working
 
 - Follow the existing code style (see `.opencode/rules/code-style.md`)

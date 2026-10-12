@@ -16,7 +16,7 @@ aliases:
 
 Bienvenido a la **SF Knowledge Base**, un vault de Obsidian diseñado para comprender cómo funciona, se estructura y evoluciona una Software Factory moderna en la era de la inteligencia artificial.
 
-Este conocimiento está organizado en 12 secciones que cubren desde fundamentos hasta la aplicación práctica de IA en el desarrollo de software. Cada nota está interconectada mediante wikilinks.
+Este conocimiento está organizado en 13 secciones que cubren desde fundamentos hasta la aplicación práctica de IA en el desarrollo de software. Cada nota está interconectada mediante wikilinks.
 
 ## Navegación Rápida
 
@@ -34,6 +34,7 @@ Este conocimiento está organizado en 12 secciones que cubren desde fundamentos 
 | 10 | [[10-Gestion-Proyectos/README\|Gestión de Proyectos]] | Estimación, OKRs, SLAs |
 | 11 | [[11-Cultura-Equipo/README\|Cultura y Equipo]] | Cultura, remoto, mentoring |
 | 12 | [[12-Casos-Aplicacion/README\|Casos y Aplicación]] | Transformación, checklists, playbook |
+| 13 | [[13-Fabricas-con-IA/README\|Software Factories con IA (videos)]] | Fábricas de software habilitadas por IA: notas y transcripciones de 10 charlas |
 
 ## ¿Qué Aprenderás?
 
@@ -45,6 +46,7 @@ Este conocimiento está organizado en 12 secciones que cubren desde fundamentos 
 - **Calidad y seguridad**: Testing, DevSecOps, compliance
 - **DevOps e infraestructura**: Containers, K8s, GitOps, SRE
 - **Cultura de equipo**: Remoto, mentoring, career ladders
+- **Fábricas con IA en la práctica**: Experiencias de practicantes (Dex Horthy, Factory, Warp, Tessl, Uber) construyendo software factories con agentes
 
 ## Punto de Partida Sugerido
 
