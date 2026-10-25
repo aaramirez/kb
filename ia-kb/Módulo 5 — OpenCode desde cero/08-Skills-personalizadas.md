@@ -133,5 +133,5 @@ Midudev creó una skill para **generar videos con HTML, CSS y JS** que:
 
 - [[07-Agents-y-agents-md|Anterior: Agents y agents.md]]
 - [[09-Comandos-personalizados|Siguiente: Comandos personalizados]]
-- [[Módulo 2 — Agentes/02-Configuracion-de-agentes|Configuración de agentes y skills]]
+- [[Módulo 2 - Agentes/02-Configuracion-de-agentes|Configuración de agentes y skills]]
 - Video: [Curso de OpenCode desde cero](https://www.youtube.com/watch?v=ZZq4TpNgnvg) — Capítulo 5

@@ -89,5 +89,5 @@ Agentes colaboran sin jerarquía fija, intercambiando información.
 ## Enlaces
 
 - [[02-Subagentes-y-roles|Siguiente: Subagentes y roles]]
-- [[Módulo 2 — Agentes/01-Que-es-un-agente|Concepto de agente]]
-- [[Módulo 2 — Agentes/02-Configuracion-de-agentes|Configuración de agentes]]
+- [[Módulo 2 - Agentes/01-Que-es-un-agente|Concepto de agente]]
+- [[Módulo 2 - Agentes/02-Configuracion-de-agentes|Configuración de agentes]]

@@ -69,5 +69,5 @@ Permitir que usuarios registrados accedan a la aplicación.
 ## Enlaces
 
 - [[04-Criterio-y-buenas-practicas|Anterior: Criterio y buenas prácticas]]
-- [[Módulo 2 — Agentes/01-Que-es-un-agente|Siguiente módulo: ¿Qué es un agente?]]
-- [[Módulo 3 — Multiagentes/03-Orquestacion-y-flujos|Orquestación basada en specs]]
+- [[Módulo 2 - Agentes/01-Que-es-un-agente|Siguiente módulo: ¿Qué es un agente?]]
+- [[Módulo 3 - Multiagentes/03-Orquestacion-y-flujos|Orquestación basada en specs]]

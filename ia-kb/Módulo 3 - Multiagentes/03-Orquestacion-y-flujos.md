@@ -71,7 +71,7 @@ Puedes crear comandos que ejecuten flujos completos:
 
 ## Especificaciones como hilo conductor
 
-Las [[Módulo 1 — Fundamentos/05-Especificaciones|specs]] son el contrato entre agentes:
+Las [[Módulo 1 - Fundamentos/05-Especificaciones|specs]] son el contrato entre agentes:
 
 ```
 Agente Plan   → escribe spec
@@ -95,4 +95,4 @@ Agente Docs   → documenta basado en la spec
 
 - [[02-Subagentes-y-roles|Anterior: Subagentes y roles]]
 - [[04-Caso-practico-completo|Siguiente: Caso práctico completo]]
-- [[Módulo 1 — Fundamentos/05-Especificaciones|Spec-driven development]]
+- [[Módulo 1 - Fundamentos/05-Especificaciones|Spec-driven development]]

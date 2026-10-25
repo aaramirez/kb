@@ -77,5 +77,5 @@ Agente especializado con permisos limitados. Se invoca desde el agente principal
 ## Enlaces
 
 - [[02-Configuracion-de-agentes|Siguiente: Configuración de agentes]]
-- [[Módulo 1 — Fundamentos/03-Herramientas-y-MCP|Herramientas y MCP]]
-- [[Módulo 3 — Multiagentes/01-Arquitectura-multiagente|Arquitectura multiagente]]
+- [[Módulo 1 - Fundamentos/03-Herramientas-y-MCP|Herramientas y MCP]]
+- [[Módulo 3 - Multiagentes/01-Arquitectura-multiagente|Arquitectura multiagente]]

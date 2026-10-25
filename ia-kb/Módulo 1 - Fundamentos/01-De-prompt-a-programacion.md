@@ -42,4 +42,4 @@ La IA es como un **junior muy rápido pero que a veces alucina**. Siempre hay qu
 ## Recursos
 
 - [[02-Prompts-efectivos|Siguiente: Prompts efectivos]]
-- [[Módulo 1 — Fundamentos/05-Especificaciones|Especificaciones como base del desarrollo]]
+- [[Módulo 1 - Fundamentos/05-Especificaciones|Especificaciones como base del desarrollo]]

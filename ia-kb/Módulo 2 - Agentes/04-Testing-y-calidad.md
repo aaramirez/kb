@@ -89,4 +89,4 @@ Pídele a la IA que identifique código no cubierto y genere tests específicos.
 
 - [[03-Planificacion-con-agentes|Anterior: Planificación]]
 - [[05-Documentacion-automatica|Siguiente: Documentación automática]]
-- [[Módulo 1 — Fundamentos/04-Criterio-y-buenas-practicas|Criterio y revisión]]
+- [[Módulo 1 - Fundamentos/04-Criterio-y-buenas-practicas|Criterio y revisión]]

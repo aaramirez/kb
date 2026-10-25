@@ -131,6 +131,6 @@ Durante el video se construyó una **app de running** completa:
 
 - [[04-Ahorro-de-tokens-y-modo-shell|Anterior: Ahorro de tokens y modo shell]]
 - [[06-Modelos-y-suscripciones|Siguiente: Modelos y suscripciones]]
-- [[Módulo 1 — Fundamentos/05-Especificaciones|Especificaciones]]
-- [[Módulo 3 — Multiagentes/04-Caso-practico-completo|Casos prácticos multiagente]]
+- [[Módulo 1 - Fundamentos/05-Especificaciones|Especificaciones]]
+- [[Módulo 3 - Multiagentes/04-Caso-practico-completo|Casos prácticos multiagente]]
 - Video: [Curso de OpenCode desde cero](https://www.youtube.com/watch?v=ZZq4TpNgnvg) — Capítulo 3

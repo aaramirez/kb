@@ -105,5 +105,5 @@ OpenCode mantiene un **historial de comandos** que puedes navegar con `↑/↓`.
 
 - [[03-Modos-build-y-plan|Anterior: Modos build y plan]]
 - [[05-Construyendo-proyectos|Siguiente: Construyendo proyectos]]
-- [[Módulo 1 — Fundamentos/02-Prompts-efectivos|Prompts efectivos]]
+- [[Módulo 1 - Fundamentos/02-Prompts-efectivos|Prompts efectivos]]
 - Video: [Curso de OpenCode desde cero](https://www.youtube.com/watch?v=ZZq4TpNgnvg) — Capítulo 2

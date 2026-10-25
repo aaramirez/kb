@@ -99,5 +99,5 @@ OpenCode siempre pide confirmación antes de:
 
 - [[02-Comandos-esenciales-y-TUI|Anterior: Comandos esenciales y TUI]]
 - [[04-Ahorro-de-tokens-y-modo-shell|Siguiente: Ahorro de tokens y modo shell]]
-- [[Módulo 2 — Agentes/03-Planificacion-con-agentes|Planificación con agentes]]
+- [[Módulo 2 - Agentes/03-Planificacion-con-agentes|Planificación con agentes]]
 - Video: [Curso de OpenCode desde cero](https://www.youtube.com/watch?v=ZZq4TpNgnvg) — Capítulo 2

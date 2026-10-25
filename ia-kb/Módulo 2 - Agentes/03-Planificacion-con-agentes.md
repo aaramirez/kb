@@ -63,7 +63,7 @@ Las dependencias definen el orden de implementación.
 
 ### 3. Specs por tarea
 
-Cada tarea tiene su propia especificación detallada (ver [[Módulo 1 — Fundamentos/05-Especificaciones]]).
+Cada tarea tiene su propia especificación detallada (ver [[Módulo 1 - Fundamentos/05-Especificaciones]]).
 
 ## Ejemplo práctico
 
@@ -89,4 +89,4 @@ Cada fase tiene su propia spec con criterios de aceptación.
 
 - [[02-Configuracion-de-agentes|Anterior: Configuración de agentes]]
 - [[04-Testing-y-calidad|Siguiente: Testing y calidad]]
-- [[Módulo 3 — Multiagentes/03-Orquestacion-y-flujos|Orquestación de flujos]]
+- [[Módulo 3 - Multiagentes/03-Orquestacion-y-flujos|Orquestación de flujos]]

@@ -50,7 +50,7 @@ La documentación es lo primero que se abandona cuando hay presión. Los agentes
 
 ## Documentación viva desde specs
 
-Las [[Módulo 1 — Fundamentos/05-Especificaciones|especificaciones]] que escribes antes de codificar son el germen de la documentación. Al terminar, pídele a la IA que convierta las specs en documentación final.
+Las [[Módulo 1 - Fundamentos/05-Especificaciones|especificaciones]] que escribes antes de codificar son el germen de la documentación. Al terminar, pídele a la IA que convierta las specs en documentación final.
 
 ## README generado
 
@@ -81,5 +81,5 @@ MIT
 ## Enlaces
 
 - [[04-Testing-y-calidad|Anterior: Testing y calidad]]
-- [[Módulo 3 — Multiagentes/01-Arquitectura-multiagente|Siguiente módulo: Multiagentes]]
-- [[Módulo 1 — Fundamentos/05-Especificaciones|Especificaciones como base para docs]]
+- [[Módulo 3 - Multiagentes/01-Arquitectura-multiagente|Siguiente módulo: Multiagentes]]
+- [[Módulo 1 - Fundamentos/05-Especificaciones|Especificaciones como base para docs]]

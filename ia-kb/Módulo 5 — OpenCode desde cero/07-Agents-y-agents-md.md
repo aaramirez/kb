@@ -109,5 +109,5 @@ El `agents.md` sirve también como documentación para otros desarrolladores:
 
 - [[06-Modelos-y-suscripciones|Anterior: Modelos y suscripciones]]
 - [[08-Skills-personalizadas|Siguiente: Skills personalizadas]]
-- [[Módulo 2 — Agentes/02-Configuracion-de-agentes|Configuración de agentes]]
+- [[Módulo 2 - Agentes/02-Configuracion-de-agentes|Configuración de agentes]]
 - Video: [Curso de OpenCode desde cero](https://www.youtube.com/watch?v=ZZq4TpNgnvg) — Capítulo 5

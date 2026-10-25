@@ -65,4 +65,4 @@ La IA puede escribir funciones, pero **tú** decides:
 
 - [[03-Herramientas-y-MCP|Anterior: Herramientas y MCP]]
 - [[05-Especificaciones|Siguiente: Especificaciones]]
-- [[Módulo 2 — Agentes/04-Testing-y-calidad|Testing y calidad con agentes]]
+- [[Módulo 2 - Agentes/04-Testing-y-calidad|Testing y calidad con agentes]]

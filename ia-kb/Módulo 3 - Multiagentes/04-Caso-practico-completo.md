@@ -28,7 +28,7 @@ Output:
 └── Fase 5: Documentación
 ```
 
-Cada fase incluye especificaciones detalladas (ver [[Módulo 1 — Fundamentos/05-Especificaciones]]).
+Cada fase incluye especificaciones detalladas (ver [[Módulo 1 - Fundamentos/05-Especificaciones]]).
 
 ## Paso 2: Implementación
 

@@ -101,5 +101,5 @@ Los subagentes pueden usar modelos diferentes:
 
 - [[01-Arquitectura-multiagente|Anterior: Arquitectura multiagente]]
 - [[03-Orquestacion-y-flujos|Siguiente: Orquestación y flujos]]
-- [[Módulo 2 — Agentes/04-Testing-y-calidad|Tester en detalle]]
-- [[Módulo 2 — Agentes/05-Documentacion-automatica|Docs en detalle]]
+- [[Módulo 2 - Agentes/04-Testing-y-calidad|Tester en detalle]]
+- [[Módulo 2 - Agentes/05-Documentacion-automatica|Docs en detalle]]

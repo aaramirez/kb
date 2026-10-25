@@ -117,4 +117,4 @@ Cada nivel hereda y sobrescribe al anterior.
 
 - [[01-Que-es-un-agente|Anterior: ¿Qué es un agente?]]
 - [[03-Planificacion-con-agentes|Siguiente: Planificación con agentes]]
-- [[Módulo 1 — Fundamentos/03-Herramientas-y-MCP|MCP y herramientas]]
+- [[Módulo 1 - Fundamentos/03-Herramientas-y-MCP|MCP y herramientas]]

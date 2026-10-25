@@ -84,4 +84,4 @@ Agente IA ←→ MCP Client ←→ MCP Server ←→ Herramienta externa
 
 - [[02-Prompts-efectivos|Anterior: Prompts efectivos]]
 - [[04-Criterio-y-buenas-practicas|Siguiente: Criterio y buenas prácticas]]
-- [[Módulo 2 — Agentes/01-Que-es-un-agente|¿Qué es un agente?]]
+- [[Módulo 2 - Agentes/01-Que-es-un-agente|¿Qué es un agente?]]

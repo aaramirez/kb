@@ -14,32 +14,32 @@ Bienvenido al curso sobre **desarrollo de software asistido por IA**, basado en 
 
 ## 📋 Temario
 
-### 📦 [[Módulo 1 — Fundamentos/01-De-prompt-a-programacion|Módulo 1 — Fundamentos]]
+### 📦 [[Módulo 1 - Fundamentos/01-De-prompt-a-programacion|Módulo 1 — Fundamentos]]
 De prompts sueltos a programar con criterio.
 
-1. [[Módulo 1 — Fundamentos/01-De-prompt-a-programacion|De prompt a programación]]
-2. [[Módulo 1 — Fundamentos/02-Prompts-efectivos|Prompts efectivos]]
-3. [[Módulo 1 — Fundamentos/03-Herramientas-y-MCP|Herramientas y MCP]]
-4. [[Módulo 1 — Fundamentos/04-Criterio-y-buenas-practicas|Criterio y buenas prácticas]]
-5. [[Módulo 1 — Fundamentos/05-Especificaciones|Especificaciones]]
+1. [[Módulo 1 - Fundamentos/01-De-prompt-a-programacion|De prompt a programación]]
+2. [[Módulo 1 - Fundamentos/02-Prompts-efectivos|Prompts efectivos]]
+3. [[Módulo 1 - Fundamentos/03-Herramientas-y-MCP|Herramientas y MCP]]
+4. [[Módulo 1 - Fundamentos/04-Criterio-y-buenas-practicas|Criterio y buenas prácticas]]
+5. [[Módulo 1 - Fundamentos/05-Especificaciones|Especificaciones]]
 
-### 🤖 [[Módulo 2 — Agentes/01-Que-es-un-agente|Módulo 2 — Agentes]]
+### 🤖 [[Módulo 2 - Agentes/01-Que-es-un-agente|Módulo 2 — Agentes]]
 Programa con agentes sin perder el control.
 
-1. [[Módulo 2 — Agentes/01-Que-es-un-agente|¿Qué es un agente?]]
-2. [[Módulo 2 — Agentes/02-Configuracion-de-agentes|Configuración de agentes]]
-3. [[Módulo 2 — Agentes/03-Planificacion-con-agentes|Planificación con agentes]]
-4. [[Módulo 2 — Agentes/04-Testing-y-calidad|Testing y calidad]]
-5. [[Módulo 2 — Agentes/05-Documentacion-automatica|Documentación automática]]
+1. [[Módulo 2 - Agentes/01-Que-es-un-agente|¿Qué es un agente?]]
+2. [[Módulo 2 - Agentes/02-Configuracion-de-agentes|Configuración de agentes]]
+3. [[Módulo 2 - Agentes/03-Planificacion-con-agentes|Planificación con agentes]]
+4. [[Módulo 2 - Agentes/04-Testing-y-calidad|Testing y calidad]]
+5. [[Módulo 2 - Agentes/05-Documentacion-automatica|Documentación automática]]
 
-### 🧠 [[Módulo 3 — Multiagentes/01-Arquitectura-multiagente|Módulo 3 — Multiagentes]]
+### 🧠 [[Módulo 3 - Multiagentes/01-Arquitectura-multiagente|Módulo 3 — Multiagentes]]
 Usa multiagentes para desarrollar mejor.
 
-1. [[Módulo 3 — Multiagentes/01-Arquitectura-multiagente|Arquitectura multiagente]]
-2. [[Módulo 3 — Multiagentes/02-Subagentes-y-roles|Subagentes y roles]]
-3. [[Módulo 3 — Multiagentes/03-Orquestacion-y-flujos|Orquestación y flujos]]
-4. [[Módulo 3 — Multiagentes/04-Caso-practico-completo|Caso práctico completo]]
-5. [[Módulo 3 — Multiagentes/05-Produccion-y-mantenimiento|Producción y mantenimiento]]
+1. [[Módulo 3 - Multiagentes/01-Arquitectura-multiagente|Arquitectura multiagente]]
+2. [[Módulo 3 - Multiagentes/02-Subagentes-y-roles|Subagentes y roles]]
+3. [[Módulo 3 - Multiagentes/03-Orquestacion-y-flujos|Orquestación y flujos]]
+4. [[Módulo 3 - Multiagentes/04-Caso-practico-completo|Caso práctico completo]]
+5. [[Módulo 3 - Multiagentes/05-Produccion-y-mantenimiento|Producción y mantenimiento]]
 
 ### 🚀 [[Módulo 4 — AI-Native/01-Empresas-AI-Native|Módulo 4 — AI-Native]]
 El negocio del desarrollo con IA.

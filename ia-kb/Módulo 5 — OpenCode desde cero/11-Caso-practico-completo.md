@@ -141,5 +141,5 @@ opencode
 
 - [[10-Sesiones-y-automatizacion|Anterior: Sesiones y automatización]]
 - [[05-Construyendo-proyectos|Construyendo proyectos (detalle)]]
-- [[Módulo 3 — Multiagentes/04-Caso-practico-completo|Caso práctico multiagente]]
+- [[Módulo 3 - Multiagentes/04-Caso-practico-completo|Caso práctico multiagente]]
 - Video: [Curso de OpenCode desde cero](https://www.youtube.com/watch?v=ZZq4TpNgnvg) — Capítulo 3
