@@ -68,4 +68,4 @@ rules:
 
 - [[01-diseno-de-harnesses|Diseño de Harnesses]]
 - [[08-harness-product-ownership|Siguiente: PO]]
-- [[mgmt3-kb/Index|Management 3.0]]
+- Management 3.0 (bóveda mgmt3-kb)

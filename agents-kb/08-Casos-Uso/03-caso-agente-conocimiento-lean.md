@@ -68,6 +68,6 @@ Un equipo de mejora continua quiere hacer accesible el conocimiento de Lean, Agi
 
 ## Ver también
 
-- [[lean-kb/Index|Lean KB]]
-- [[mgmt3-kb/Index|Mgmt3 KB]]
-- [[leanc-kb/Index|LeanC KB]]
+- Lean KB (bóveda lean-kb)
+- Mgmt3 KB (bóveda mgmt3-kb)
+- LeanC KB (bóveda leanc-kb)

@@ -10,9 +10,6 @@ category: "Agents KB"
 aliases:
   - "Agents KB"
   - "Knowledge Base de Agentes"
-related:
-  - "[[ia-kb/Index|IA KB]]"
-  - "[[sf-kb/07-IA-Software/README|IA Software]]"
 ---
 
 # Agents-KB: Implementación de Agentes IA en Empresa Telco
@@ -59,11 +56,11 @@ Knowledge base para implementar agentes de IA en una empresa de telecomunicacion
 
 | KB | Contenido | Relación |
 |----|-----------|----------|
-| [[ia-kb/Index]] | Curso técnico de IA (módulos 2 y 6) | **agents-kb complementa** con perspectiva organizacional |
-| [[sf-kb/07-IA-Software/README]] | Referencia técnica de agentes IA | **agents-kb aplica** a contexto telco |
-| [[lean-kb/Index]] | Lean Manufacturing y Kaizen | **agents-kb usa** metodología Lean para adopción |
-| [[mgmt3-kb/Index]] | Management 3.0 y delegación | **agents-kb aplica** para empowerment con agentes |
-| [[leanc-kb/Index]] | Lean Change Management | **agents-kb aplica** para cambio organizacional con IA |
+| **ia-kb** | Curso técnico de IA (módulos 2 y 6) | **agents-kb complementa** con perspectiva organizacional |
+| **sf-kb** (`07-IA-Software/README`) | Referencia técnica de agentes IA | **agents-kb aplica** a contexto telco |
+| **lean-kb** | Lean Manufacturing y Kaizen | **agents-kb usa** metodología Lean para adopción |
+| **mgmt3-kb** | Management 3.0 y delegación | **agents-kb aplica** para empowerment con agentes |
+| **leanc-kb** | Lean Change Management | **agents-kb aplica** para cambio organizacional con IA |
 
 ## Glosario
 
