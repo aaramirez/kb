@@ -67,4 +67,4 @@ rules:
 
 - [[01-diseno-de-harnesses|Diseño de Harnesses]]
 - [[16-harness-finanzas|Siguiente: Finanzas]]
-- [[mgmt3-kb/04-Delegacion-Empoderamiento/01-que-es-delegacion|Delegación]]
+- Delegación (bóveda mgmt3-kb: `04-Delegacion-Empoderamiento/01-siete-niveles-autoridad`)

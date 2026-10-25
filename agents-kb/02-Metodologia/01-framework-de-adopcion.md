@@ -69,4 +69,4 @@ related:
 
 - [[02-fase-descubrimiento|Fase 1: Descubrimiento]]
 - [[02-Metodologia/06-metricas-de-exito|Métricas de Éxito]]
-- [[lean-kb/04-Herramientas/05-pdca|PDCA en Lean KB]]
+- PDCA en Lean KB (bóveda lean-kb: `04-Herramientas/10-pdca`)

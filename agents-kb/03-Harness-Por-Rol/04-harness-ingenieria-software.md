@@ -12,7 +12,7 @@ aliases:
   - "Desarrollador"
 related:
   - "[[01-diseno-de-harnesses]]"
-  - "[[05-harness-ingeneringia-redes]]"
+  - "[[03-Harness-Por-Rol/05-harness-ingenieria-redes]]"
 ---
 
 # Harness: Ingeniería de Software
@@ -75,4 +75,4 @@ rules:
 
 - [[01-diseno-de-harnesses|Diseño de Harnesses]]
 - [[05-harness-ingenieria-redes|Siguiente: Redes]]
-- [[03-harness-devops-infraestructura|DevOps]]
+- [[03-Harness-Por-Rol/09-harness-devops-infraestructura|DevOps]]

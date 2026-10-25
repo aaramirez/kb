@@ -23,7 +23,7 @@ Usar agentes para monitoreo, diagnóstico y optimización de red.
 
 ### Paso 1: Fundamentos (30 min)
 - [[01-Fundamentos/04-casos-de-uso-en-telco|Casos Telco]]
-- [[03-Harness-Por-Rol/05-harness-ingeneria-redes|Harness Redes]]
+- [[03-Harness-Por-Rol/05-harness-ingenieria-redes|Harness Redes]]
 
 ### Paso 2: Agentes de Red (1 hora)
 - Monitoreo de red

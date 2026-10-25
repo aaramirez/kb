@@ -68,4 +68,4 @@ rules:
 
 - [[01-diseno-de-harnesses|Diseño de Harnesses]]
 - [[09-harness-devops-infraestructura|Siguiente: DevOps]]
-- [[lean-kb/02-Fundamentos/01-que-es-lean|Lean para Producto]]
+- Lean para Producto (bóveda lean-kb: `01-Fundamentos/01-que-es-lean`)

@@ -51,7 +51,7 @@ related:
 
 ## Estrategia de Cambio
 
-Ver [[leanc-kb/Index|lean-kb]] y [[mgmt3-kb/04-Delegacion-Empoderamiento/01-que-es-delegacion|Delegación]] para metodologías de cambio organizacional.
+Ver leanc-kb y Delegación (bóveda mgmt3-kb: `04-Delegacion-Empoderamiento/01-siete-niveles-autoridad`) para metodologías de cambio organizacional.
 
 ## Ver también
 

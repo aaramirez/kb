@@ -11,7 +11,7 @@ aliases:
   - "Training System"
   - "Quiz System"
 related:
-  - "[[07-caso-agente-comercial-ventas]]"
+  - "[[08-Casos-Uso/08-caso-agente-comercial-ventas]]"
 ---
 
 # Caso: Quiz y Tutorial en Empresa
@@ -68,5 +68,5 @@ Una telco necesita capacitar a 500+ empleados en nuevos procesos, herramientas y
 
 ## Ver también
 
-- [[skills/quiz/SKILL.md|Skill Quiz]]
-- [[skills/tutorial/SKILL.md|Skill Tutorial]]
+- Skill Quiz (`skills/quiz/SKILL.md`)
+- Skill Tutorial (`skills/tutorial/SKILL.md`)

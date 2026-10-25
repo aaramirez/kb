@@ -46,4 +46,4 @@ Entender el valor estratégico de los agentes de IA y cómo tomar decisiones inf
 
 ## Ver también
 
-- [[03-harness-gerencia-direccion|Harness Gerencia]]
+- [[03-Harness-Por-Rol/02-harness-gerencia-direccion|Harness Gerencia]]
