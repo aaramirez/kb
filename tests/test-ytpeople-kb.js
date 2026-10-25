@@ -15,15 +15,16 @@
  */
 
 import { readdirSync, readFileSync, existsSync, statSync } from 'node:fs';
-import { join, resolve } from 'node:path';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import assert from 'node:assert';
 
-const KB_DIR = resolve(new URL('.', import.meta.url).pathname, '../ytpeople-kb');
+const KB_DIR = join(dirname(fileURLToPath(import.meta.url)), '../ytpeople-kb');
 
 function readMd(rel) {
   const p = join(KB_DIR, rel);
   if (!existsSync(p)) return null;
-  return readFileSync(p, 'utf8');
+  return readFileSync(p, 'utf8').replace(/\r\n/g, '\n');
 }
 
 function parseFrontmatter(md) {
