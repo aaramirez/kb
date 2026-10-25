@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[../01-Fundamentos/README|Fundamentos]]"
   - "[[../03-Procesos/README|Procesos]]"
-  - "[[../09-DevOps/README|DevOps]]"
+  - "[[09-DevOps-Infra/README|DevOps]]"
 ---
 
 # Calidad y Seguridad

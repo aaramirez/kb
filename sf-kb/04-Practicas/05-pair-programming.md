@@ -23,7 +23,7 @@ related:
   -  "[[06-Metricas/02-velocity-throughput|Velocity Metrics]]"
   -  "[[04-Practicas/01-coding-standards|Calidad de código]]"
   -  "[[11-Cultura-Equipo/04-collaboration-tools|Collaboration basics]]"
-  -  "[[../02-Estrucutra/README|Estructura de contenido]]"
+  -  "[[02-Estructura/README|Estructura de contenido]]"
 ---
 
 

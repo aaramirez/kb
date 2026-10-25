@@ -16,7 +16,7 @@ related:
   - "[[../03-Procesos/README|Procesos]]"
   - "[[../05-Herramientas/README|Herramientas]]"
   - "[[../06-Metricas/README|Métricas]]"
-  - "[[../08-Calidad/README|Calidad]]"
+  - "[[08-Calidad-Seguridad/README|Calidad]]"
 ---
 
 # Prácticas y Estándares
@@ -61,4 +61,4 @@ Esta sección define las prácticas técnicas y los estándares de calidad que t
 - [[../03-Procesos/README|Procesos →]]
 - [[../05-Herramientas/README|Herramientas]]
 - [[../06-Metricas/README|Métricas]]
-- [[../08-Calidad/README|Calidad]]
+- [[08-Calidad-Seguridad/README|Calidad]]

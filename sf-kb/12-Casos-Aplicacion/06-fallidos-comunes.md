@@ -150,7 +150,7 @@ related:
 - [ ] 1:1s regulares con managers
 - [ ] Learning time dedicado
 - [ ] Celebration de wins
-- [[../11-Casos-Aplicacion/05-anti-patrones|Anti-patrones]] para señales tempranas
+- [[12-Casos-Aplicacion/05-anti-patrones|Anti-patrones]] para señales tempranas
 - [[../11-Cultura-Equipo/README|Cultura]]
 
 ## Resumen visual

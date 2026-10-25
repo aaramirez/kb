@@ -18,7 +18,7 @@ Glosario maestro con los términos, siglas y conceptos clave utilizados en esta 
 
 ## A
 
-- **ADR (Architecture Decision Record)** — Documento que registra decisiones arquitectónicas importantes. Ver [[10-Gestion-Proyectos/09-adr-decisiones|ADR]]
+- **ADR (Architecture Decision Record)** — Documento que registra decisiones arquitectónicas importantes. Ver [[02-Estructura/09-adr-decisiones|ADR]]
 - **Agile** — Familia de metodologías basadas en el Manifiesto Ágil. Ver [[01-Fundamentos/06-manifiesto-agile|Manifiesto Ágil]]
 - **AIOps** — Inteligencia artificial aplicada a operaciones de TI. Ver [[07-IA-Software/23-ai-devops-integration|AIOps]]
 - **API (Application Programming Interface)** — Interfaz de programación de aplicaciones
