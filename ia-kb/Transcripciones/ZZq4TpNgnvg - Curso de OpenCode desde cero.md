@@ -1,3 +1,13 @@
+---
+title: "Curso de OpenCode desde cero: Comandos, Agentes, Ahorrar tokens y más"
+tags:
+  - ia/transcripciones
+  - type/transcripcion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Transcripciones"
+---
+
 # Curso de OpenCode desde cero: Comandos, Agentes, Ahorrar tokens y más
 Language: es (auto-generated)
 Duration: 1:51:58

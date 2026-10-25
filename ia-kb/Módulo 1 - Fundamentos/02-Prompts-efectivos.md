@@ -1,3 +1,13 @@
+---
+title: "Prompts efectivos"
+tags:
+  - ia/fundamentos
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 1 - Fundamentos"
+---
+
 # Prompts efectivos
 
 ## Estructura de un buen prompt

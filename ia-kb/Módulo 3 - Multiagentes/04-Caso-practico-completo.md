@@ -1,3 +1,13 @@
+---
+title: "Caso práctico completo"
+tags:
+  - ia/multiagentes
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 3 - Multiagentes"
+---
+
 # Caso práctico completo
 
 ## Escenario

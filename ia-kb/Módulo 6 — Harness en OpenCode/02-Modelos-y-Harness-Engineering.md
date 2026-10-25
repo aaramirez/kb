@@ -1,3 +1,13 @@
+---
+title: "Módulo 2: Modelos y Harness Engineering"
+tags:
+  - ia/harness
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 6 — Harness en OpenCode"
+---
+
 # Módulo 2: Modelos y Harness Engineering
 
 Hasta ahora hemos visto cómo construir harness en OpenCode. Pero el harness no funciona sin el motor que lo impulsa: el modelo de lenguaje. Este módulo explica cómo los modelos hacen posible el harness engineering, qué capacidades ofrecen y cómo se diferencian entre sí.

@@ -1,3 +1,13 @@
+---
+title: "Empresas AI-Native"
+tags:
+  - ia/ai-native
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 4 — AI-Native"
+---
+
 # Empresas AI-Native
 
 > Basado en ["Cómo crear una empresa AI-Native"](https://www.youtube.com/watch?v=5t2VEkhnHl0) de Freddy Vega (Platzi).

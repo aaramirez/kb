@@ -1,3 +1,13 @@
+---
+title: "Comandos útiles"
+tags:
+  - ia/recursos
+  - type/referencia
+created: 2026-07-13
+updated: 2026-10-25
+category: "Recursos"
+---
+
 # Comandos útiles
 
 ## CLI arai

@@ -1,3 +1,13 @@
+---
+title: "Caso Práctico — Plugin Completo"
+tags:
+  - ia/harness
+  - type/leccion
+created: 2026-07-15
+updated: 2026-10-25
+category: "Módulo 6 — Harness en OpenCode"
+---
+
 # Caso Práctico — Plugin Completo
 
 ## Idea central

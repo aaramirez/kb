@@ -1,3 +1,13 @@
+---
+title: "Módulo 4: Configuración Base — opencode.json"
+tags:
+  - ia/harness
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 6 — Harness en OpenCode"
+---
+
 # Módulo 4: Configuración Base — opencode.json
 
 ## El Archivo Central

@@ -1,3 +1,13 @@
+---
+title: "Testing y calidad"
+tags:
+  - ia/agentes
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 2 - Agentes"
+---
+
 # Testing y calidad
 
 ## Testing con agentes

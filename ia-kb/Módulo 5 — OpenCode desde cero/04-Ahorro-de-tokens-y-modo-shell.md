@@ -1,3 +1,13 @@
+---
+title: "Ahorro de tokens y modo shell"
+tags:
+  - ia/opencode
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 5 — OpenCode desde cero"
+---
+
 # Ahorro de tokens y modo shell
 
 ## Idea central

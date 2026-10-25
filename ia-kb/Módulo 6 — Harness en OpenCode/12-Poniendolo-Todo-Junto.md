@@ -1,3 +1,13 @@
+---
+title: "Módulo 12: Poniéndolo Todo Junto"
+tags:
+  - ia/harness
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 6 — Harness en OpenCode"
+---
+
 # Módulo 12: Poniéndolo Todo Junto
 
 ## Caso Práctico: Harness "full-dev"

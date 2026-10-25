@@ -1,3 +1,13 @@
+---
+title: "TUI — Customización y Dialogs"
+tags:
+  - ia/harness
+  - type/leccion
+created: 2026-07-15
+updated: 2026-10-25
+category: "Módulo 6 — Harness en OpenCode"
+---
+
 # TUI — Customización y Dialogs
 
 ## Idea central

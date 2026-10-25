@@ -1,3 +1,13 @@
+---
+title: "Esto es lo que Aprendí Adaptando Claude Code para SDD"
+tags:
+  - ia/transcripciones
+  - type/transcripcion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Transcripciones"
+---
+
 # Esto es lo que Aprendí Adaptando Claude Code para SDD
 Language: es (auto-generated)
 Duration: 28:30

@@ -1,3 +1,13 @@
+---
+title: "Curso de Desarrollo con IA — Programa con Agentes"
+tags:
+  - ia/indice
+  - type/indice
+created: 2026-07-13
+updated: 2026-10-25
+category: "Índice"
+---
+
 # Curso de Desarrollo con IA — Programa con Agentes
 
 Bienvenido al curso sobre **desarrollo de software asistido por IA**, basado en sesiones en vivo de Midudev y complementado con contenido de diversas fuentes.

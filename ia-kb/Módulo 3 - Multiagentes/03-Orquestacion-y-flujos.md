@@ -1,3 +1,13 @@
+---
+title: "Orquestación y flujos"
+tags:
+  - ia/multiagentes
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 3 - Multiagentes"
+---
+
 # Orquestación y flujos
 
 ## ¿Qué es orquestación?

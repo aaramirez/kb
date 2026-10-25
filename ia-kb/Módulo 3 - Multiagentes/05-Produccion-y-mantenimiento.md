@@ -1,3 +1,13 @@
+---
+title: "Producción y mantenimiento"
+tags:
+  - ia/multiagentes
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 3 - Multiagentes"
+---
+
 # Producción y mantenimiento
 
 ## De desarrollo a producción

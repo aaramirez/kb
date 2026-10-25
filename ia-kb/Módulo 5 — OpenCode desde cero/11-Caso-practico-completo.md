@@ -1,3 +1,13 @@
+---
+title: "Caso práctico completo: App de Running"
+tags:
+  - ia/opencode
+  - type/leccion
+created: 2026-07-13
+updated: 2026-10-25
+category: "Módulo 5 — OpenCode desde cero"
+---
+
 # Caso práctico completo: App de Running
 
 ## Idea central
