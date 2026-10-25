@@ -14,14 +14,14 @@ aliases:
 related:
   - "[[05-Vertientes/5g-Lean-IT/01-lean-it-vista-general]]"
   - "[[05-Vertientes/5g-Lean-IT/04-lean-agile-it]]"
-  - "[[03-Pilares/03-mejora-continua]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # Kaizen en TI
 
 ## ¿Qué es Kaizen en TI?
 
-[[03-Pilares/03-mejora-continua|Kaizen]] en TI es la filosofía de **mejora continua aplicada a procesos de tecnología**. Se materializa en retrospectivas ágiles, eventos de mejora y una cultura de optimización constante del flujo de trabajo del equipo.
+[[02-Pilares/03-kaizen|Kaizen]] en TI es la filosofía de **mejora continua aplicada a procesos de tecnología**. Se materializa en retrospectivas ágiles, eventos de mejora y una cultura de optimización constante del flujo de trabajo del equipo.
 
 > *"En TI, el kaizen no es un evento especial, es la forma de trabajar cada día."*
 
@@ -96,7 +96,7 @@ El Kaizen en TI requiere:
 
 ## Conexiones
 
-- [[03-Pilares/03-mejora-continua]] — filosofía Kaizen base
+- [[02-Pilares/03-kaizen]] — filosofía Kaizen base
 - [[05-Vertientes/5g-Lean-IT/04-lean-agile-it]] — Lean Agile en equipos
 - [[05-Vertientes/5g-Lean-IT/01-lean-it-vista-general]] — contexto general
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del Kaizen

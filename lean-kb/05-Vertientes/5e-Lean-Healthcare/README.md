@@ -32,9 +32,9 @@ La vertiente que aplica los principios del [[05-Vertientes/5a-Manufactura/01-lea
 
 ## Conceptos clave
 
-- [[01-Glosario/G-01-desperdicio]] — Desperdicios aplicados a entornos de salud
-- [[02-Fundamentos/02-cadena-de-valor]] — Cadena de valor en servicios de salud
-- [[03-Pilares/01-cero-defectos]] — Seguridad del paciente y cero errores
+- [[03-Desperdicios/02-muda-desperdicio]] — Desperdicios aplicados a entornos de salud
+- [[01-Fundamentos/07-cadena-de-valor]] — Cadena de valor en servicios de salud
+- [[02-Pilares/02-jidoka]] — Seguridad del paciente y cero errores
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — Producción pull aplicada a insumos hospitalarios
 - [[05-Vertientes/5g-Lean-IT/02-lean-it-service-management]] — Lean en gestión de servicios de TI hospitalarias
 

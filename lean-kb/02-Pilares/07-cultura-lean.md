@@ -38,7 +38,7 @@ Todo puede mejorar, siempre. Nadie dice "ya está bien". [[02-Pilares/03-kaizen|
 Los problemas **no son amenazas, son oportunidades**. En una cultura Lean:
 
 - Se celebran los problemas encontrados (porque se pueden resolver)
-- Se busca la causa raíz con [[04-Herramientas/12-5-por-why|5 Por Qué]]
+- Se busca la causa raíz con [[04-Herramientas/12-los-cinco-porques|5 Por Qué]]
 - Se resuelven problemas en el lugar ([[04-Herramientas/06-gemba|Gemba]])
 - Se estandarizan las soluciones para que no se repitan
 
@@ -64,8 +64,8 @@ Si no se puede ver, no se puede mejorar. La cultura Lean depende de la **gestió
 El conocimiento no se pierde; se captura y comparte:
 
 - Lecciones aprendidas se documentan
-- Las mejores prácticas se estandarizan ([[04-Herramientas/06-trabajo-estandarizado|Standardized Work]])
-- La rotación de personal ([[04-Herramientas/07-job-rotation|Job Rotation]]) distribuye el conocimiento
+- Las mejores prácticas se estandarizan ([[04-Herramientas/19-trabajo-estandarizado|Standardized Work]])
+- La rotación de personal (Job Rotation) distribuye el conocimiento
 
 ## Cómo Construir Cultura Lean
 
@@ -94,4 +94,4 @@ La cultura Lean es el **sistema operativo invisible** que hace que [[02-Pilares/
 - [[02-Pilares/02-jidoka|Jidoka]] — Jidoka requiere una cultura de confianza
 - [[02-Pilares/06-modelo-tres-pilares|Modelo de Tres Pilares]] — La dimensión cultural del modelo
 - [[04-Herramientas/06-gemba|Gemba]] — Práctica de liderazgo en el lugar de los hechos
-- [[04-Herramientas/12-5-por-why|5 Por Qué]] — Herramienta de resolución de problemas
+- [[04-Herramientas/12-los-cinco-porques|5 Por Qué]] — Herramienta de resolución de problemas

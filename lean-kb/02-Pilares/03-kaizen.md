@@ -75,7 +75,7 @@ Esto contrasta con el enfoque occidental tradicional de buscar "proyectos grande
 
 ## Kaizen y los Desperdicios
 
-Kaizen se enfoca en eliminar los [[03-Desperdicios/02-muda-desperdicio|8 Desperdicios]] (Muda), reducir la variabilidad ([[03-Desperdicios/02-mura|Mura]]) y aligerar la carga de trabajo ([[03-Desperdicios/03-muri|Muri]]). Cada mejora reduce uno o más desperdicios, haciendo el proceso más eficiente y predecible.
+Kaizen se enfoca en eliminar los [[03-Desperdicios/02-muda-desperdicio|8 Desperdicios]] (Muda), reducir la variabilidad ([[03-Desperdicios/03-mura-desigualdad|Mura]]) y aligerar la carga de trabajo ([[03-Desperdicios/04-muri-sobrecarga|Muri]]). Cada mejora reduce uno o más desperdicios, haciendo el proceso más eficiente y predecible.
 
 ## Notas Relacionadas
 

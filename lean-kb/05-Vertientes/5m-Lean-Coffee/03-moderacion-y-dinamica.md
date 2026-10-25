@@ -15,7 +15,7 @@ related:
   - "[[01-lean-coffee-vista-general]]"
   - "[[02-formato-lean-coffee]]"
   - "[[04-lean-coffee-en-organizaciones]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
+  - "[[02-Pilares/07-cultura-lean]]"
 ---
 
 # Moderación y Dinámica
@@ -99,4 +99,4 @@ Reservar los últimos 5 minutos para retrospectiva. No consumirlos en discusión
 
 - [[02-formato-lean-coffee]] - El formato paso a paso
 - [[01-lean-coffee-vista-general]] - Concepto general
-- [[../../02-Filosofia/06-cultura-lean]] - Cultura de respeto
+- [[02-Pilares/07-cultura-lean]] - Cultura de respeto

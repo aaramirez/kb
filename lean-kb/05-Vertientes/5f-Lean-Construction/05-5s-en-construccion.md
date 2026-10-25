@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general]]"
   - "[[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]]"
-  - "[[03-Pilares/02-trabajo-estandarizado]]"
+  - "[[04-Herramientas/19-trabajo-estandarizado]]"
 ---
 
 # 5S en Construcción
@@ -88,5 +88,5 @@ En construcción, las 5S están directamente ligadas a la seguridad laboral:
 
 - [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] — origen de las 5S
 - [[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general]] — contexto general
-- [[03-Pilares/02-trabajo-estandarizado]] — estandarización como base
+- [[04-Herramientas/19-trabajo-estandarizado]] — estandarización como base
 - [[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]] — paralelo con salud

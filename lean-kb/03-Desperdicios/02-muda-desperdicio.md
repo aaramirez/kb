@@ -47,7 +47,7 @@ Actividades que no agregan valor y pueden eliminarse. Ejemplo: buscar herramient
 
 ## Los 8 Desperdicios
 
-La filosofía [[Lean Manufacturing|lean]] identifica ocho tipos principales de muda:
+La filosofía [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|lean]] identifica ocho tipos principales de muda:
 
 | Desperdicio | Archivo |
 |-------------|---------|
@@ -56,7 +56,7 @@ La filosofía [[Lean Manufacturing|lean]] identifica ocho tipos principales de m
 | Transporte | [[07-desperdicio-transporte]] |
 | Sobreprocesamiento | [[08-desperdicio-sobreprocesamiento]] |
 | Inventario | [[09-desperdicio-inventario]] |
-| Movimiento | [[010-desperdicio-movimiento]] |
+| Movimiento | [[03-Desperdicios/10-desperdicio-movimiento]] |
 | Defectos | [[11-desperdicio-defectos]] |
 | Talento No Utilizado | [[12-desperdicio-talento-no-utilizado]] |
 
@@ -80,4 +80,4 @@ Consultar [[13-identificacion-de-desperdicios]] para métodos detallados.
 ## Prerrequisitos
 
 - [[01-marco-3m]] — Marco conceptual 3M
-- [[01-Fundamentos]] — Conceptos básicos de [[Lean Manufacturing]]
+- [[01-Fundamentos/README]] — Conceptos básicos de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]]

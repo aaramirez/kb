@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
   - "[[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]]"
-  - "[[01-Glosario/G-02-kanban]]"
+  - "[[04-Herramientas/09-kanban]]"
 ---
 
 # Sistema Supermercado
@@ -68,7 +68,7 @@ Proceso A ──→ [ SUPERMARKET ] ──→ Proceso B
 
 ## Implementación
 
-1. **Analizar flujo** — mapear con [[02-Fundamentos/02-cadena-de-valor|Value Stream Mapping]]
+1. **Analizar flujo** — mapear con [[01-Fundamentos/07-cadena-de-valor|Value Stream Mapping]]
 2. **Identificar discontinuidades** — procesos con tiempos de ciclo diferentes
 3. **Calcular cantidades** — fórmula basada en demanda, lead time y frecuencia
 4. **Diseñar espacio** — ubicación física, señalización visual
@@ -87,7 +87,7 @@ Proceso A ──→ [ SUPERMARKET ] ──→ Proceso B
 
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Fundamentos de Lean Manufacturing
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — Pull como filosofía del supermercado
-- [[01-Glosario/G-02-kanban]] — Kanban como señal de reposición
+- [[04-Herramientas/09-kanban]] — Kanban como señal de reposición
 - [[05-Vertientes/5a-Manufactura/05-flujo-pieza-por-pieza]] — One-Piece Flow como alternativa al supermercado
 - [[05-Vertientes/5a-Manufactura/07-cambio-rapido-smed-practico]] — SMED reduce tamaño de supermercado
-- [[01-Glosario/G-01-desperdicio]] — Inventario como desperdicio a minimizar
+- [[03-Desperdicios/02-muda-desperdicio]] — Inventario como desperdicio a minimizar

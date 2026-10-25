@@ -87,5 +87,5 @@ La capability mide qué tan bien un proceso cumple especificaciones:
 - [[05-Vertientes/5b-Lean-Six-Sigma/05-dmaic-analizar]] — Siguiente fase: Analyze
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — DMAIC como framework
 - [[05-Vertientes/5b-Lean-Six-Sigma/01-lean-six-sigma-vista-general]] — Contexto de LSS
-- [[03-Pilares/01-cero-defectos]] — Medición es base de la calidad
+- [[02-Pilares/02-jidoka]] — Medición es base de la calidad
 - [[05-Vertientes/5b-Lean-Six-Sigma/08-belts-six-sigma]] — Roles del equipo

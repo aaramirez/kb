@@ -20,13 +20,13 @@ related:
 
 ## ¿Qué es Lean Agile en IT?
 
-Lean Agile en IT es la **combinación sinérgica** de los principios del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Thinking]] con las metodologías [[05-Vertientes/5d-Lean-Software/03-metodos-agiles|ágiles]] para gestionar equipos de tecnología. Se enfoca en eliminar desperdicios mientras se mantiene la flexibilidad y velocidad.
+Lean Agile en IT es la **combinación sinérgica** de los principios del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Thinking]] con las metodologías [[05-Vertientes/5j-Agile-Lean/01-agile-lean-vista-general|ágiles]] para gestionar equipos de tecnología. Se enfoca en eliminar desperdicios mientras se mantiene la flexibilidad y velocidad.
 
 > *"Lean agiliza el proceso; Agile agiliza el pensamiento. Juntos optimizan todo."*
 
 ## Kanban para equipos de TI
 
-[[05-Vertientes/5d-Lean-Software/06-tablero-kanban|Kanban]] es la herramienta Lean más natural para equipos de TI:
+[[04-Herramientas/09-kanban|Kanban]] es la herramienta Lean más natural para equipos de TI:
 
 ### Tablero Kanban básico para TI
 
@@ -45,7 +45,7 @@ Lean Agile en IT es la **combinación sinérgica** de los principios del [[05-Ve
 
 ## Límites WIP en desarrollo
 
-Los [[05-Vertientes/5d-Lean-Software/04-limite-wip|límites WIP]] (Work In Progress) son fundamentales:
+Los [[04-Herramientas/09-kanban|límites WIP]] (Work In Progress) son fundamentales:
 
 ### ¿Por qué limitar WIP?
 - **Reducir contexto switching** — el cerebro no es bueno multi-tasking
@@ -82,6 +82,6 @@ La optimización de sprints combina Lean con Agile:
 ## Conexiones
 
 - [[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general]] — Lean Software como base
-- [[05-Vertientes/5d-Lean-Software/03-metodos-agiles]] — metodologías ágiles
-- [[05-Vertientes/5d-Lean-Software/06-tablero-kanban]] — Kanban en detalle
+- [[05-Vertientes/5j-Agile-Lean/01-agile-lean-vista-general]] — metodologías ágiles
+- [[04-Herramientas/09-kanban]] — Kanban en detalle
 - [[05-Vertientes/5g-Lean-IT/01-lean-it-vista-general]] — contexto general de Lean IT

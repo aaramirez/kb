@@ -17,7 +17,7 @@ related:
   - "[[04-ia-mejora-continua]]"
   - "[[05-lean-digital-transformacion]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../03-Metodologias/01-lean-manufacturing]]"
+  - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
 ---
 
 # Lean 4.0 - Vista General
@@ -76,4 +76,4 @@ Los desperdicios de Lean se expanden:
 
 - [[../../02-Filosofia/01-que-es-lean]] - Fundamentos de Lean
 - [[02-gemelos-digitales-lean]] - Digital twins en detalle
-- [[../../03-Metodologias/01-lean-manufacturing]] - Lean Manufacturing clásico
+- [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] - Lean Manufacturing clásico

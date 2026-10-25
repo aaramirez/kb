@@ -16,7 +16,7 @@ related:
   - "[[02-gemelos-digitales-lean]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
   - "[[../../05-Vertientes/5g-Lean-IT/README]]"
-  - "[[../../02-Filosofia/03-desperdicios-muda]]"
+  - "[[03-Desperdicios/02-muda-desperdicio]]"
 ---
 
 # Lean y Transformación Digital
@@ -74,5 +74,5 @@ La esencia — eliminar desperdicio y respetar a las personas — sigue siendo f
 ## Ver también
 
 - [[01-lean-4-vista-general]] - Marco Lean 4.0
-- [[../../02-Filosofia/03-desperdicios-muda]] - Los 8 desperdicios
+- [[03-Desperdicios/02-muda-desperdicio]] - Los 8 desperdicios
 - [[../../05-Vertientes/5g-Lean-IT/README]] - Lean IT como vertiente relacionada

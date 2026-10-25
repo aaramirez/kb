@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5a-Manufactura/02-toyota-way-en-la-practica]]"
   - "[[05-Vertientes/5b-Lean-Six-Sigma/01-lean-six-sigma-vista-general]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
 ---
 
 # Lean Manufacturing — Vista General

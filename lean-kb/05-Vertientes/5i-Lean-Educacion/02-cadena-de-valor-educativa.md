@@ -13,7 +13,7 @@ aliases:
   - Cadena de Valor Educativa
 related:
   - "[[05-Vertientes/5i-Lean-Educacion/01-lean-educacion-vista-general]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
   - "[[05-Vertientes/5i-Lean-Educacion/03-flujo-estudiantil]]"
 ---
 
@@ -21,7 +21,7 @@ related:
 
 ## ¿Qué es la Cadena de Valor Educativa?
 
-La [[02-Fundamentos/02-cadena-de-valor|Cadena de Valor]] Educativa representa el conjunto completo de actividades que agregan valor al estudiante, desde la admisión hasta la graduación. Identificar esta cadena permite distinguir entre actividades que generan valor de aprendizaje y las que son [[01-Glosario/G-01-desperdicio|desperdicio]].
+La [[01-Fundamentos/07-cadena-de-valor|Cadena de Valor]] Educativa representa el conjunto completo de actividades que agregan valor al estudiante, desde la admisión hasta la graduación. Identificar esta cadena permite distinguir entre actividades que generan valor de aprendizaje y las que son [[03-Desperdicios/02-muda-desperdicio|desperdicio]].
 
 > *"No todo lo que ocurre en una institución educativa agrega valor al aprendizaje del estudiante."*
 
@@ -72,10 +72,10 @@ Un mapa completo de cadena de valor educativa incluye:
 
 | Herramienta | Aplicación | Referencia |
 |-------------|-----------|------------|
-| Mapa de flujo de valor | Visualizar toda la cadena | [[02-Fundamentos/02-cadena-de-valor]] |
+| Mapa de flujo de valor | Visualizar toda la cadena | [[01-Fundamentos/07-cadena-de-valor]] |
 | Análisis de tiempos | Identificar cuellos de botella | [[05-Vertientes/5i-Lean-Educacion/03-flujo-estudiantil]] |
 | Diagrama de spaghetti | Analizar movimientos en campus | [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] |
-| Trabajo estandarizado | Protocolos académicos | [[03-Pilares/02-trabajo-estandarizado]] |
+| Trabajo estandarizado | Protocolos académicos | [[04-Herramientas/19-trabajo-estandarizado]] |
 
 ## Beneficios de optimizar la cadena
 
@@ -87,7 +87,7 @@ Un mapa completo de cadena de valor educativa incluye:
 
 ## Conexiones
 
-- [[02-Fundamentos/02-cadena-de-valor]] — concepto fundamental de Lean
+- [[01-Fundamentos/07-cadena-de-valor]] — concepto fundamental de Lean
 - [[05-Vertientes/5i-Lean-Educacion/03-flujo-estudiantil]] — optimización del flujo
 - [[05-Vertientes/5i-Lean-Educacion/01-lean-educacion-vista-general]] — contexto general
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del concepto

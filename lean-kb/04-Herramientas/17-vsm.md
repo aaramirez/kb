@@ -23,7 +23,7 @@ related:
 
 # VSM (Value Stream Mapping)
 
-**VSM** (Value Stream Mapping) es una herramienta de [[Lean Manufacturing]] para **visualizar y analizar** el flujo de materiales e información necesarios para entregar un producto o servicio al cliente. Es el punto de partida para cualquier transformación Lean.
+**VSM** (Value Stream Mapping) es una herramienta de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para **visualizar y analizar** el flujo de materiales e información necesarios para entregar un producto o servicio al cliente. Es el punto de partida para cualquier transformación Lean.
 
 ## Definición
 
@@ -109,7 +109,7 @@ Ir al [[06-gemba|Gemba]] y medir tiempos, inventarios y cantidades reales.
 Documentar el flujo actual con todos los datos recogidos.
 
 ### 5. Identificar Desperdicios
-Marcar donde hay [[03-Desperdicios|desperdicios]] (espera, inventario, movimiento).
+Marcar donde hay [[03-Desperdicios/README|desperdicios]] (espera, inventario, movimiento).
 
 ### 6. Diseñar Estado Futuro
 Proponer mejoras: flujo continuo, Kanban, nivelación.
@@ -119,7 +119,7 @@ Crear plan de acción con prioridades usando [[10-pdca|PDCA]].
 
 ## Conexión con Desperdicios
 
-VSM expone los [[03-Desperdicios|8 desperdicios]]:
+VSM expone los [[03-Desperdicios/README|8 desperdicios]]:
 - **Inventario** — Se ve como inventario entre procesos
 - **Espera** — Se ve como tiempo de espera en la timeline
 - **Transporte** — Se ve como flechas largas entre procesos

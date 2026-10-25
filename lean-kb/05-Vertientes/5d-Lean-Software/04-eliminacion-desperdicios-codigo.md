@@ -14,14 +14,14 @@ aliases:
 related:
   - "[[05-Vertientes/5d-Lean-Software/02-siete-principios-lean-software]]"
   - "[[05-Vertientes/5d-Lean-Software/03-cadena-de-valor-software]]"
-  - "[[01-Glosario/G-01-desperdicio]]"
+  - "[[03-Desperdicios/02-muda-desperdicio]]"
 ---
 
 # Eliminación de Desperdicios en Código
 
 ## Los 7 desperdicios del software
 
-Los [[01-Glosario/G-01-desperdicio|7 desperdicios de Lean Manufacturing]] se traducen así al contexto del software:
+Los [[03-Desperdicios/02-muda-desperdicio|7 desperdicios de Lean Manufacturing]] se traducen así al contexto del software:
 
 ### 1. Trabajo parcialmente terminado (Partially Done Work)
 - Features a medias que no se pueden entregar
@@ -85,7 +85,7 @@ Los [[01-Glosario/G-01-desperdicio|7 desperdicios de Lean Manufacturing]] se tra
 
 - [[05-Vertientes/5d-Lean-Software/02-siete-principios-lean-software]] — Principio 1: Eliminar desperdicio
 - [[05-Vertientes/5d-Lean-Software/03-cadena-de-valor-software]] — Desperdicios en el flujo
-- [[01-Glosario/G-01-desperdicio]] — Los 7 desperdicios originales
+- [[03-Desperdicios/02-muda-desperdicio]] — Los 7 desperdicios originales
 - [[05-Vertientes/5d-Lean-Software/05-amplificacion-aprendizaje]] — Cómo aprender para evitar desperdicios
 - [[05-Vertientes/5d-Lean-Software/07-optimizacion-del-todo]] — Ver el sistema completo
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Lean Manufacturing como base

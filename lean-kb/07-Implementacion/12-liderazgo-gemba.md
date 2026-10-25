@@ -34,7 +34,7 @@ related:
 - Ver el trabajo tal como se realiza, no como se reporta
 - Identificar desperdicios que no son visibles desde la oficina
 - Entender las condiciones reales del trabajo
-- Detectar desviaciones de los [[01-estandar-de-trabajo|estándares]]
+- Detectar desviaciones de los [[04-Herramientas/19-trabajo-estandarizado|estándares]]
 
 ### 2. Respetar y Valorar a las Personas
 

@@ -31,9 +31,9 @@ La vertiente que adapta los principios del [[05-Vertientes/5a-Manufactura/01-lea
 
 ## Conceptos clave
 
-- [[01-Glosario/G-01-desperdicio]] — Desperdicios en proyectos de construcción
-- [[02-Fundamentos/02-cadena-de-valor]] — Cadena de valor en proyectos constructivos
-- [[03-Pilares/02-trabajo-estandarizado]] — Estandarización de procesos constructivos
+- [[03-Desperdicios/02-muda-desperdicio]] — Desperdicios en proyectos de construcción
+- [[01-Fundamentos/07-cadena-de-valor]] — Cadena de valor en proyectos constructivos
+- [[04-Herramientas/19-trabajo-estandarizado]] — Estandarización de procesos constructivos
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — Planificación pull en construcción
 - [[05-Vertientes/5d-Lean-Software/07-optimizacion-del-todo]] — Optimización del sistema completo
 

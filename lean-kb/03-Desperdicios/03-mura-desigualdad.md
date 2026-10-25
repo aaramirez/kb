@@ -18,7 +18,7 @@ related:
   - "[[04-muri-sobrecarga]]"
   - "[[05-desperdicio-sobreproduccion]]"
   - "[[06-desperdicio-espera]]"
-  - "[[01-Fundamentos]]"
+  - "[[01-Fundamentos/README]]"
 ---
 
 # Mura (Desigualdad/Inconsistencia)
@@ -71,9 +71,9 @@ Una planta recibe pedidos de 100 unidades lunes y martes, pero solo 20 miércole
 - Trabajadores ociosos miércoles (muda)
 - Turnos extras lunes y martes (muri)
 
-Con [[Heijunka]], se promedian 60 unidades diarias, eliminando las fluctuaciones.
+Con [[04-Herramientas/07-heijunka|Heijunka]], se promedian 60 unidades diarias, eliminando las fluctuaciones.
 
 ## Prerrequisitos
 
 - [[01-marco-3m]] — Marco conceptual 3M
-- [[01-Fundamentos]] — Conceptos básicos de [[Lean Manufacturing]]
+- [[01-Fundamentos/README]] — Conceptos básicos de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]]

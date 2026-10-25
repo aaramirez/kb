@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general]]"
   - "[[05-Vertientes/5f-Lean-Construction/02-last-planner-system]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
 ---
 
 # Target Value Design (TVD)
@@ -88,6 +88,6 @@ TVD funciona como complemento del [[05-Vertientes/5f-Lean-Construction/02-last-p
 ## Conexiones
 
 - [[05-Vertientes/5f-Lean-Construction/02-last-planner-system]] — sistema de ejecución complementario
-- [[02-Fundamentos/02-cadena-de-valor]] — enfoque en valor para el cliente
+- [[01-Fundamentos/07-cadena-de-valor]] — enfoque en valor para el cliente
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del pensamiento Lean
 - [[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general]] — contexto general

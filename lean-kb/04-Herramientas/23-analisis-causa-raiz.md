@@ -22,7 +22,7 @@ related:
 
 # Root Cause Analysis (Análisis de Causa Raíz)
 
-El **Análisis de Causa Raíz** (Root Cause Analysis o RCA) es un proceso sistemático de [[Lean Manufacturing]] para identificar la **causa fundamental** de un problema, y no solo sus síntomas superficiales.
+El **Análisis de Causa Raíz** (Root Cause Analysis o RCA) es un proceso sistemático de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para identificar la **causa fundamental** de un problema, y no solo sus síntomas superficiales.
 
 ## Definición
 

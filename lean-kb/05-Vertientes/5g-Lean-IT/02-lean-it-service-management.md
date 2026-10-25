@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5g-Lean-IT/01-lean-it-vista-general]]"
   - "[[05-Vertientes/5g-Lean-IT/03-lean-devops]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
 ---
 
 # Lean IT Service Management
@@ -27,7 +27,7 @@ Lean IT Service Management (Lean ITSM) es la aplicación de principios Lean a la
 
 ## Flujo de valor en servicios de TI
 
-La [[02-Fundamentos/02-cadena-de-valor|cadena de valor]] en ITSM incluye:
+La [[01-Fundamentos/07-cadena-de-valor|cadena de valor]] en ITSM incluye:
 
 | Proceso | Entrada | Salida | Desperdicio común |
 |---------|---------|--------|-------------------|
@@ -88,4 +88,4 @@ El proceso de cambio se optimiza eliminando:
 - [[05-Vertientes/5g-Lean-IT/01-lean-it-vista-general]] — contexto general de Lean IT
 - [[05-Vertientes/5g-Lean-IT/03-lean-devops]] — complemento con DevOps
 - [[05-Vertientes/5g-Lean-IT/04-lean-agile-it]] — gestión visual del trabajo
-- [[02-Fundamentos/02-cadena-de-valor]] — análisis de cadena de valor
+- [[01-Fundamentos/07-cadena-de-valor]] — análisis de cadena de valor

@@ -14,14 +14,14 @@ aliases:
 related:
   - "[[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general]]"
   - "[[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]]"
-  - "[[03-Pilares/01-cero-defectos]]"
+  - "[[02-Pilares/02-jidoka]]"
 ---
 
 # Error-Proofing en Salud
 
 ## ¿Qué es Error-Proofing en salud?
 
-El [[03-Pilares/01-cero-defectos|Error-Proofing]] (o Poka-Yoke) en el contexto sanitario consiste en diseñar procesos y sistemas que **previenen errores antes de que ocurran**. En un entorno donde los errores pueden tener consecuencias fatales, esta herramienta es especialmente crítica.
+El [[02-Pilares/02-jidoka|Error-Proofing]] (o Poka-Yoke) en el contexto sanitario consiste en diseñar procesos y sistemas que **previenen errores antes de que ocurran**. En un entorno donde los errores pueden tener consecuencias fatales, esta herramienta es especialmente crítica.
 
 > *"Es mejor prevenir el error que detectarlo después. En salud, prevención significa vidas salvadas."*
 
@@ -99,7 +99,7 @@ Los protocolos de seguridad se diseñan como mecanismos de error-proofing:
 
 ## Conexiones
 
-- [[03-Pilares/01-cero-defectos]] — filosofía base de error-proofing
+- [[02-Pilares/02-jidoka]] — filosofía base de error-proofing
 - [[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]] — protocolos como base
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del Poka-Yoke
 - [[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general]] — contexto Lean Healthcare

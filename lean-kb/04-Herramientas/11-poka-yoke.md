@@ -23,7 +23,7 @@ related:
 
 # Poka-Yoke (Error-Proofing)
 
-**Poka-Yoke** (ポカヨケ, "a prueba de errores") es una herramienta de [[Lean Manufacturing]] que previene o detecta errores humanos antes de que se conviertan en defectos. Fue desarrollada por **Shigeo Shingo** como parte del sistema [[02-Pilares/02-jidoka|Jidoka]].
+**Poka-Yoke** (ポカヨケ, "a prueba de errores") es una herramienta de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que previene o detecta errores humanos antes de que se conviertan en defectos. Fue desarrollada por **Shigeo Shingo** como parte del sistema [[02-Pilares/02-jidoka|Jidoka]].
 
 ## Definición
 

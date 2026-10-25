@@ -20,7 +20,7 @@ related:
 
 # Liderazgo Lean
 
-El **Liderazgo Lean** es fundamentalmente diferente al liderazgo tradicional. En lugar de dirigir y controlar, el líder Lean **desarrolla personas** a través de la enseñanza, el coaching y la creación de un entorno donde la [[11-cultura-kaizen|mejora continua]] florezca.
+El **Liderazgo Lean** es fundamentalmente diferente al liderazgo tradicional. En lugar de dirigir y controlar, el líder Lean **desarrolla personas** a través de la enseñanza, el coaching y la creación de un entorno donde la [[07-Implementacion/10-cultura-kaizen|mejora continua]] florezca.
 
 ## Principios Fundamentales
 

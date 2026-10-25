@@ -47,7 +47,7 @@ Si eres nuevo en Lean, te recomiendo este camino:
 1. Comienza con [[01-Fundamentos/01-que-es-lean\|¿Qué es Lean?]]
 2. Explora [[lean-timeline\|La línea temporal de Lean]]
 3. Revisa el [[lean-glossary\|Glossario]] para familiarizarte con los términos
-4. Avanza a [[02-Pilares/01-jit\|Just-in-Time]] y [[02-Pilares/02-jidoka\|Jidoka]]
+4. Avanza a [[02-Pilares/01-just-in-time\|Just-in-Time]] y [[02-Pilares/02-jidoka\|Jidoka]]
 5. Identifica los [[03-Desperdicios/02-muda-desperdicio\|8 Desperdicios]]
 
 ## Cómo Usar Este KB

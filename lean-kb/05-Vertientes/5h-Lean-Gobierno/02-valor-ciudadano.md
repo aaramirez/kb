@@ -13,7 +13,7 @@ aliases:
   - Valor para el Ciudadano
 related:
   - "[[05-Vertientes/5h-Lean-Gobierno/01-lean-gobierno-vista-general]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
   - "[[05-Vertientes/5h-Lean-Gobierno/03-simplificacion-procesos]]"
 ---
 
@@ -39,7 +39,7 @@ El valor se define en función de lo que el ciudadano necesita y espera:
 
 ## Servicios públicos como cadenas de valor
 
-Los [[02-Fundamentos/02-cadena-de-valor|servicios públicos]] son cadenas de valor que comienzan con la solicitud del ciudadano y terminan con la entrega del servicio:
+Los [[01-Fundamentos/07-cadena-de-valor|servicios públicos]] son cadenas de valor que comienzan con la solicitud del ciudadano y terminan con la entrega del servicio:
 
 ### Ejemplo: Solicitud de licencia de conducir
 
@@ -83,7 +83,7 @@ El enfoque centrado en el ciudadano implica:
 
 ## Conexiones
 
-- [[02-Fundamentos/02-cadena-de-valor]] — concepto base de valor
+- [[01-Fundamentos/07-cadena-de-valor]] — concepto base de valor
 - [[05-Vertientes/5h-Lean-Gobierno/01-lean-gobierno-vista-general]] — contexto general
 - [[05-Vertientes/5h-Lean-Gobierno/03-simplificacion-procesos]] — simplificación como método
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del pensamiento

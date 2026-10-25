@@ -49,7 +49,7 @@ Cómo se diseña y mejora el trabajo:
 - **Visibilidad de proceso** — Hacer el trabajo visible para identificar desviaciones
 - **Reducción de desperdicios** — Eliminar los [[03-Desperdicios/02-muda-desperdicio|8 desperdicios]]
 - **Nivelación** — [[07-heijunka|Heijunka]] para estabilizar la carga de trabajo
-- **Pull** — [[09-sistema-de-tirón|Sistema de tirón]] en lugar de empujar
+- **Pull** — [[01-Fundamentos/09-sistema-de-tiron|Sistema de tirón]] en lugar de empujar
 - **Mejora enraizada** — Kaizen como práctica diaria, no como evento
 
 ### 3. Alineación del Sistema (Enterprise Alignment)

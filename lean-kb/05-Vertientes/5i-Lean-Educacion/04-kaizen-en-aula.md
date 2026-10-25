@@ -14,14 +14,14 @@ aliases:
 related:
   - "[[05-Vertientes/5i-Lean-Educacion/01-lean-educacion-vista-general]]"
   - "[[05-Vertientes/5i-Lean-Educacion/02-cadena-de-valor-educativa]]"
-  - "[[03-Pilares/03-mejora-continua]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # Kaizen en Aula
 
 ## ¿Qué es Kaizen en el aula?
 
-[[03-Pilares/03-mejora-continua|Kaizen]] en el aula es la filosofía de **mejora continua aplicada a la práctica docente y los procesos de aprendizaje**. Se materializa en ciclos reflexivos donde docentes y estudiantes colaboran para identificar y eliminar barreras al aprendizaje.
+[[02-Pilares/03-kaizen|Kaizen]] en el aula es la filosofía de **mejora continua aplicada a la práctica docente y los procesos de aprendizaje**. Se materializa en ciclos reflexivos donde docentes y estudiantes colaboran para identificar y eliminar barreras al aprendizaje.
 
 > *"Mejorar la enseñanza no es un evento anual, es una práctica diaria de reflexión y ajuste."*
 
@@ -105,7 +105,7 @@ El Kaizen educativo requiere:
 
 ## Conexiones
 
-- [[03-Pilares/03-mejora-continua]] — filosofía Kaizen base
+- [[02-Pilares/03-kaizen]] — filosofía Kaizen base
 - [[05-Vertientes/5i-Lean-Educacion/01-lean-educacion-vista-general]] — contexto general
 - [[05-Vertientes/5i-Lean-Educacion/02-cadena-de-valor-educativa]] — análisis de valor
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del Kaizen

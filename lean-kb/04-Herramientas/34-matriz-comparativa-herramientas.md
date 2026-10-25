@@ -55,7 +55,7 @@ Esta matriz compara todas las herramientas Lean para ayudar a seleccionar la ade
 
 ## Desperdicio vs Herramienta
 
-Cada herramienta aborda uno o más [[03-Desperdicios|desperdicios]]:
+Cada herramienta aborda uno o más [[03-Desperdicios/README|desperdicios]]:
 
 | Desperdicio | Herramientas Principales | Herramientas Secundarias |
 |------------|-------------------------|-------------------------|
@@ -160,5 +160,5 @@ Cada herramienta aborda uno o más [[03-Desperdicios|desperdicios]]:
 - [[06-gemba]] — Donde comienza la observación
 - [[10-pdca]] — El motor de todas las mejoras
 - [[02-Pilares/03-kaizen|Kaizen]] — Filosofía que une todas las herramientas
-- [[03-Desperdicios]] — Qué debemos eliminar
+- [[03-Desperdicios/README]] — Qué debemos eliminar
 - [[01-Fundamentos/01-que-es-lean|Lean Manufacturing]] — Contexto general

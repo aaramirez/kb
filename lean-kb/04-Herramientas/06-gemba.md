@@ -23,7 +23,7 @@ related:
 
 # Gemba - Ir al Lugar de los Hechos
 
-**Gemba** (現場, "lugar real") es un principio y práctica fundamental del [[Lean Manufacturing]] que significa **ir al lugar donde se realiza el trabajo** para observar, entender y mejorar los procesos directamente.
+**Gemba** (現場, "lugar real") es un principio y práctica fundamental del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que significa **ir al lugar donde se realiza el trabajo** para observar, entender y mejorar los procesos directamente.
 
 ## Definición
 
@@ -80,7 +80,7 @@ Un **Gemba Walk** es una visita planificada al lugar de trabajo para observar pr
 
 ## Gemba y Liderazgo
 
-En [[Lean Manufacturing]], el liderazgo se ejerce desde el Gemba:
+En [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]], el liderazgo se ejerce desde el Gemba:
 
 | Liderazgo de Escritorio | Liderazgo Gemba |
 |-------------------------|-----------------|

@@ -31,9 +31,9 @@ La vertiente que adapta los principios del [[05-Vertientes/5a-Manufactura/01-lea
 
 ## Conceptos clave
 
-- [[01-Glosario/G-01-desperdicio]] — Desperdicios en procesos de TI
-- [[02-Fundamentos/02-cadena-de-valor]] — Cadena de valor en servicios IT
-- [[03-Pilares/02-trabajo-estandarizado]] — Estandarización de procesos de TI
+- [[03-Desperdicios/02-muda-desperdicio]] — Desperdicios en procesos de TI
+- [[01-Fundamentos/07-cadena-de-valor]] — Cadena de valor en servicios IT
+- [[04-Herramientas/19-trabajo-estandarizado]] — Estandarización de procesos de TI
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — Producción pull en desarrollo
 - [[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general]] — Lean Software como precursor
 

@@ -13,7 +13,7 @@ aliases:
   - Cadena de Valor Software
 related:
   - "[[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
   - "[[05-Vertientes/5d-Lean-Software/04-eliminacion-desperdicios-codigo]]"
 ---
 
@@ -80,9 +80,9 @@ Estas son las **4 DORA metrics** que conectan Lean con [[05-Vertientes/5d-Lean-S
 
 ## Conexiones
 
-- [[02-Fundamentos/02-cadena-de-valor]] — Value Stream Mapping como fundamento
+- [[01-Fundamentos/07-cadena-de-valor]] — Value Stream Mapping como fundamento
 - [[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general]] — Contexto de Lean Software
 - [[05-Vertientes/5d-Lean-Software/04-eliminacion-desperdicios-codigo]] — Desperdicios en el flujo
 - [[05-Vertientes/5d-Lean-Software/08-devops-lean-perspectiva]] — CI/CD como acelerador
 - [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] — Diseño de flujo en manufactura
-- [[01-Glosario/G-01-desperdicio]] — Los 7 desperdicios
+- [[03-Desperdicios/02-muda-desperdicio]] — Los 7 desperdicios

@@ -40,7 +40,7 @@ El pensamiento Lean se organiza en [[05-cinco-principios-lean|cinco principios]]
 1. **[[06-valor|Valor]]** — Definir el valor desde la perspectiva del cliente
 2. **[[07-cadena-de-valor|Cadena de Valor]]** — Identificar todas las actividades que crean valor
 3. **[[08-flujo|Flujo]]** — Hacer que el valor fluya sin interrupciones
-4. **[[09-sistema-de-tirón|Sistema de Tirón]]** — Producir solo cuando hay demanda real
+4. **[[01-Fundamentos/09-sistema-de-tiron|Sistema de Tirón]]** — Producir solo cuando hay demanda real
 5. **[[10-perfeccion|Perfección]]** — Buscar la mejora continua sin cesar
 
 ## El Marco 3M
@@ -67,11 +67,11 @@ Lean nació en el Japón de posguerra, cuando [[13-pensadores-lean-clave|Taiichi
 
 Originalmente aplicado a la manufactura, Lean se ha extendido a:
 
-- [[lean-software-vista-general|Software]] — Eliminar desperdicios en el código
-- [[lean-healthcare-vista-general|Salud]] — Mejorar flujos de pacientes
-- [[lean-startup-vista-general|Startups]] — Validar ideas rápidamente
-- [[lean-it-vista-general|Tecnología]] — Optimizar servicios de TI
-- [[lean-construction-vista-general|Construcción]] — Reducir desperdicios en obra
+- [[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general|Software]] — Eliminar desperdicios en el código
+- [[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general|Salud]] — Mejorar flujos de pacientes
+- [[05-Vertientes/5c-Lean-Startup/01-lean-startup-vista-general|Startups]] — Validar ideas rápidamente
+- [[05-Vertientes/5g-Lean-IT/01-lean-it-vista-general|Tecnología]] — Optimizar servicios de TI
+- [[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general|Construcción]] — Reducir desperdicios en obra
 
 ## Lecturas Recomendadas
 

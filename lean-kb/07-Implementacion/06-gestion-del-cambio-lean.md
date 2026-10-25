@@ -119,7 +119,7 @@ La resistencia es natural y debe abordarse con:
 
 ## Conexión con Lean Change
 
-Esta nota se relaciona con el concepto más amplio de [[lean-change|Lean Change Management]], que es una vertiente que aplica los principios Lean al gestión del cambio organizacional.
+Esta nota se relaciona con el concepto más amplio de [[05-Vertientes/5l-Lean-Change/01-lean-change-vista-general|Lean Change Management]], que es una vertiente que aplica los principios Lean al gestión del cambio organizacional.
 
 ## Lecturas Recomendadas
 

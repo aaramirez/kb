@@ -15,7 +15,7 @@ related:
   - "[[05-liderazgo-lean]]"
   - "[[12-liderazgo-gemba]]"
   - "[[04-sistema-gestion-diaria]]"
-  - "[[01-estandar-de-trabajo]]"
+  - "[[04-Herramientas/19-trabajo-estandarizado]]"
   - "[[10-pdca]]"
 ---
 
@@ -107,9 +107,9 @@ El [[12-liderazgo-gemba|Gemba walk]] es el componente más importante del trabaj
 - [[05-liderazgo-lean|Liderazgo Lean]] — Principios que guían el trabajo del líder
 - [[12-liderazgo-gemba|Gemba leadership]] — Cómo liderar en el lugar real
 - [[04-sistema-gestion-diaria|Gestión diaria]] — El sistema que el líder mantiene
-- [[01-estandar-de-trabajo|Estándar de trabajo]] — El concepto aplicado al líder
+- [[04-Herramientas/19-trabajo-estandarizado|Estándar de trabajo]] — El concepto aplicado al líder
 - [[10-pdca|PDCA]] — El ciclo que estructura el aprendizaje del líder
-- [[11-cultura-kaizen|Cultura Kaizen]] — El resultado de un líder que sigue su estándar
+- [[07-Implementacion/10-cultura-kaizen|Cultura Kaizen]] — El resultado de un líder que sigue su estándar
 
 ## Lecturas Recomendadas
 

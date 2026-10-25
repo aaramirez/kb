@@ -59,7 +59,7 @@ Los 5 principios del Lean se adaptan al contexto sanitario:
 
 ## Desperdicios en el contexto sanitario
 
-Los 8 desperdicios del [[01-Glosario/G-01-desperdicio|Lean Manufacturing]] se manifiestan así en salud:
+Los 8 desperdicios del [[03-Desperdicios/02-muda-desperdicio|Lean Manufacturing]] se manifiestan así en salud:
 
 1. **Sobreproducción** — pruebas diagnósticas innecesarias
 2. **Espera** — pacientes esperando en salas o por resultados

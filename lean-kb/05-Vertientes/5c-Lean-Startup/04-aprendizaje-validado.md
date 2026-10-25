@@ -99,4 +99,4 @@ Hipótesis → Experimento → Datos → Análisis → Decisión
 - [[05-Vertientes/5c-Lean-Startup/06-contabilidad-de-innovacion]] — Cómo medir aprendizaje
 - [[05-Vertientes/5c-Lean-Startup/05-pivotar-o-perseverar]] — Decisión basada en aprendizaje
 - [[05-Vertientes/5b-Lean-Six-Sigma/04-dmaic-medir]] — Data Collection Plan como herramienta similar
-- [[04-Mentalidad/01-kaizen-continuo]] — Aprendizaje continuo como cultura
+- [[02-Pilares/03-kaizen]] — Aprendizaje continuo como cultura

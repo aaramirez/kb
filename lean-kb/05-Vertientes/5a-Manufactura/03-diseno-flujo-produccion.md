@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
   - "[[05-Vertientes/5a-Manufactura/05-flujo-pieza-por-pieza]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
 ---
 
 # Diseño de Flujo de Producción
@@ -73,6 +73,6 @@ El layout de una planta **determina** el comportamiento de las personas y los ma
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Fundamentos de Lean Manufacturing
 - [[05-Vertientes/5a-Manufactura/05-flujo-pieza-por-pieza]] — Flujo pieza por pieza como resultado del diseño
 - [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] — Layout y trabajo estandarizado
-- [[02-Fundamentos/02-cadena-de-valor]] — Mapeo de cadena de valor para identificar desperdicios
-- [[01-Glosario/G-01-desperdicio]] — Los 8 desperdicios que el diseño debe eliminar
-- [[04-Mentalidad/01-kaizen-continuo]] — El diseño de flujo mejora continuamente
+- [[01-Fundamentos/07-cadena-de-valor]] — Mapeo de cadena de valor para identificar desperdicios
+- [[03-Desperdicios/02-muda-desperdicio]] — Los 8 desperdicios que el diseño debe eliminar
+- [[02-Pilares/03-kaizen]] — El diseño de flujo mejora continuamente

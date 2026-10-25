@@ -23,7 +23,7 @@ related:
 
 # Kanban - Sistema de Señalización
 
-**Kanban** (看板, "tablero visible") es un sistema de [[Lean Manufacturing]] que utiliza **señales visuales** para controlar el flujo de producción y materiales. Es la herramienta que hace posible el sistema de **tirón** (pull system) en JIT.
+**Kanban** (看板, "tablero visible") es un sistema de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que utiliza **señales visuales** para controlar el flujo de producción y materiales. Es la herramienta que hace posible el sistema de **tirón** (pull system) en JIT.
 
 ## Origen
 

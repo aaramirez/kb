@@ -66,7 +66,7 @@ Conectar los procesos de modo que el producto se mueva sin esperas.
 ### Balanceo de Línea (Yamazumi)
 Igualar los tiempos de ciclo entre estaciones de trabajo.
 
-### [[Takt Time]]
+### [[04-Herramientas/14-takt-time|Takt Time]]
 Establecer el ritmo de producción según la demanda del cliente.
 
 ### Mantenimiento Productivo Total (TPM)

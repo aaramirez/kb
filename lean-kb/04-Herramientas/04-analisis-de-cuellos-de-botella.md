@@ -24,7 +24,7 @@ related:
 
 # Análisis de Cuellos de Botella
 
-El **Análisis de Cuellos de Botella** (Bottleneck Analysis) es una herramienta de [[Lean Manufacturing]] para identificar y eliminar la restricción que limita el throughput (capacidad de salida) de un sistema. Se fundamenta en la **Teoría de Restricciones** (TOC) de Eliyahu Goldratt.
+El **Análisis de Cuellos de Botella** (Bottleneck Analysis) es una herramienta de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para identificar y eliminar la restricción que limita el throughput (capacidad de salida) de un sistema. Se fundamenta en la **Teoría de Restricciones** (TOC) de Eliyahu Goldratt.
 
 ## Definición
 

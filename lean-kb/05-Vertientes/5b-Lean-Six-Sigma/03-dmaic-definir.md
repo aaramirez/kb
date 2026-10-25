@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]]"
   - "[[05-Vertientes/5b-Lean-Six-Sigma/04-dmaic-medir]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
 ---
 
 # DMAIC: Definir
@@ -84,7 +84,7 @@ El SIPOC es un diagrama de alto nivel del proceso:
 
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — DMAIC como framework general
 - [[05-Vertientes/5b-Lean-Six-Sigma/04-dmaic-medir]] — Siguiente fase: Measure
-- [[02-Fundamentos/02-cadena-de-valor]] — Value Stream Mapping complementa el SIPOC
+- [[01-Fundamentos/07-cadena-de-valor]] — Value Stream Mapping complementa el SIPOC
 - [[05-Vertientes/5b-Lean-Six-Sigma/01-lean-six-sigma-vista-general]] — Contexto de LSS
-- [[01-Glosario/G-01-desperdicio]] — Identificar qué desperdicios afectan al cliente
+- [[03-Desperdicios/02-muda-desperdicio]] — Identificar qué desperdicios afectan al cliente
 - [[05-Vertientes/5b-Lean-Six-Sigma/08-belts-six-sigma]] — Roles del equipo

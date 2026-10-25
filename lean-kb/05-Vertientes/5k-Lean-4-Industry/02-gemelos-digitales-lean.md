@@ -15,8 +15,8 @@ related:
   - "[[01-lean-4-vista-general]]"
   - "[[03-iot-en-manufactura-lean]]"
   - "[[04-ia-mejora-continua]]"
-  - "[[../../04-Herramientas/03-value-stream-mapping]]"
-  - "[[../../03-Metodologias/01-lean-manufacturing]]"
+  - "[[04-Herramientas/17-vsm]]"
+  - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
 ---
 
 # Gemelos Digitales y Lean
@@ -70,6 +70,6 @@ Permite probar cambios antes de implementarlos:
 
 ## Ver también
 
-- [[../../04-Herramientas/03-value-stream-mapping]] - VSM como herramienta base
+- [[04-Herramientas/17-vsm]] - VSM como herramienta base
 - [[03-iot-en-manufactura-lean]] - IoT como fuente de datos
 - [[01-lean-4-vista-general]] - Marco Lean 4.0

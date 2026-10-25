@@ -24,7 +24,7 @@ related:
 
 # SMED (Single-Minute Exchange of Die)
 
-**SMED** (Single-Minute Exchange of Die) es un método de [[Lean Manufacturing]] para **reducir el tiempo de cambio y preparación** de máquinas a un dígito decimal (menos de 10 minutos). Desarrollado por Shigeo Shingo en Toyota.
+**SMED** (Single-Minute Exchange of Die) es un método de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para **reducir el tiempo de cambio y preparación** de máquinas a un dígito decimal (menos de 10 minutos). Desarrollado por Shigeo Shingo en Toyota.
 
 ## Origen
 

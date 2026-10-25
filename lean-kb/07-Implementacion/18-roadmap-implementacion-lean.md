@@ -83,7 +83,7 @@ Año 1              Año 2              Año 3+
 - Implementar [[17-dashboard-kpi-lean|dashboards KPI]] por área
 
 **Estandarizar Procesos**
-- Documentar [[01-estandar-de-trabajo|estándares de trabajo]] actuales
+- Documentar [[04-Herramientas/19-trabajo-estandarizado|estándares de trabajo]] actuales
 - Crear sistema de gestión visual
 - Implementar [[09-kanban|Kanban]] en proceso principal
 - Establecer [[02-andon|señalización Andon]]
@@ -92,7 +92,7 @@ Año 1              Año 2              Año 3+
 - Formar más [[05-liderazgo-lean|líderes Lean]]
 - Implementar [[12-liderazgo-gemba|Gemba walks]] regulares
 - Desarrollar programa de coaching
-- Establecer [[11-cultura-kaizen|cultura Kaizen]] incipiente
+- Establecer [[07-Implementacion/10-cultura-kaizen|cultura Kaizen]] incipiente
 
 **Medir y Ajustar**
 - Realizar [[07-evaluacion-lean|evaluaciones]] periódicas
@@ -105,7 +105,7 @@ Año 1              Año 2              Año 3+
 - Múltiples áreas con gestión diaria funcionando
 - Métricas mejorando consistentemente
 - Líderes desarrollándose en todos los niveles
-- Primeros indicadores de [[11-cultura-kaizen|cultura Kaizen]]
+- Primeros indicadores de [[07-Implementacion/10-cultura-kaizen|cultura Kaizen]]
 
 ## Fase 3: Sostenibilidad (Meses 19-36+)
 
@@ -114,7 +114,7 @@ Año 1              Año 2              Año 3+
 **Consolidar la Cultura**
 - [[13-despliegue-hoshin-kanri|Hoshin Kanri]] desplegado en toda la organización
 - [[14-proceso-catchball|Catchball]] como práctica regular
-- [[11-cultura-kaizen|Kaizen]] como parte del trabajo diario
+- [[07-Implementacion/10-cultura-kaizen|Kaizen]] como parte del trabajo diario
 - Reconocimiento y celebración de logros
 
 **Auditar y Reforzar**
@@ -155,7 +155,7 @@ Año 1              Año 2              Año 3+
 - [[07-evaluacion-lean|Evaluación]] — Punto de partida
 - [[19-sostenibilidad-lean|Sostenibilidad]] — Mantener los resultados
 - [[05-liderazgo-lean|Liderazgo Lean]] — El motor de todo el proceso
-- [[11-cultura-kaizen|Cultura Kaizen]] — El resultado deseado
+- [[07-Implementacion/10-cultura-kaizen|Cultura Kaizen]] — El resultado deseado
 - [[13-despliegue-hoshin-kanri|Hoshin Kanri]] — Estrategia desplegada
 
 ## Lecturas Recomendadas

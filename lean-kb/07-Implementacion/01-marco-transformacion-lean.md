@@ -46,7 +46,7 @@ Describe **cómo** se trabaja actualmente y cómo debería funcionar para lograr
 
 - [[07-cadena-de-valor|Cadena de valor]] completa desde proveedor hasta cliente
 - Identificación de valor vs desperdicio en cada paso
-- Diseño de flujo continuo y [[09-sistema-de-tirón|sistema de tirón]]
+- Diseño de flujo continuo y [[01-Fundamentos/09-sistema-de-tiron|sistema de tirón]]
 - Estándares actuales y condiciones ideales
 
 ### 3. Personas (People)

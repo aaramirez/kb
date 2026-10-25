@@ -15,8 +15,8 @@ related:
   - "[[01-lean-change-vista-general]]"
   - "[[03-adopcion-cambio-lean]]"
   - "[[04-resistencia-al-cambio]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
-  - "[[../../02-Filosofia/02-principios-lean]]"
+  - "[[02-Pilares/07-cultura-lean]]"
+  - "[[01-Fundamentos/05-cinco-principios-lean]]"
 ---
 
 # Gestión del Cambio Organizacional
@@ -74,4 +74,4 @@ Cada tipo de resistencia requiere una respuesta diferente.
 
 - [[01-lean-change-vista-general]] - Marco Lean Change
 - [[04-resistencia-al-cambio]] - Superar resistencia
-- [[../../02-Filosofia/06-cultura-lean]] - Cultura Lean
+- [[02-Pilares/07-cultura-lean]] - Cultura Lean

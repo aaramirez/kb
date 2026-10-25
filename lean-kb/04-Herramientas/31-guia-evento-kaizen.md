@@ -75,7 +75,7 @@ Recopilar antes del evento:
 **Tarde (3-4 horas):**
 - [[06-gemba|Gemba Walk]] — Observar el proceso completo
 - Tomar datos de tiempos de ciclo
-- Identificar [[03-Desperdicios|desperdicios]]
+- Identificar [[03-Desperdicios/README|desperdicios]]
 - Dibujar [[17-vsm|VSM]] del estado actual
 
 **Entregable del Día 1:** VSM del estado actual con datos.

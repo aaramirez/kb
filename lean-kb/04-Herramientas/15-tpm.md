@@ -22,7 +22,7 @@ related:
 
 # TPM (Total Productive Maintenance)
 
-**TPM** (Total Productive Maintenance) es un enfoque de [[Lean Manufacturing]] para mantener y mejorar la integridad de la producción y calidad a través de la **mantención de las máquinas, equipos y procesos**. Busca cero fallos, cero defectos y cero accidentes.
+**TPM** (Total Productive Maintenance) es un enfoque de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para mantener y mejorar la integridad de la producción y calidad a través de la **mantención de las máquinas, equipos y procesos**. Busca cero fallos, cero defectos y cero accidentes.
 
 ## Origen
 

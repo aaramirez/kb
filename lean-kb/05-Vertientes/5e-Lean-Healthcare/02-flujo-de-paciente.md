@@ -21,7 +21,7 @@ related:
 
 ## ¿Qué es el Flujo de Paciente?
 
-El Flujo de Paciente es el recorrido completo que realiza un paciente desde su llegada al sistema de salud hasta su alta. Mapear y optimizar este flujo es fundamental para eliminar [[01-Glosario/G-01-desperdicio|desperdicios]] como la espera y el transporte.
+El Flujo de Paciente es el recorrido completo que realiza un paciente desde su llegada al sistema de salud hasta su alta. Mapear y optimizar este flujo es fundamental para eliminar [[03-Desperdicios/02-muda-desperdicio|desperdicios]] como la espera y el transporte.
 
 > *"Cada minuto que un paciente espera es un minuto que no recibe valor."*
 

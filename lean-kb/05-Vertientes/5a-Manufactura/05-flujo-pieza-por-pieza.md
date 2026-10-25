@@ -41,7 +41,7 @@ One-Piece Flow es mover **un solo producto** a la vez a través de todas las est
 2. **Trabajo estandarizado** — cada operación documentada y consistente
 3. **Balanceo de línea** — tiempos de ciclo similares entre estaciones
 4. **Calidad en la fuente** — cada operador inspecciona su trabajo
-5. **Máquinas confiables** — [[03-Pilares/01-cero-defectos|OEE alto]] para no interrumpir el flujo
+5. **Máquinas confiables** — [[02-Pilares/02-jidoka|OEE alto]] para no interrumpir el flujo
 6. **Flexibilidad de operadores** — capacidad de múltiples skills (multi-process handling)
 
 ## Desafíos y soluciones
@@ -78,5 +78,5 @@ One-Piece Flow es mover **un solo producto** a la vez a través de todas las est
 - [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] — Layout de celda como prerequisito
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — Pull como sistema de control
 - [[05-Vertientes/5a-Manufactura/07-cambio-rapido-smed-practico]] — SMED para viabilizar small lot production
-- [[03-Pilares/01-cero-defectos]] — Calidad integrada en cada paso
-- [[04-Mentalidad/01-kaizen-continuo]] — Mejora continua del flujo
+- [[02-Pilares/02-jidoka]] — Calidad integrada en cada paso
+- [[02-Pilares/03-kaizen]] — Mejora continua del flujo

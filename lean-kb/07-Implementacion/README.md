@@ -30,8 +30,8 @@ Al completar esta sección, serás capaz de:
 - Diseñar un [[18-roadmap-implementacion-lean|Roadmap de implementación]] paso a paso
 - Implementar un [[04-sistema-gestion-diaria|Sistema de Gestión Diaria]] efectivo
 - Ejercer [[05-liderazgo-lean|Liderazgo Lean]] y [[12-liderazgo-gemba|liderazgo en el Gemba]]
-- Medir el progreso con [[17-metricas-lean|Métricas Lean]] y [[18-dashboard-kpi-lean|Dashboards KPI]]
-- Construir una [[11-cultura-kaizen|Cultura Kaizen]] sostenible
+- Medir el progreso con [[07-Implementacion/16-metricas-lean|Métricas Lean]] y [[07-Implementacion/17-dashboard-kpi-lean|Dashboards KPI]]
+- Construir una [[07-Implementacion/10-cultura-kaizen|Cultura Kaizen]] sostenible
 
 ## Contenido de la Sección
 

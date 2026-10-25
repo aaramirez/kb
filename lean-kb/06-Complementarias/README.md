@@ -18,7 +18,7 @@ related:
 
 # Metodologías Complementarias
 
-Sección dedicada a las metodologías que **complementan y potencian** [[Lean Manufacturing]], aportando herramientas estadísticas, estructura de resolución de problemas y gestión de calidad que Lean no cubre de forma autónoma.
+Sección dedicada a las metodologías que **complementan y potencian** [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]], aportando herramientas estadísticas, estructura de resolución de problemas y gestión de calidad que Lean no cubre de forma autónoma.
 
 ## Visión General
 
@@ -87,10 +87,10 @@ Lean por sí solo es poderoso, pero tiene limitaciones en áreas como el anális
 
 Antes de estudiar esta sección, es recomendable haber completado:
 
-- [[01-Fundamentos]] — Conceptos básicos del Lean
-- [[02-Pilares]] — JIT, Jidoka, Kaizen y Respeto
-- [[03-Desperdicios]] — Los 8+1 desperdicios
-- [[04-Herramientas]] — Herramientas esenciales de Lean
+- [[01-Fundamentos/README]] — Conceptos básicos del Lean
+- [[02-Pilares/README]] — JIT, Jidoka, Kaizen y Respeto
+- [[03-Desperdicios/README]] — Los 8+1 desperdicios
+- [[04-Herramientas/README]] — Herramientas esenciales de Lean
 
 ## Notas Relacionadas
 

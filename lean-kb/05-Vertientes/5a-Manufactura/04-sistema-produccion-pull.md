@@ -33,7 +33,7 @@ related:
 
 ## Kanban — Señal de Pull
 
-[[01-Glosario/G-02-kanban|Kanban]] es la herramienta más conocida para implementar pull. Un kanban puede ser:
+[[04-Herramientas/09-kanban|Kanban]] es la herramienta más conocida para implementar pull. Un kanban puede ser:
 
 - **Tarjeta física** — se mueve entre estaciones como señal de producción
 - **Bin kanban** — contenedor vacío que indica necesidad de reposición
@@ -57,7 +57,7 @@ El [[05-Vertientes/5a-Manufactura/06-sistema-supermercado|sistema supermercado]]
 
 ## Implementación paso a paso
 
-1. **Identificar el flujo** — mapear cadena de valor con [[02-Fundamentos/02-cadena-de-valor|Value Stream Mapping]]
+1. **Identificar el flujo** — mapear cadena de valor con [[01-Fundamentos/07-cadena-de-valor|Value Stream Mapping]]
 2. **Definir pacers** — ¿quién dispara la producción? (celda final, shipping)
 3. **Diseñar kanban** — tipo, cantidad, contenido
 4. **Calcular cantidades** — fórmula: Q = D × LT × (1 + safety) / replenishment freq
@@ -76,6 +76,6 @@ El [[05-Vertientes/5a-Manufactura/06-sistema-supermercado|sistema supermercado]]
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Fundamentos de Lean Manufacturing
 - [[05-Vertientes/5a-Manufactura/06-sistema-supermercado]] — Supermercados como mecanismo de pull
 - [[05-Vertientes/5a-Manufactura/05-flujo-pieza-por-pieza]] — One-Piece Flow es pull en su forma más pura
-- [[01-Glosario/G-02-kanban]] — Definición completa de kanban
-- [[02-Fundamentos/02-cadena-de-valor]] — Value Stream Mapping para diseñar pull
-- [[03-Pilares/01-cero-defectos]] — Pull expone problemas de calidad
+- [[04-Herramientas/09-kanban]] — Definición completa de kanban
+- [[01-Fundamentos/07-cadena-de-valor]] — Value Stream Mapping para diseñar pull
+- [[02-Pilares/02-jidoka]] — Pull expone problemas de calidad

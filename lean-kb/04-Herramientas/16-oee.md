@@ -21,7 +21,7 @@ related:
 
 # OEE (Overall Equipment Effectiveness)
 
-**OEE** (Overall Equipment Effectiveness) es la métrica estándar de [[Lean Manufacturing]] para medir la **efectividad global de los equipos de producción**. Cuantifica cuánto tiempo una máquina produce realmente a su máximo potencial, con la calidad correcta.
+**OEE** (Overall Equipment Effectiveness) es la métrica estándar de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para medir la **efectividad global de los equipos de producción**. Cuantifica cuánto tiempo una máquina produce realmente a su máximo potencial, con la calidad correcta.
 
 ## Definición
 

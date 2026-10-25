@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5b-Lean-Six-Sigma/05-dmaic-analizar]]"
   - "[[05-Vertientes/5b-Lean-Six-Sigma/07-dmaic-controlar]]"
-  - "[[04-Mentalidad/01-kaizen-continuo]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # DMAIC: Mejorar
@@ -84,6 +84,6 @@ Resultado piloto vs. Baseline = ¿Se cumple el objetivo?
 - [[05-Vertientes/5b-Lean-Six-Sigma/05-dmaic-analizar]] — Fase anterior: Analyze
 - [[05-Vertientes/5b-Lean-Six-Sigma/07-dmaic-controlar]] — Siguiente fase: Control
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — DMAIC como framework
-- [[04-Mentalidad/01-kaizen-continuo]] — Kaizen como motor de mejora
+- [[02-Pilares/03-kaizen]] — Kaizen como motor de mejora
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Lean como filosofía
 - [[05-Vertientes/5b-Lean-Six-Sigma/08-belts-six-sigma]] — Roles del equipo

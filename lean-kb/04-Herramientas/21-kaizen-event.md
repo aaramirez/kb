@@ -60,7 +60,7 @@ Un Kaizen Event es un taller intensivo donde un equipo multifuncional se reúne 
 - Recoger datos de tiempos, movimientos, defectos
 
 **Día 2: Analizar y diseñar**
-- Identificar [[03-Desperdicios|desperdicios]]
+- Identificar [[03-Desperdicios/README|desperdicios]]
 - Aplicar 5 Porqués para causa raíz
 - Brainstorming de soluciones
 - Diseñar el estado futuro

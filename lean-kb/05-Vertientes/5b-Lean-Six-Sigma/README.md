@@ -37,8 +37,8 @@ La vertiente que combina la **velocidad** del [[05-Vertientes/5a-Manufactura/01-
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — Framework de 5 fases para resolver problemas
 - [[05-Vertientes/5b-Lean-Six-Sigma/08-belts-six-sigma]] — Sistema de roles y certificación
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Lean como base filosófica
-- [[01-Glosario/G-01-desperdicio]] — Eliminación de desperdicios
-- [[02-Fundamentos/02-cadena-de-valor]] — Value Stream como punto de partida
+- [[03-Desperdicios/02-muda-desperdicio]] — Eliminación de desperdicios
+- [[01-Fundamentos/07-cadena-de-valor]] — Value Stream como punto de partida
 
 ## Cuándo usar LSS
 

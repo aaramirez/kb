@@ -22,7 +22,7 @@ related:
 
 # Andon - Sistema de Señalización Visual
 
-**Andon** (提灯, "linterna") es un sistema de [[Lean Manufacturing]] que proporciona retroalimentación visual en tiempo real sobre el estado de un proceso de producción. Es una de las herramientas más poderosas para hacer visibles los problemas y empower a los trabajadores.
+**Andon** (提灯, "linterna") es un sistema de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que proporciona retroalimentación visual en tiempo real sobre el estado de un proceso de producción. Es una de las herramientas más poderosas para hacer visibles los problemas y empower a los trabajadores.
 
 ## Origen
 

@@ -84,4 +84,4 @@ Después de cada ciclo [[05-Vertientes/5c-Lean-Startup/02-construir-medir-aprend
 - [[05-Vertientes/5c-Lean-Startup/03-mvp-minimo-viable]] — MVPs generan datos para decidir
 - [[05-Vertientes/5c-Lean-Startup/06-contabilidad-de-innovacion]] — Métricas para decidir
 - [[05-Vertientes/5c-Lean-Startup/01-lean-startup-vista-general]] — Contexto general
-- [[04-Mentalidad/01-kaizen-continuo]] — Pivotar es parte de la mejora continua
+- [[02-Pilares/03-kaizen]] — Pivotar es parte de la mejora continua

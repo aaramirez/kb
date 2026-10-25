@@ -11,8 +11,8 @@ aliases:
   - Lean Branches
 related:
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../02-Filosofia/02-principios-lean]]"
-  - "[[../../02-Filosofia/03-desperdicios-muda]]"
+  - "[[01-Fundamentos/05-cinco-principios-lean]]"
+  - "[[03-Desperdicios/02-muda-desperdicio]]"
 ---
 
 # Vertientes de Lean - Vista General
@@ -120,7 +120,7 @@ Las vertientes no son compartimentos estancos. Lo mejor de una puede aplicarse a
 Todas las vertientes comparten estos conceptos centrales:
 
 - [[../../02-Filosofia/01-que-es-lean]] - ¿Qué es Lean?
-- [[../../02-Filosofia/02-principios-lean]] - Los 5 principios
-- [[../../02-Filosofia/03-desperdicios-muda]] - Los 8 desperdicios
-- [[../../02-Filosofia/05-kaizen]] - Mejora continua
-- [[../../02-Filosofia/06-cultura-lean]] - Cultura Lean
+- [[01-Fundamentos/05-cinco-principios-lean]] - Los 5 principios
+- [[03-Desperdicios/02-muda-desperdicio]] - Los 8 desperdicios
+- [[02-Pilares/03-kaizen]] - Mejora continua
+- [[02-Pilares/07-cultura-lean]] - Cultura Lean

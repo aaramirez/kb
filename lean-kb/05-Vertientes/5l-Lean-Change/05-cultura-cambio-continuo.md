@@ -15,8 +15,8 @@ related:
   - "[[01-lean-change-vista-general]]"
   - "[[03-adopcion-cambio-lean]]"
   - "[[04-resistencia-al-cambio]]"
-  - "[[../../02-Filosofia/05-kaizen]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
+  - "[[02-Pilares/03-kaizen]]"
+  - "[[02-Pilares/07-cultura-lean]]"
 ---
 
 # Cultura de Cambio Continuo
@@ -89,6 +89,6 @@ Se mide al final        Se mide siempre
 
 ## Ver también
 
-- [[../../02-Filosofia/05-kaizen]] - Kaizen como cultura
-- [[../../02-Filosofia/06-cultura-lean]] - Cultura Lean
+- [[02-Pilares/03-kaizen]] - Kaizen como cultura
+- [[02-Pilares/07-cultura-lean]] - Cultura Lean
 - [[01-lean-change-vista-general]] - Marco Lean Change

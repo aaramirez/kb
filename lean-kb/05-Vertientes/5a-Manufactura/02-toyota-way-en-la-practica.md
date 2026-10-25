@@ -13,8 +13,8 @@ aliases:
   - Toyota Production System
 related:
   - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
-  - "[[03-Pilares/01-cero-defectos]]"
-  - "[[04-Mentalidad/01-kaizen-continuo]]"
+  - "[[02-Pilares/02-jidoka]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # La Toyota Way en la Práctica
@@ -70,7 +70,7 @@ En Toyota, el liderazgo no es dar órdenes sino **desarrollar personas**. Un sup
 ## Conexiones
 
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Visión general de Lean Manufacturing
-- [[04-Mentalidad/01-kaizen-continuo]] — Kaizen como pilar de la mejora continua
-- [[03-Pilares/01-cero-defectos]] — Jidoka y calidad integrada
-- [[01-Glosario/G-01-desperdicio]] — Eliminación de desperdicios como meta constante
+- [[02-Pilares/03-kaizen]] — Kaizen como pilar de la mejora continua
+- [[02-Pilares/02-jidoka]] — Jidoka y calidad integrada
+- [[03-Desperdicios/02-muda-desperdicio]] — Eliminación de desperdicios como meta constante
 - [[05-Vertientes/5d-Lean-Software/06-decision-empoderada]] — Equipos empoderados también en software

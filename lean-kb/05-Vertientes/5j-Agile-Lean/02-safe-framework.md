@@ -16,7 +16,7 @@ related:
   - "[[05-scaling-lean-agile]]"
   - "[[04-scrum-y-lean]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../04-Herramientas/03-value-stream-mapping]]"
+  - "[[04-Herramientas/17-vsm]]"
 ---
 
 # SAFe Framework (Scaled Agile Framework)
@@ -86,4 +86,4 @@ SAFe es apropiado cuando:
 
 - [[05-scaling-lean-agile]] - Otros modelos de escalamiento
 - [[04-scrum-y-lean]] - Scrum como base de SAFe
-- [[../../04-Herramientas/03-value-stream-mapping]] - Value Stream como concepto base
+- [[04-Herramientas/17-vsm]] - Value Stream como concepto base

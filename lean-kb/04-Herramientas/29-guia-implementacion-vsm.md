@@ -118,7 +118,7 @@ Efficiency: 0.6%
 
 ## Paso 4: Identificar Desperdicios
 
-Marcar en el mapa los [[03-Desperdicios|desperdicios]] encontrados:
+Marcar en el mapa los [[03-Desperdicios/README|desperdicios]] encontrados:
 - Inventario excesivo entre procesos
 - Tiempos de espera largos
 - Transporte innecesario

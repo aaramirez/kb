@@ -23,7 +23,7 @@ related:
 
 # A3 - Resolución de Problemas
 
-El **A3 Report** es una herramienta de [[Lean Manufacturing]] para resolver problemas de forma estructurada y colaborativa, todo documentado en una sola hoja de papel tamaño A3 (297 × 420 mm). Más que un formulario, el A3 es un **proceso de pensamiento**.
+El **A3 Report** es una herramienta de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para resolver problemas de forma estructurada y colaborativa, todo documentado en una sola hoja de papel tamaño A3 (297 × 420 mm). Más que un formulario, el A3 es un **proceso de pensamiento**.
 
 ## Origen
 

@@ -15,8 +15,8 @@ related:
   - "[[01-lean-4-vista-general]]"
   - "[[02-gemelos-digitales-lean]]"
   - "[[04-ia-mejora-continua]]"
-  - "[[../../03-Metodologias/01-lean-manufacturing]]"
-  - "[[../../02-Filosofia/03-desperdicios-muda]]"
+  - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
+  - "[[03-Desperdicios/02-muda-desperdicio]]"
 ---
 
 # IoT en Manufactura Lean
@@ -81,4 +81,4 @@ El concepto de fábrica inteligente integra:
 
 - [[01-lean-4-vista-general]] - Marco Lean 4.0
 - [[02-gemelos-digitales-lean]] - Gemelos digitales
-- [[../../02-Filosofia/03-desperdicios-muda]] - Los 8 desperdicios
+- [[03-Desperdicios/02-muda-desperdicio]] - Los 8 desperdicios

@@ -66,7 +66,7 @@ Se pedantic materials con anticipación por tiempos de entrega largos.
 ### JIT (Just In Time)
 Recibir y producir solo lo necesario, cuando se necesita.
 
-### [[Kanban]]
+### [[04-Herramientas/09-kanban|Kanban]]
 Sistema de señalización que controla el flujo de materiales.
 
 ### Flujo Continuo (One-Piece Flow)

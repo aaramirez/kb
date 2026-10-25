@@ -70,7 +70,7 @@ Los que hacen el trabajo saben mejor qué hacer:
 
 La calidad no se inspecciona — se **construye** en el producto:
 
-- [[03-Pilares/01-cero-defectos|Built-in quality]]
+- [[02-Pilares/02-jidoka|Built-in quality]]
 - Arquitectura modular
 - [[05-Vertientes/5b-Lean-Six-Sigma/07-dmaic-controlar|Continuous testing]]
 - Definición de "done" completa

@@ -76,4 +76,4 @@ Lean Software y Agile son **complementarios**, no competidores:
 - [[05-Vertientes/5d-Lean-Software/08-devops-lean-perspectiva]] — DevOps como extensión
 - [[05-Vertientes/5c-Lean-Startup/01-lean-startup-vista-general]] — Lean Startup como complemento
 - [[05-Vertientes/5b-Lean-Six-Sigma/01-lean-six-sigma-vista-general]] — LSS como complemento
-- [[01-Glosario/G-01-desperdicio]] — Los 7 desperdicios
+- [[03-Desperdicios/02-muda-desperdicio]] — Los 7 desperdicios

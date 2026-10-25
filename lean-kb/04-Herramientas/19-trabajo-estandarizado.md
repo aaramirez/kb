@@ -23,7 +23,7 @@ related:
 
 # Trabajo Estandarizado (Standardized Work)
 
-**Trabajo Estandarizado** (Standardized Work) es un método de [[Lean Manufacturing]] para **documentar la mejor forma conocida** de realizar una tarea. No es una restricción, sino la **línea base** sobre la cual se mejora continuamente.
+**Trabajo Estandarizado** (Standardized Work) es un método de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para **documentar la mejor forma conocida** de realizar una tarea. No es una restricción, sino la **línea base** sobre la cual se mejora continuamente.
 
 ## Definición
 

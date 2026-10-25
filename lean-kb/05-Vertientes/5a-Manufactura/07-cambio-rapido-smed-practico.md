@@ -76,5 +76,5 @@ SMED (Single-Minute Exchange of Die) es un método para **reducir el tiempo de c
 - [[05-Vertientes/5a-Manufactura/05-flujo-pieza-por-pieza]] — One-Piece Flow requiere SMED
 - [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] — Layout afecta eficiencia del cambio
 - [[05-Vertientes/5a-Manufactura/06-sistema-supermercado]] — SMED reduce tamaño de supermercados
-- [[01-Glosario/G-01-desperdicio]] — Tiempo de setup como desperdicio de espera
-- [[04-Mentalidad/01-kaizen-continuo]] — SMED es un proyecto de kaizen por excelencia
+- [[03-Desperdicios/02-muda-desperdicio]] — Tiempo de setup como desperdicio de espera
+- [[02-Pilares/03-kaizen]] — SMED es un proyecto de kaizen por excelencia

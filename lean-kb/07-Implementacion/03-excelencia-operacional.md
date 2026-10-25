@@ -35,7 +35,7 @@ La excelencia operacional se alcanza cuando una organización:
 
 ### Desempeño del Proceso
 
-- [[09-sistema-de-tirón|Sistema de tirón]] funcionando de manera estable
+- [[01-Fundamentos/09-sistema-de-tiron|Sistema de tirón]] funcionando de manera estable
 - [[08-flujo|Flujo continuo]] sin interrupciones significativas
 - Calidad integrada en cada paso del proceso
 - Tiempos de ciclo predecibles y reducidos
@@ -45,7 +45,7 @@ La excelencia operacional se alcanza cuando una organización:
 - [[12-liderazgo-gemba|Liderazgo en el Gemba]] como práctica regular
 - [[11-trabajo-estandar-lider|Trabajo estándar del líder]] definido y seguido
 - Capacitación continua y desarrollo de habilidades
-- Participación activa de todos en la [[11-cultura-kaizen|mejora]]
+- Participación activa de todos en la [[07-Implementacion/10-cultura-kaizen|mejora]]
 
 ### Sistema de Gestión
 

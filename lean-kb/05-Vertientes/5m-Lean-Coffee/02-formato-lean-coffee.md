@@ -15,7 +15,7 @@ related:
   - "[[01-lean-coffee-vista-general]]"
   - "[[03-moderacion-y-dinamica]]"
   - "[[04-lean-coffee-en-organizaciones]]"
-  - "[[../../04-Herramientas/01-tablero-kanban]]"
+  - "[[04-Herramientas/09-kanban]]"
 ---
 
 # Formato Lean Coffee
@@ -105,4 +105,4 @@ Combina Lean Coffee con Improvement Kata: cada tema se convierte en un experimen
 
 - [[01-lean-coffee-vista-general]] - Origen y concepto
 - [[03-moderacion-y-dinamica]] - Cómo facilitar
-- [[../../04-Herramientas/01-tablero-kanban]] - Tableros visuales
+- [[04-Herramientas/09-kanban]] - Tableros visuales

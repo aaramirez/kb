@@ -88,4 +88,4 @@ CI es el mecanismo de amplificar aprendizaje a nivel de equipo:
 - [[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general]] — Contexto de Lean Software
 - [[05-Vertientes/5d-Lean-Software/04-eliminacion-desperdicios-codigo]] — Learning evita relearning waste
 - [[05-Vertientes/5d-Lean-Software/08-devops-lean-perspectiva]] — CI/CD como amplificador
-- [[04-Mentalidad/01-kaizen-continuo]] — Kaizen como cultura de aprendizaje continuo
+- [[02-Pilares/03-kaizen]] — Kaizen como cultura de aprendizaje continuo

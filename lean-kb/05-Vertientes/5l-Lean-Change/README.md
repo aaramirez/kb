@@ -11,8 +11,8 @@ aliases:
   - Índice Lean Change
 related:
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../02-Filosofia/05-kaizen]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
+  - "[[02-Pilares/03-kaizen]]"
+  - "[[02-Pilares/07-cultura-lean]]"
 ---
 
 # Lean Change

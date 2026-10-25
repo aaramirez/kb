@@ -30,9 +30,9 @@ La vertiente que adapta los principios del [[05-Vertientes/5a-Manufactura/01-lea
 
 ## Conceptos clave
 
-- [[01-Glosario/G-01-desperdicio]] — Desperdicios en procesos educativos
-- [[02-Fundamentos/02-cadena-de-valor]] — Cadena de valor educativa
-- [[03-Pilares/02-trabajo-estandarizado]] — Estandarización en educación
+- [[03-Desperdicios/02-muda-desperdicio]] — Desperdicios en procesos educativos
+- [[01-Fundamentos/07-cadena-de-valor]] — Cadena de valor educativa
+- [[04-Herramientas/19-trabajo-estandarizado]] — Estandarización en educación
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Origen de las herramientas
 - [[05-Vertientes/5h-Lean-Gobierno/01-lean-gobierno-vista-general]] — Educación pública
 

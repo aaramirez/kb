@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[05-Vertientes/5b-Lean-Six-Sigma/04-dmaic-medir]]"
   - "[[05-Vertientes/5b-Lean-Six-Sigma/06-dmaic-mejorar]]"
-  - "[[01-Glosario/G-01-desperdicio]]"
+  - "[[03-Desperdicios/02-muda-desperdicio]]"
 ---
 
 # DMAIC: Analizar
@@ -86,6 +86,6 @@ Problema (Y) = f(X₁, X₂, X₃, ...)
 - [[05-Vertientes/5b-Lean-Six-Sigma/04-dmaic-medir]] — Fase anterior: Measure
 - [[05-Vertientes/5b-Lean-Six-Sigma/06-dmaic-mejorar]] — Siguiente fase: Improve
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — DMAIC como framework
-- [[01-Glosario/G-01-desperdicio]] — Las causas raíz suelen ser desperdicios
+- [[03-Desperdicios/02-muda-desperdicio]] — Las causas raíz suelen ser desperdicios
 - [[05-Vertientes/5a-Manufactura/02-toyota-way-en-la-practica]] — Genchi Genbutsu: ir a ver
 - [[05-Vertientes/5b-Lean-Six-Sigma/08-belts-six-sigma]] — Roles del equipo

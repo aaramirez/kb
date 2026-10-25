@@ -32,9 +32,9 @@ La vertiente más histórica y originaria del pensamiento [[05-Vertientes/5a-Man
 
 ## Conceptos clave
 
-- [[01-Glosario/G-01-desperdicio]] — Los 7 desperdicios del Lean Manufacturing
-- [[02-Fundamentos/02-cadena-de-valor]] — Cadena de valor como base del análisis
-- [[03-Pilares/01-cero-defectos]] — Calidad integrada en el proceso
+- [[03-Desperdicios/02-muda-desperdicio]] — Los 7 desperdicios del Lean Manufacturing
+- [[01-Fundamentos/07-cadena-de-valor]] — Cadena de valor como base del análisis
+- [[02-Pilares/02-jidoka]] — Calidad integrada en el proceso
 - [[05-Vertientes/5b-Lean-Six-Sigma/01-lean-six-sigma-vista-general]] — Complemento con Six Sigma
 - [[05-Vertientes/5c-Lean-Startup/03-mvp-minimo-viable]] — MVP como versión adaptada del concepto
 

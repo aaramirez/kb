@@ -27,7 +27,7 @@ La [[05-Vertientes/5h-Lean-Gobierno/03-simplificacion-procesos|Simplificación d
 
 ## Mapeo de procesos gubernamentales
 
-El primer paso es [[02-Fundamentos/02-cadena-de-valor|mapear]] cada proceso de principio a fin:
+El primer paso es [[01-Fundamentos/07-cadena-de-valor|mapear]] cada proceso de principio a fin:
 
 ### Pasos para el mapeo
 
@@ -47,7 +47,7 @@ El primer paso es [[02-Fundamentos/02-cadena-de-valor|mapear]] cada proceso de p
 
 ## Eliminación de desperdicios burocráticos
 
-Los [[01-Glosario/G-01-desperdicio|desperdicios]] más comunes en procesos gubernamentales:
+Los [[03-Desperdicios/02-muda-desperdicio|desperdicios]] más comunes en procesos gubernamentales:
 
 ### Formularios redundantes
 - **Problema** — el ciudadano llena el mismo dato en 3 formularios

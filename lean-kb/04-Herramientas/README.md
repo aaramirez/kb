@@ -11,18 +11,18 @@ aliases:
   - Lean Tools
   - Herramientas Esenciales
 related:
-  - "[[01-Fundamentos]]"
-  - "[[02-Pilares]]"
-  - "[[03-Desperdicios]]"
+  - "[[01-Fundamentos/README]]"
+  - "[[02-Pilares/README]]"
+  - "[[03-Desperdicios/README]]"
 ---
 
 # Herramientas Lean
 
-Sección dedicada a las herramientas esenciales del [[Lean Manufacturing]] para implementar y sostener un sistema de producción eficiente.
+Sección dedicada a las herramientas esenciales del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para implementar y sostener un sistema de producción eficiente.
 
 ## Visión General
 
-Las herramientas Lean no son fines en sí mismos, sino medios para alcanzar los principios fundamentales descritos en [[01-Fundamentos]]. Cada herramienta aborda un aspecto específico del sistema, pero todas trabajan juntas para crear flujo continuo, eliminar [[03-Desperdicios|desperdicios]] y respetar a las personas.
+Las herramientas Lean no son fines en sí mismos, sino medios para alcanzar los principios fundamentales descritos en [[01-Fundamentos/README]]. Cada herramienta aborda un aspecto específico del sistema, pero todas trabajan juntas para crear flujo continuo, eliminar [[03-Desperdicios/README|desperdicios]] y respetar a las personas.
 
 ## Herramientas Esenciales
 
@@ -83,9 +83,9 @@ Principios Lean (01-Fundamentos)
 
 Antes de estudiar esta sección, es recomendable haber completado:
 
-- [[01-Fundamentos]] — Conceptos básicos del [[Lean Manufacturing]]
-- [[02-Pilares]] — JIT, Jidoka, Kaizen y Respeto por las Personas
-- [[03-Desperdicios]] — Los 8+1 desperdicios y el Marco 3M
+- [[01-Fundamentos/README]] — Conceptos básicos del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]]
+- [[02-Pilares/README]] — JIT, Jidoka, Kaizen y Respeto por las Personas
+- [[03-Desperdicios/README]] — Los 8+1 desperdicios y el Marco 3M
 
 ## Flujo de Aprendizaje
 
@@ -110,7 +110,7 @@ Antes de estudiar esta sección, es recomendable haber completado:
 
 ## Notas Relacionadas
 
-- [[01-Fundamentos]] — Donde comienza todo
-- [[02-Pilares]] — Los pilares del sistema
-- [[03-Desperdicios]] — Qué debemos eliminar
+- [[01-Fundamentos/README]] — Donde comienza todo
+- [[02-Pilares/README]] — Los pilares del sistema
+- [[03-Desperdicios/README]] — Qué debemos eliminar
 - [[lean-glossary|Glosario Lean]] — Definiciones completas

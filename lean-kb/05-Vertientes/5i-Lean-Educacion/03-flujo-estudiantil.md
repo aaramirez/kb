@@ -21,7 +21,7 @@ related:
 
 ## ¿Qué es el Flujo Estudiantil?
 
-El Flujo Estudiantil es el recorrido completo que realiza un estudiante desde su interés inicial hasta la graduación. Mapear y optimizar este flujo es fundamental para eliminar [[01-Glosario/G-01-desperdicio|desperdicios]] como la espera y la fricción innecesaria.
+El Flujo Estudiantil es el recorrido completo que realiza un estudiante desde su interés inicial hasta la graduación. Mapear y optimizar este flujo es fundamental para eliminar [[03-Desperdicios/02-muda-desperdicio|desperdicios]] como la espera y la fricción innecesaria.
 
 > *"Cada barrera que enfrenta un estudiante es una oportunidad de mejora para la institución."*
 

@@ -11,13 +11,13 @@ aliases:
   - Waste
   - Muda
 related:
-  - "[[01-Fundamentos]]"
+  - "[[01-Fundamentos/README]]"
   - "[[01-marco-3m]]"
 ---
 
 # Desperdicios
 
-Sección dedicada a comprender y eliminar los desperdicios en un sistema [[Lean Manufacturing]].
+Sección dedicada a comprender y eliminar los desperdicios en un sistema [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]].
 
 ## Marco de Referencia
 
@@ -36,7 +36,7 @@ El framework central para entender los desperdicios es el **[[01-marco-3m|Marco 
 | 3 | [[07-desperdicio-transporte\|Transporte]] | Movimiento innecesario de materiales |
 | 4 | [[08-desperdicio-sobreprocesamiento\|Sobreprocesamiento]] | Procesar más de lo que el cliente requiere |
 | 5 | [[09-desperdicio-inventario\|Inventario]] | Exceso de materia prima, WIP o producto terminado |
-| 6 | [[010-desperdicio-movimiento\|Movimiento]] | Movimiento innecesario de personas |
+| 6 | [[03-Desperdicios/10-desperdicio-movimiento\|Movimiento]] | Movimiento innecesario de personas |
 | 7 | [[11-desperdicio-defectos\|Defectos]] | Productos o servicios que no cumplen especificaciones |
 | 8 | [[12-desperdicio-talento-no-utilizado\|Talento No Utilizado]] | No aprovechar las habilidades del equipo |
 
@@ -49,7 +49,7 @@ El framework central para entender los desperdicios es el **[[01-marco-3m|Marco 
 
 Antes de estudiar esta sección, es recomendable haber completado:
 
-- [[01-Fundamentos]] — Conceptos básicos de Lean Manufacturing
+- [[01-Fundamentos/README]] — Conceptos básicos de Lean Manufacturing
 
 ## Flujo de Aprendizaje
 

@@ -17,8 +17,8 @@ related:
   - "[[04-resistencia-al-cambio]]"
   - "[[05-cultura-cambio-continuo]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../02-Filosofia/05-kaizen]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
+  - "[[02-Pilares/03-kaizen]]"
+  - "[[02-Pilares/07-cultura-lean]]"
 ---
 
 # Lean Change - Vista General
@@ -77,5 +77,5 @@ Lean Change Management usa el ciclo **Observe-Direct-Change**:
 ## Ver también
 
 - [[../../02-Filosofia/01-que-es-lean]] - Fundamentos de Lean
-- [[../../02-Filosofia/05-kaizen]] - Kaizen como cambio
-- [[../../02-Filosofia/06-cultura-lean]] - Cultura Lean
+- [[02-Pilares/03-kaizen]] - Kaizen como cambio
+- [[02-Pilares/07-cultura-lean]] - Cultura Lean

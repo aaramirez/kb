@@ -14,9 +14,9 @@ aliases:
 related:
   - "[[01-agile-lean-vista-general]]"
   - "[[04-scrum-y-lean]]"
-  - "[[../../03-Metodologias/05-kanban]]"
-  - "[[../../02-Filosofia/03-desperdicios-muda]]"
-  - "[[../../04-Herramientas/01-tablero-kanban]]"
+  - "[[04-Herramientas/09-kanban]]"
+  - "[[03-Desperdicios/02-muda-desperdicio]]"
+  - "[[04-Herramientas/09-kanban]]"
 ---
 
 # Método Kanban Ágil
@@ -86,6 +86,6 @@ El Kanban ágil preserva los principios de Lean pero los adapta:
 
 ## Ver también
 
-- [[../../03-Metodologias/05-kanban]] - Kanban en profundidad
-- [[../../04-Herramientas/01-tablero-kanban]] - Diseño de tableros
+- [[04-Herramientas/09-kanban]] - Kanban en profundidad
+- [[04-Herramientas/09-kanban]] - Diseño de tableros
 - [[04-scrum-y-lean]] - Comparativa con Scrum

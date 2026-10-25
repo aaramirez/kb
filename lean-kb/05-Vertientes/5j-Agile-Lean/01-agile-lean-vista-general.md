@@ -18,7 +18,7 @@ related:
   - "[[05-scaling-lean-agile]]"
   - "[[06-lean-y-agile-diferencias]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../02-Filosofia/02-principios-lean]]"
+  - "[[01-Fundamentos/05-cinco-principios-lean]]"
 ---
 
 # Agile-Lean - Vista General
@@ -79,5 +79,5 @@ Cuando una organización necesita combinar la visión sistémica de Lean con la 
 ## Ver también
 
 - [[../../02-Filosofia/01-que-es-lean]] - Fundamentos de Lean
-- [[../../02-Filosofia/02-principios-lean]] - Los 5 principios de Lean
+- [[01-Fundamentos/05-cinco-principios-lean]] - Los 5 principios de Lean
 - [[06-lean-y-agile-diferencias]] - Comparativa detallada

@@ -93,4 +93,4 @@ Cada ciclo BML produce [[05-Vertientes/5c-Lean-Startup/04-aprendizaje-validado|a
 - [[05-Vertientes/5c-Lean-Startup/04-aprendizaje-validado]] — El output del ciclo
 - [[05-Vertientes/5c-Lean-Startup/05-pivotar-o-perseverar]] — La decisión al final del ciclo
 - [[05-Vertientes/5c-Lean-Startup/06-contabilidad-de-innovacion]] — Cómo medir
-- [[04-Mentalidad/01-kaizen-continuo]] — BML es kaizen aplicado a innovación
+- [[02-Pilares/03-kaizen]] — BML es kaizen aplicado a innovación

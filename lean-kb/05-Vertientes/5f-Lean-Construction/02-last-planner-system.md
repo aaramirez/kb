@@ -51,7 +51,7 @@ El LPS funciona como un sistema de filtración que va del plan general al compro
 
 ## Percent Plan Complete (PPC)
 
-El [[03-Pilares/01-cero-defectos|PPC]] es la métrica fundamental del LPS:
+El [[02-Pilares/02-jidoka|PPC]] es la métrica fundamental del LPS:
 
 ```
 PPC = (Compromisos cumplidos / Total de compromisos) × 100%
@@ -91,4 +91,4 @@ PPC = (Compromisos cumplidos / Total de compromisos) × 100%
 - [[05-Vertientes/5f-Lean-Construction/04-pull-planning]] — planificación pull complementaria
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — origen del concepto pull
 - [[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general]] — contexto general
-- [[03-Pilares/02-trabajo-estandarizado]] — estandarización de procesos de planificación
+- [[04-Herramientas/19-trabajo-estandarizado]] — estandarización de procesos de planificación

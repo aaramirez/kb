@@ -16,7 +16,7 @@ related:
   - "[[04-scrum-y-lean]]"
   - "[[03-metodo-kanban-agil]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../03-Metodologias/03-scrum]]"
+  - "[[05-Vertientes/5j-Agile-Lean/04-scrum-y-lean]]"
 ---
 
 # Lean vs Agile - Diferencias
@@ -94,4 +94,4 @@ Lean y Agile no son excluyentes. De hecho, lo más efectivo es combinarlos:
 
 - [[01-agile-lean-vista-general]] - La convergencia Agile-Lean
 - [[../../02-Filosofia/01-que-es-lean]] - Qué es Lean
-- [[../../03-Metodologias/03-scrum]] - Scrum en detalle
+- [[05-Vertientes/5j-Agile-Lean/04-scrum-y-lean]] - Scrum en detalle

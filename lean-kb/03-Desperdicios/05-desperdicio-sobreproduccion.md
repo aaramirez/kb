@@ -20,7 +20,7 @@ related:
 
 # Desperdicio: Sobreproducción
 
-**Sobreproducción** es producir más de lo necesario, más rápido de lo necesario, o antes de lo necesario. Es considerado el peor de los ocho [[02-muda-desperdicios|desperdicios]] porque oculta todos los demás.
+**Sobreproducción** es producir más de lo necesario, más rápido de lo necesario, o antes de lo necesario. Es considerado el peor de los ocho [[03-Desperdicios/02-muda-desperdicio|desperdicios]] porque oculta todos los demás.
 
 ## Definición
 
@@ -51,12 +51,12 @@ La sobreproducción es la raíz de muchos otros desperdicios:
 ## Contraerrestantes
 
 ### Sistema Pull (Jabón)
-Solo producir cuando hay una señal de demanda del proceso siguiente. Ver [[Kanban]].
+Solo producir cuando hay una señal de demanda del proceso siguiente. Ver [[04-Herramientas/09-kanban|Kanban]].
 
 ### JIT (Just In Time)
 Producir exactamente lo necesario, en el momento necesario, en la cantidad necesaria.
 
-### [[Heijunka]]
+### [[04-Herramientas/07-heijunka|Heijunka]]
 Nivelar la producción para evitar picos que lleven a sobreproducción.
 
 ## Ejemplo

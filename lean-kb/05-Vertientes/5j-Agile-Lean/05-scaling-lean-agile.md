@@ -15,8 +15,8 @@ related:
   - "[[02-safe-framework]]"
   - "[[01-agile-lean-vista-general]]"
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../04-Herramientas/03-value-stream-mapping]]"
-  - "[[../../03-Metodologias/03-scrum]]"
+  - "[[04-Herramientas/17-vsm]]"
+  - "[[05-Vertientes/5j-Agile-Lean/04-scrum-y-lean]]"
 ---
 
 # Scaling Lean-Agile (Escalamiento)
@@ -89,4 +89,4 @@ Escalar solo cuando:
 
 - [[02-safe-framework]] - Detalle de SAFe
 - [[01-agile-lean-vista-general]] - Fundamentos Agile-Lean
-- [[../../04-Herramientas/03-value-stream-mapping]] - VSM como herramienta clave
+- [[04-Herramientas/17-vsm]] - VSM como herramienta clave

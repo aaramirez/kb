@@ -13,7 +13,7 @@ aliases:
   - Cadena de Valor en Salud
 related:
   - "[[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general]]"
-  - "[[02-Fundamentos/02-cadena-de-valor]]"
+  - "[[01-Fundamentos/07-cadena-de-valor]]"
   - "[[05-Vertientes/5e-Lean-Healthcare/02-flujo-de-paciente]]"
 ---
 
@@ -21,7 +21,7 @@ related:
 
 ## ¿Qué es la Cadena de Valor en Salud?
 
-La [[02-Fundamentos/02-cadena-de-valor|Cadena de Valor]] en el contexto sanitario representa el conjunto completo de actividades que agregan valor al paciente, desde la prevención hasta la rehabilitación. Identificar esta cadena permite distinguir entre actividades que generan valor real y aquellas que constituyen [[01-Glosario/G-01-desperdicio|desperdicio]].
+La [[01-Fundamentos/07-cadena-de-valor|Cadena de Valor]] en el contexto sanitario representa el conjunto completo de actividades que agregan valor al paciente, desde la prevención hasta la rehabilitación. Identificar esta cadena permite distinguir entre actividades que generan valor real y aquellas que constituyen [[03-Desperdicios/02-muda-desperdicio|desperdicio]].
 
 > *"No todo lo que se hace en un hospital agrega valor al paciente. La clave es distinguir lo esencial de lo prescindible."*
 
@@ -76,7 +76,7 @@ Un mapa completo de cadena de valor sanitaria incluye:
 
 | Herramienta | Aplicación | Referencia |
 |-------------|-----------|------------|
-| Mapa de flujo de valor | Visualizar toda la cadena | [[02-Fundamentos/02-cadena-de-valor]] |
+| Mapa de flujo de valor | Visualizar toda la cadena | [[01-Fundamentos/07-cadena-de-valor]] |
 | Análisis de tiempos | Identificar cuellos de botella | [[05-Vertientes/5e-Lean-Healthcare/02-flujo-de-paciente]] |
 | Diagrama de spaghetti | Analizar movimientos físicos | [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion]] |
 | Trabajo estandarizado | Reducir variabilidad | [[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]] |
@@ -91,7 +91,7 @@ Un mapa completo de cadena de valor sanitaria incluye:
 
 ## Conexiones
 
-- [[02-Fundamentos/02-cadena-de-valor]] — concepto fundamental de Lean
+- [[01-Fundamentos/07-cadena-de-valor]] — concepto fundamental de Lean
 - [[05-Vertientes/5e-Lean-Healthcare/02-flujo-de-paciente]] — optimización del flujo individual
 - [[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]] — estandarización de procesos
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — orígenes del concepto

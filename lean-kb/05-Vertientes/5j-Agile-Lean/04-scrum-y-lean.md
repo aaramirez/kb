@@ -15,8 +15,7 @@ related:
   - "[[01-agile-lean-vista-general]]"
   - "[[03-metodo-kanban-agil]]"
   - "[[06-lean-y-agile-diferencias]]"
-  - "[[../../03-Metodologias/03-scrum]]"
-  - "[[../../02-Filosofia/02-principios-lean]]"
+  - "[[01-Fundamentos/05-cinco-principios-lean]]"
 ---
 
 # Scrum y Lean
@@ -84,6 +83,5 @@ El flujo de valor en Scrum va desde la idea hasta el software funcionando:
 
 ## Ver también
 
-- [[../../03-Metodologias/03-scrum]] - Fundamentos de Scrum
 - [[03-metodo-kanban-agil]] - Kanban como alternativa/complemento
-- [[../../02-Filosofia/02-principios-lean]] - Principios Lean
+- [[01-Fundamentos/05-cinco-principios-lean]] - Principios Lean

@@ -61,7 +61,7 @@ Ambos pilares son **inseparables**. JIT sin Jidoka produce defectos rápidamente
 Los cimientos que estabilizan la casa:
 
 - **Heijunka** ([[04-Herramientas/07-heijunka|Heijunka]]) — Nivelación de la producción para suavizar fluctuaciones
-- **Trabajo Estandarizado** ([[04-Herramientas/06-trabajo-estandarizado|Standardized Work]]) — Procesos definidos y repetibles que hacen visibles las desviaciones
+- **Trabajo Estandarizado** ([[04-Herramientas/19-trabajo-estandarizado|Standardized Work]]) — Procesos definidos y repetibles que hacen visibles las desviaciones
 - **Kaizen** ([[02-Pilares/03-kaizen|Kaizen]]) — Mejora continua que fortalece todos los demás elementos
 
 ## Cómo se Sostienen Entre Sí
@@ -87,4 +87,4 @@ Algunas versiones modernas de la casa incluyen **Respeto por las Personas** como
 - [[02-Pilares/04-respeto-por-las-personas|Respeto por las Personas]] — Componente humano
 - [[02-Pilares/06-modelo-tres-pilares|Modelo de Tres Pilares]] — Evolución del modelo
 - [[04-Herramientas/07-heijunka|Heijunka]] — Nivelación de producción
-- [[04-Herramientas/06-trabajo-estandarizado|Trabajo Estandarizado]] — Base del sistema
+- [[04-Herramientas/19-trabajo-estandarizado|Trabajo Estandarizado]] — Base del sistema

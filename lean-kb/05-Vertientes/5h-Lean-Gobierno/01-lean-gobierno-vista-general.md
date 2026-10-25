@@ -38,7 +38,7 @@ En Lean Gobierno, el [[05-Vertientes/5h-Lean-Gobierno/02-valor-ciudadano|ciudada
 
 ## Reducción de la burocracia
 
-Los desperdicios burocráticos son la manifestación del [[01-Glosario/G-01-desperdicio|desperdicio]] en el gobierno:
+Los desperdicios burocráticos son la manifestación del [[03-Desperdicios/02-muda-desperdicio|desperdicio]] en el gobierno:
 
 1. **Trámites innecesarios** — formularios que no aportan valor
 2. **Aprobaciones redundantes** — múltiples firmas para un mismo trámite

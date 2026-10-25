@@ -83,6 +83,6 @@ La metodología LSS usa [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia|D
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — Framework DMAIC
 - [[05-Vertientes/5b-Lean-Six-Sigma/08-belts-six-sigma]] — Sistema de roles
 - [[05-Vertientes/5b-Lean-Six-Sigma/09-integracion-lean-six-sigma]] — Cómo se integran Lean y SS
-- [[01-Glosario/G-01-desperdicio]] — Los 7 desperdicios
-- [[02-Fundamentos/02-cadena-de-valor]] — Value Stream Mapping
-- [[03-Pilares/01-cero-defectos]] — Calidad como objetivo
+- [[03-Desperdicios/02-muda-desperdicio]] — Los 7 desperdicios
+- [[01-Fundamentos/07-cadena-de-valor]] — Value Stream Mapping
+- [[02-Pilares/02-jidoka]] — Calidad como objetivo

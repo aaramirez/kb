@@ -23,7 +23,7 @@ related:
 
 # Heijunka (Nivelación de Producción)
 
-**Heijunka** (平準化) es una herramienta de [[Lean Manufacturing]] que consiste en **nivelar la producción** tanto por volumen como por mezcla de productos a lo largo del tiempo. Es la base para lograr un sistema estable, predecible y eficiente.
+**Heijunka** (平準化) es una herramienta de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que consiste en **nivelar la producción** tanto por volumen como por mezcla de productos a lo largo del tiempo. Es la base para lograr un sistema estable, predecible y eficiente.
 
 ## Definición
 

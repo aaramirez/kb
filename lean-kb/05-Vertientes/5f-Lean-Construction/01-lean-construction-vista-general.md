@@ -67,7 +67,7 @@ El [[05-Vertientes/5d-Lean-Software/01-lean-software-vista-general|Integrated Pr
 
 ## Desperdicios en construcción
 
-Los 8 desperdicios del [[01-Glosario/G-01-desperdicio|Lean Manufacturing]] se manifiestan en construcción como:
+Los 8 desperdicios del [[03-Desperdicios/02-muda-desperdicio|Lean Manufacturing]] se manifiestan en construcción como:
 
 1. **Sobreproducción** — instalar más de lo necesario
 2. **Espera** — trabajadores esperando materiales o instrucciones

@@ -23,7 +23,7 @@ related:
 
 # Flujo Continuo (Continuous Flow)
 
-El **Flujo Continuo** es un principio fundamental del [[Lean Manufacturing]] que consiste en mover **una pieza a la vez** a través del proceso de producción, de principio a fin, sin acumular inventario entre estaciones.
+El **Flujo Continuo** es un principio fundamental del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que consiste en mover **una pieza a la vez** a través del proceso de producción, de principio a fin, sin acumular inventario entre estaciones.
 
 ## Definición
 

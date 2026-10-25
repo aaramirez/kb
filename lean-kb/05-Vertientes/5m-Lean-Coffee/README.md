@@ -11,8 +11,8 @@ aliases:
   - Índice Lean Coffee
 related:
   - "[[../../02-Filosofia/01-que-es-lean]]"
-  - "[[../../02-Filosofia/04-value-value]]"
-  - "[[../../04-Herramientas/01-tablero-kanban]]"
+  - "[[01-Fundamentos/06-valor]]"
+  - "[[04-Herramientas/09-kanban]]"
 ---
 
 # Lean Coffee

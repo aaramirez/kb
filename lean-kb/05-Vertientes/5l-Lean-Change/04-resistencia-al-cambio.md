@@ -16,7 +16,7 @@ related:
   - "[[02-gestion-del-cambio-organizacional]]"
   - "[[03-adopcion-cambio-lean]]"
   - "[[05-cultura-cambio-continuo]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
+  - "[[02-Pilares/07-cultura-lean]]"
 ---
 
 # Resistencia al Cambio
@@ -95,4 +95,4 @@ El principio Lean de **respeto por las personas** es la base:
 
 - [[02-gestion-del-cambio-organizacional]] - Marco de change management
 - [[03-adopcion-cambio-lean]] - Cómo medir adopción
-- [[../../02-Filosofia/06-cultura-lean]] - Cultura Lean como base
+- [[02-Pilares/07-cultura-lean]] - Cultura Lean como base

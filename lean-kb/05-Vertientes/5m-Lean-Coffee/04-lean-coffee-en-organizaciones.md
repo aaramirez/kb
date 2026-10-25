@@ -15,8 +15,8 @@ related:
   - "[[01-lean-coffee-vista-general]]"
   - "[[02-formato-lean-coffee]]"
   - "[[03-moderacion-y-dinamica]]"
-  - "[[../../02-Filosofia/06-cultura-lean]]"
-  - "[[../../04-Herramientas/01-tablero-kanban]]"
+  - "[[02-Pilares/07-cultura-lean]]"
+  - "[[04-Herramientas/09-kanban]]"
 ---
 
 # Lean Coffee en Organizaciones
@@ -106,4 +106,4 @@ Para equipos remotos o distribuidos:
 
 - [[02-formato-lean-coffee]] - Formato en detalle
 - [[03-moderacion-y-dinamica]] - Cómo facilitar
-- [[../../04-Herramientas/01-tablero-kanban]] - Tableros visuales
+- [[04-Herramientas/09-kanban]] - Tableros visuales

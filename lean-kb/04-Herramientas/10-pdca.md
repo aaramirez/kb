@@ -23,7 +23,7 @@ related:
 
 # PDCA (Plan-Do-Check-Act)
 
-**PDCA** (Plan-Do-Check-Act) es el ciclo fundamental de mejora continua en [[Lean Manufacturing]]. También conocido como la **Rueda de Deming** o **Ciclo de Deming**, es el motor que impulsa todas las demás herramientas Lean.
+**PDCA** (Plan-Do-Check-Act) es el ciclo fundamental de mejora continua en [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]]. También conocido como la **Rueda de Deming** o **Ciclo de Deming**, es el motor que impulsa todas las demás herramientas Lean.
 
 ## Definición
 

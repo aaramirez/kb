@@ -73,7 +73,7 @@ JIT (Flujo) ←────→ Jidoka (Calidad)
 | Alto inventario y tiempos de entrega largos | Enfatizar [[02-Pilares/01-just-in-time\|JIT]] |
 | Alta tasa de defectos y retrabajo | Enfatizar [[02-Pilares/02-jidoka\|Jidoka]] |
 | Demanda fluctuante | JIT + [[04-Herramientas/07-heijunka\|Heijunka]] |
-| Procesos nuevos sin estandarizar | Jidoka + [[04-Herramientas/06-trabajo-estandarizado\|Trabajo Estandarizado]] |
+| Procesos nuevos sin estandarizar | Jidoka + [[04-Herramientas/19-trabajo-estandarizado\|Trabajo Estandarizado]] |
 | Cultura de miedo al error | [[02-Pilares/04-respeto-por-las-personas\|Respeto]] primero, luego Jidoka |
 | Organización madura en Lean | Equilibrio entre ambos pilares |
 

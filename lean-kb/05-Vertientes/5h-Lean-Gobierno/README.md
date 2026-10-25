@@ -30,9 +30,9 @@ La vertiente que adapta los principios del [[05-Vertientes/5a-Manufactura/01-lea
 
 ## Conceptos clave
 
-- [[01-Glosario/G-01-desperdicio]] — Desperdicios burocráticos
-- [[02-Fundamentos/02-cadena-de-valor]] — Cadena de valor en servicios públicos
-- [[03-Pilares/02-trabajo-estandarizado]] — Estandarización de procesos gubernamentales
+- [[03-Desperdicios/02-muda-desperdicio]] — Desperdicios burocráticos
+- [[01-Fundamentos/07-cadena-de-valor]] — Cadena de valor en servicios públicos
+- [[04-Herramientas/19-trabajo-estandarizado]] — Estandarización de procesos gubernamentales
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — Origen de las herramientas
 - [[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general]] — Paralelo con salud pública
 

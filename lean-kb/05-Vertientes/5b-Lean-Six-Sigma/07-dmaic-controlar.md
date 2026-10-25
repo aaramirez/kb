@@ -69,9 +69,9 @@ El Control Plan documenta cómo se mantendrá el proceso mejorado:
 
 ### Herramientas de sostenimiento
 - [[05-Vertientes/5a-Manufactura/02-toyota-way-en-la-practica|5S]] para mantener organización
-- [[01-Glosario/G-02-kanban|Kanban]] visual para control de inventario
+- [[04-Herramientas/09-kanban|Kanban]] visual para control de inventario
 - [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion|Trabajo estandarizado]] documentado
-- [[04-Mentalidad/01-kaizen-continuo|Kaizen]] continuo para refinar
+- [[02-Pilares/03-kaizen|Kaizen]] continuo para refinar
 
 ## Conexiones
 
@@ -79,5 +79,5 @@ El Control Plan documenta cómo se mantendrá el proceso mejorado:
 - [[05-Vertientes/5b-Lean-Six-Sigma/02-dmaic-metodologia]] — DMAIC como framework
 - [[05-Vertientes/5b-Lean-Six-Sigma/01-lean-six-sigma-vista-general]] — Contexto de LSS
 - [[05-Vertientes/5a-Manufactura/02-toyota-way-en-la-practica]] — Toyota Way y sostenibilidad
-- [[03-Pilares/01-cero-defectos]] — Calidad sostenida en el tiempo
-- [[04-Mentalidad/01-kaizen-continuo]] — Control como base para mejora continua
+- [[02-Pilares/02-jidoka]] — Calidad sostenida en el tiempo
+- [[02-Pilares/03-kaizen]] — Control como base para mejora continua

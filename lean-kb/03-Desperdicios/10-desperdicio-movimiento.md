@@ -57,7 +57,7 @@ El movimiento innecesario causa:
 
 ## Movimientos Desperdiciados
 
-Según los principios de [[Ergonomía]] y análisis de movimiento:
+Según los principios de Ergonomía y análisis de movimiento:
 
 | Tipo | Ejemplo |
 |------|---------|

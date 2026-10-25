@@ -22,7 +22,7 @@ related:
 
 # Estrategias de Eliminación de Desperdicios
 
-Guía para eliminar [[02-muda-desperdicios|desperdicios]] de forma sistemática y sostenible.
+Guía para eliminar [[03-Desperdicios/02-muda-desperdicio|desperdicios]] de forma sistemática y sostenible.
 
 ## Jerarquía de Eliminación
 
@@ -40,14 +40,14 @@ El enfoque correcto sigue un orden de prioridad:
 
 ### [[05-desperdicio-sobreproduccion|Sobreproducción]]
 - Implementar sistema **pull** (jabón)
-- Usar **[[Kanban]]** para controlar producción
-- Aplicar **[[Heijunka]]** para nivelar
+- Usar **[[04-Herramientas/09-kanban|Kanban]]** para controlar producción
+- Aplicar **[[04-Herramientas/07-heijunka|Heijunka]]** para nivelar
 - Reducir tiempos de preparación (SMED)
 
 ### [[06-desperdicio-espera|Espera]]
 - Crear **flujo continuo** (One-Piece Flow)
 - **Balancear la línea** (Yamazumi)
-- Establecer **[[Takt Time]]**
+- Establecer **[[04-Herramientas/14-takt-time|Takt Time]]**
 - Implementar **TPM** para reducir averías
 
 ### [[07-desperdicio-transporte|Transporte]]
@@ -64,7 +64,7 @@ El enfoque correcto sigue un orden de prioridad:
 
 ### [[09-desperdicio-inventario|Inventario]]
 - Implementar **JIT**
-- Usar **[[Kanban]]** para controlar stock
+- Usar **[[04-Herramientas/09-kanban|Kanban]]** para controlar stock
 - Reducir **tiempos de setup** (SMED)
 - Mejorar **confiabilidad de proveedores**
 

@@ -22,7 +22,7 @@ related:
 
 # Gestión Visual (Visual Management)
 
-**Gestión Visual** es un sistema de [[Lean Manufacturing]] que utiliza **señales visuales** para comunicar información de forma que cualquier persona pueda entender el estado del proceso en segundos, sin necesidad de preguntar.
+**Gestión Visual** es un sistema de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que utiliza **señales visuales** para comunicar información de forma que cualquier persona pueda entender el estado del proceso en segundos, sin necesidad de preguntar.
 
 ## Definición
 

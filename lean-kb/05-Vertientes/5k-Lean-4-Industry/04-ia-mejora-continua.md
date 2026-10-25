@@ -16,7 +16,7 @@ related:
   - "[[02-gemelos-digitales-lean]]"
   - "[[03-iot-en-manufactura-lean]]"
   - "[[05-lean-digital-transformacion]]"
-  - "[[../../02-Filosofia/05-kaizen]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # IA y Mejora Continua
@@ -79,6 +79,6 @@ Una planta detecta que la tasa de defectos aumenta los lunes por la mañana. Un 
 
 ## Ver también
 
-- [[../../02-Filosofia/05-kaizen]] - Kaizen clásico
+- [[02-Pilares/03-kaizen]] - Kaizen clásico
 - [[03-iot-en-manufactura-lean]] - IoT como fuente de datos
 - [[01-lean-4-vista-general]] - Marco Lean 4.0

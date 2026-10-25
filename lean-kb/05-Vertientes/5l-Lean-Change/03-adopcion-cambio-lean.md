@@ -16,7 +16,7 @@ related:
   - "[[02-gestion-del-cambio-organizacional]]"
   - "[[04-resistencia-al-cambio]]"
   - "[[05-cultura-cambio-continuo]]"
-  - "[[../../02-Filosofia/05-kaizen]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # Adopción del Cambio con Lean
@@ -91,5 +91,5 @@ En Lean Change, el **aprendizaje** es tan valioso como el éxito:
 ## Ver también
 
 - [[01-lean-change-vista-general]] - Marco Lean Change
-- [[../../02-Filosofia/05-kaizen]] - Kaizen como base
+- [[02-Pilares/03-kaizen]] - Kaizen como base
 - [[05-cultura-cambio-continuo]] - Sustentabilidad del cambio

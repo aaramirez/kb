@@ -17,7 +17,7 @@ related:
   - "[[03-mura-desigualdad]]"
   - "[[11-desperdicio-defectos]]"
   - "[[12-desperdicio-talento-no-utilizado]]"
-  - "[[01-Fundamentos]]"
+  - "[[01-Fundamentos/README]]"
 ---
 
 # Muri (Sobrecarga)
@@ -79,4 +79,4 @@ Un operador debe manipular piezas de 25 kg sin ayuda mecánica. Esto genera fati
 ## Prerrequisitos
 
 - [[01-marco-3m]] — Marco conceptual 3M
-- [[01-Fundamentos]] — Conceptos básicos de [[Lean Manufacturing]]
+- [[01-Fundamentos/README]] — Conceptos básicos de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]]

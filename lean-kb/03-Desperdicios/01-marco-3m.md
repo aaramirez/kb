@@ -15,12 +15,12 @@ related:
   - "[[02-muda-desperdicio]]"
   - "[[03-mura-desigualdad]]"
   - "[[04-muri-sobrecarga]]"
-  - "[[01-Fundamentos]]"
+  - "[[01-Fundamentos/README]]"
 ---
 
 # Marco 3M (Muda, Mura, Muri)
 
-El **Marco 3M** es el modelo fundamental del [[Lean Manufacturing]] para identificar y eliminar las fuentes de ineficiencia en cualquier proceso.
+El **Marco 3M** es el modelo fundamental del [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para identificar y eliminar las fuentes de ineficiencia en cualquier proceso.
 
 ## Los Tres Componentes
 
@@ -51,12 +51,12 @@ Mura ──────→ Muda
 
 Muchas organizaciones se enfocan únicamente en [[02-muda-desperdicio|Muda]], eliminando desperdicios visibles. Sin embargo, sin abordar [[03-mura-desigualdad|Mura]] y [[04-muri-sobrecarga|Muri]], los desperdicios simplemente reaparecen.
 
-La verdadera [[Lean Manufacturing|lean]] requiere atacar los tres M simultáneamente.
+La verdadera [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|lean]] requiere atacar los tres M simultáneamente.
 
 ## Ejemplo
 
-Una planta con demanda fluctuante (Mura) genera turnos extras y sobrecarga del equipo (Muri), lo que resulta en defectos y retrabajo (Muda). Al implementar [[Heijunka]] y nivelar la producción, se eliminan las tres fuentes de ineficiencia.
+Una planta con demanda fluctuante (Mura) genera turnos extras y sobrecarga del equipo (Muri), lo que resulta en defectos y retrabajo (Muda). Al implementar [[04-Herramientas/07-heijunka|Heijunka]] y nivelar la producción, se eliminan las tres fuentes de ineficiencia.
 
 ## Prerrequisitos
 
-- [[01-Fundamentos]] — Conceptos básicos de [[Lean Manufacturing]]
+- [[01-Fundamentos/README]] — Conceptos básicos de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]]

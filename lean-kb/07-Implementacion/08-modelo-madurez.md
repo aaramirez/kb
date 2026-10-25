@@ -60,7 +60,7 @@ El **Modelo de Madurez Lean** define niveles progresivos de implementación que 
 - [[04-sistema-gestion-diaria|Gestión diaria]] implementada y funcionando
 - [[11-trabajo-estandar-lider|Trabajo estándar del líder]] definido
 - [[16-metricas-lean|Métricas]] se actualizan y revisan regularmente
-- Hay [[11-cultura-kaizen|cultura Kaizen]] incipiente
+- Hay [[07-Implementacion/10-cultura-kaizen|cultura Kaizen]] incipiente
 
 **Criterio de evaluación:**
 - Sistema de gestión diaria completo

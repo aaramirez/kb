@@ -95,4 +95,4 @@ Pull Planning se integra con el [[05-Vertientes/5f-Lean-Construction/02-last-pla
 - [[05-Vertientes/5a-Manufactura/04-sistema-produccion-pull]] — origen del concepto pull
 - [[05-Vertientes/5f-Lean-Construction/02-last-planner-system]] — sistema integrado
 - [[05-Vertientes/5f-Lean-Construction/01-lean-construction-vista-general]] — contexto general
-- [[05-Vertientes/5d-Lean-Software/03-metodos-agiles]] — paralelos con Agile
+- [[05-Vertientes/5j-Agile-Lean/01-agile-lean-vista-general]] — paralelos con Agile

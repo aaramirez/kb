@@ -22,7 +22,7 @@ related:
 
 # Plantilla 8D
 
-La **Plantilla 8D** (Eight Disciplines) es un enfoque estructurado de [[Lean Manufacturing]] para resolver problemas, originalmente desarrollado por Ford Motor Company. Es especialmente útil para problemas de calidad recurrentes que requieren acción correctiva formal.
+La **Plantilla 8D** (Eight Disciplines) es un enfoque estructurado de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para resolver problemas, originalmente desarrollado por Ford Motor Company. Es especialmente útil para problemas de calidad recurrentes que requieren acción correctiva formal.
 
 ## ¿Cuándo Usar 8D?
 

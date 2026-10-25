@@ -14,14 +14,14 @@ aliases:
 related:
   - "[[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general]]"
   - "[[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]]"
-  - "[[03-Pilares/03-mejora-continua]]"
+  - "[[02-Pilares/03-kaizen]]"
 ---
 
 # Kaizen en Hospitales
 
 ## ¿Qué es Kaizen en el contexto hospitalario?
 
-[[03-Pilares/03-mejora-continua|Kaizen]] en hospitales es la filosofía de **mejora continua aplicada a procesos asistenciales y administrativos**. Se materializa en eventos de mejora rápida (Kaizen Events) donde equipos multidisciplinarios identifican y eliminan desperdicios de forma intensiva.
+[[02-Pilares/03-kaizen|Kaizen]] en hospitales es la filosofía de **mejora continua aplicada a procesos asistenciales y administrativos**. Se materializa en eventos de mejora rápida (Kaizen Events) donde equipos multidisciplinarios identifican y eliminan desperdicios de forma intensiva.
 
 > *"Kaizen no es un evento, es una cultura. El evento es solo el detonante del cambio."*
 
@@ -92,7 +92,7 @@ El éxito del Kaizen en hospitales depende del compromiso del personal:
 
 ## Conexiones
 
-- [[03-Pilares/03-mejora-continua]] — filosofía Kaizen base
+- [[02-Pilares/03-kaizen]] — filosofía Kaizen base
 - [[05-Vertientes/5e-Lean-Healthcare/04-trabajo-estandarizado-salud]] — estandarizar las mejoras
 - [[05-Vertientes/5e-Lean-Healthcare/01-lean-healthcare-vista-general]] — contexto general
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del Kaizen

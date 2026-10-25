@@ -44,7 +44,7 @@ Una evaluación Lean típica cubre estas dimensiones:
 ### 2. Procesos y Flujo
 
 - [[08-flujo|Flujo continuo]] — ¿El trabajo fluye sin interrupciones?
-- [[09-sistema-de-tirón|Sistema de tirón]] — ¿Se produce según demanda?
+- [[01-Fundamentos/09-sistema-de-tiron|Sistema de tirón]] — ¿Se produce según demanda?
 - [[04-sistema-gestion-diaria|Gestión diaria]] — ¿Se gestiona el desempeño a diario?
 - Calidad en la fuente — ¿Se previenen defectos?
 
@@ -110,7 +110,7 @@ Conectar los hallazgos con el [[09-plan-despliegue-lean|plan de despliegue]] y e
 
 - [[02-modelo-shingo|Modelo Shingo]] — Para evaluar cultura
 - [[01-marco-transformacion-lean|Marco LTF]] — Para evaluar dimensiones
-- [[lean-maturity-assessment|Herramientas del LEI]] — Plantillas disponibles
+- [[07-Implementacion/08-modelo-madurez|Herramientas del LEI]] — Plantillas disponibles
 - [[08-modelo-madurez|Modelo de Madurez]] — Para medir nivel de avance
 
 ## Lecturas Recomendadas

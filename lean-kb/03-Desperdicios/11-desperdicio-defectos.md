@@ -89,7 +89,7 @@ Entrenar al equipo en estándares de calidad y resolución de problemas.
 
 ## Ejemplo
 
-Una estación de ensamble tiene un 5% de defectos por pieza mal insertada. Con un [[Poka-Yoke]] (guía física), se elimina la posibilidad de inserción incorrecta, reduciendo defectos a cero.
+Una estación de ensamble tiene un 5% de defectos por pieza mal insertada. Con un [[04-Herramientas/11-poka-yoke|Poka-Yoke]] (guía física), se elimina la posibilidad de inserción incorrecta, reduciendo defectos a cero.
 
 ## Prerrequisitos
 

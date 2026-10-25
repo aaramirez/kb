@@ -21,7 +21,7 @@ related:
 
 ## ¿Qué es el Trabajo Estandarizado en salud?
 
-El [[03-Pilares/02-trabajo-estandarizado|Trabajo Estandarizado]] en el contexto sanitario define la mejor forma conocida de realizar un procedimiento clínico o administrativo. Su propósito es **reducir la variabilidad** en la atención para mejorar la calidad y seguridad del paciente.
+El [[04-Herramientas/19-trabajo-estandarizado|Trabajo Estandarizado]] en el contexto sanitario define la mejor forma conocida de realizar un procedimiento clínico o administrativo. Su propósito es **reducir la variabilidad** en la atención para mejorar la calidad y seguridad del paciente.
 
 > *"La estandarización no elimina la expertise clínica, la protege asegurando que la mejor práctica se repita cada vez."*
 
@@ -70,7 +70,7 @@ La variabilidad en los procesos clínicos genera resultados impredecibles. El tr
 
 ## El estándar como base de la mejora
 
-El [[03-Pilares/02-trabajo-estandarizado|trabajo estandarizado]] no es estático; es la **base para la mejora continua**:
+El [[04-Herramientas/19-trabajo-estandarizado|trabajo estandarizado]] no es estático; es la **base para la mejora continua**:
 
 - Sin estándar no hay medición
 - Sin medición no hay comparación
@@ -79,7 +79,7 @@ El [[03-Pilares/02-trabajo-estandarizado|trabajo estandarizado]] no es estático
 
 ## Conexiones
 
-- [[03-Pilares/02-trabajo-estandarizado]] — concepto base de estandarización
+- [[04-Herramientas/19-trabajo-estandarizado]] — concepto base de estandarización
 - [[05-Vertientes/5e-Lean-Healthcare/05-error-proofing-salud]] — complemento con error-proofing
 - [[05-Vertientes/5e-Lean-Healthcare/06-kaizen-en-hospitales]] — mejora continua del estándar
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] — origen del concepto

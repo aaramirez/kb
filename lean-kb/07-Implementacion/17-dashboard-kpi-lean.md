@@ -49,7 +49,7 @@ Un **Dashboard KPI Lean** es un tablero visual que presenta las [[16-metricas-le
 
 ### 3. Visual
 
-- [[10-poka-yoke|A prueba de errores]] — Difícil de malinterpretar
+- [[04-Herramientas/11-poka-yoke|A prueba de errores]] — Difícil de malinterpretar
 - Gráficos simples y directos
 - Datos precisos y verificables
 - Ubicación visible para todos

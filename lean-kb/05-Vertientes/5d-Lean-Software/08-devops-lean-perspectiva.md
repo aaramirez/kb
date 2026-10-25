@@ -62,7 +62,7 @@ Fomentar una cultura de **experimentación** y toma de riesgos calculados
 | [[05-Vertientes/5a-Manufactura/07-cambio-rapido-smed-practico\|SMED]] | Automated deployments |
 | [[05-Vertientes/5a-Manufactura/06-sistema-supermercado\|Supermercado]] | Infrastructure as code |
 | [[05-Vertientes/5a-Manufactura/03-diseno-flujo-produccion\|5S]] | Clean, organized pipelines |
-| [[01-Glosario/G-02-kanban\|Kanban]] | Pipeline visualization |
+| [[04-Herramientas/09-kanban\|Kanban]] | Pipeline visualization |
 
 ## Waste elimination en operations
 
@@ -98,7 +98,7 @@ Las 4 métricas clave de DevOps/Lean:
 5. **Implementar CD** para reducir lead time
 6. **Establecer monitoring** para feedback loop
 7. **Crear cultura blameless** para aprendizaje
-8. **Iterar** con [[04-Mentalidad/01-kaizen-continuo|kaizen]] continuo
+8. **Iterar** con [[02-Pilares/03-kaizen|kaizen]] continuo
 
 ## Conexiones
 

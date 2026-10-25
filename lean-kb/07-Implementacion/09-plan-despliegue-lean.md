@@ -63,7 +63,7 @@ Definir claramente:
 
 #### Fase 3: Sostenibilidad (18-36 meses)
 
-- Consolidar [[11-cultura-kaizen|cultura Kaizen]]
+- Consolidar [[07-Implementacion/10-cultura-kaizen|cultura Kaizen]]
 - Implementar [[19-sostenibilidad-lean|auditorías]] periódicas
 - Desarrollar programa de formación continua
 - Integrar Lean en los procesos de negocio habituales

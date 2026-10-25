@@ -23,7 +23,7 @@ related:
 
 # Los 5 Porqués (5 Whys)
 
-**Los 5 Porqués** (5 Whys) es una técnica simple pero poderosa de [[Lean Manufacturing]] para encontrar la **causa raíz** de un problema preguntando "¿por qué?" repetidamente. Fue desarrollado por [[01-Fundamentos/01-historia-lean|Taiichi Ohno]] en Toyota.
+**Los 5 Porqués** (5 Whys) es una técnica simple pero poderosa de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] para encontrar la **causa raíz** de un problema preguntando "¿por qué?" repetidamente. Fue desarrollado por [[01-Fundamentos/01-historia-lean|Taiichi Ohno]] en Toyota.
 
 ## Definición
 

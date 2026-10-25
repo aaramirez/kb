@@ -38,7 +38,7 @@ En Lean Educación, el [[05-Vertientes/5i-Lean-Educacion/01-lean-educacion-vista
 
 ## Mejora en procesos administrativos
 
-Los [[01-Glosario/G-01-desperdicio|desperdicios]] administrativos en educación incluyen:
+Los [[03-Desperdicios/02-muda-desperdicio|desperdicios]] administrativos en educación incluyen:
 
 | Desperdicio | Ejemplo educativo | Solución |
 |-------------|-------------------|----------|
@@ -68,7 +68,7 @@ El proceso de aprendizaje se optimiza eliminando barreras:
 | [[05-Vertientes/5i-Lean-Educacion/02-cadena-de-valor-educativa\|Cadena de valor]] | Análisis del flujo educativo | [[05-Vertientes/5i-Lean-Educacion/02-cadena-de-valor-educativa]] |
 | [[05-Vertientes/5i-Lean-Educacion/03-flujo-estudiantil\|Flujo estudiantil]] | Optimización del recorrido | [[05-Vertientes/5i-Lean-Educacion/03-flujo-estudiantil]] |
 | [[05-Vertientes/5i-Lean-Educacion/04-kaizen-en-aula\|Kaizen en aula]] | Mejora continua pedagógica | [[05-Vertientes/5i-Lean-Educacion/04-kaizen-en-aula]] |
-| [[03-Pilares/02-trabajo-estandarizado\|Estandarización]] | Protocolos académicos | [[03-Pilares/02-trabajo-estandarizado]] |
+| [[04-Herramientas/19-trabajo-estandarizado\|Estandarización]] | Protocolos académicos | [[04-Herramientas/19-trabajo-estandarizado]] |
 
 ## Resultados documentados
 

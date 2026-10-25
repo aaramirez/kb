@@ -48,7 +48,7 @@ El tiempo total desde que el cliente hace un pedido hasta que lo recibe.
 El tiempo que toma completar un producto o servicio desde que inicia hasta que termina un paso del proceso.
 
 - Mide la velocidad del proceso
-- Debe compararse con el [[09-takt-time|Takt Time]]
+- Debe compararse con el [[04-Herramientas/14-takt-time|Takt Time]]
 - Se mide por cada paso del proceso
 
 ### Takt Time (Tiempo de Ritmo)
@@ -124,7 +124,7 @@ Cuántas veces se renueva el inventario en un período.
 
 - Vueltas = Costo de ventas / Inventario promedio
 - Más vueltas = menos inventario estancado
-- Indica eficiencia del [[09-sistema-de-tirón|sistema de tirón]]
+- Indica eficiencia del [[01-Fundamentos/09-sistema-de-tiron|sistema de tirón]]
 
 ### Process Cycle Efficiency (Eficiencia del Ciclo)
 
@@ -171,7 +171,7 @@ Resultados del pasado:
 - [[04-sistema-gestion-diaria|Gestión diaria]] — Donde se revisan las métricas
 - [[08-flujo|Flujo]] — Las métricas de tiempo miden el flujo
 - [[07-cadena-de-valor|Cadena de valor]] — Las métricas se asignan por cadena
-- [[09-takt-time|Takt Time]] — El ritmo que guía la producción
+- [[04-Herramientas/14-takt-time|Takt Time]] — El ritmo que guía la producción
 - [[15-contabilidad-lean|Contabilidad Lean]] — La perspectiva financiera
 - [[09-kanban|Kanban]] — Las métricas alimentan el sistema de tirón
 

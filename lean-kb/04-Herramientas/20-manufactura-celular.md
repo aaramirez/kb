@@ -23,7 +23,7 @@ related:
 
 # Manufactura Celular (Cellular Manufacturing)
 
-**Manufactura Celular** es un enfoque de [[Lean Manufacturing]] que organiza máquinas y estaciones de trabajo en **celdas** dispuestas para permitir el flujo continuo de un producto sin transports ni esperas innecesarias.
+**Manufactura Celular** es un enfoque de [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general|Lean Manufacturing]] que organiza máquinas y estaciones de trabajo en **celdas** dispuestas para permitir el flujo continuo de un producto sin transports ni esperas innecesarias.
 
 ## Definición
 

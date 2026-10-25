@@ -26,7 +26,7 @@ Lean IT es la aplicación de los principios del [[05-Vertientes/5a-Manufactura/0
 
 ## Desperdicios en TI
 
-Los 8 desperdicios del [[01-Glosario/G-01-desperdicio|Lean Manufacturing]] se manifiestan de forma específica en TI:
+Los 8 desperdicios del [[03-Desperdicios/02-muda-desperdicio|Lean Manufacturing]] se manifiestan de forma específica en TI:
 
 | Desperdicio | En manufacturing | En TI |
 |-------------|-----------------|-------|
