@@ -26,8 +26,8 @@ Este conocimiento está organizado en 8 secciones que van desde los fundamentos 
 | 02 | [[02-Pilares/README\|Pilares del Sistema Toyota]] | JIT y Jidoka |
 | 03 | [[03-Desperdicios/README\|Los 8 Desperdicios]] | Identificar y eliminar Muda |
 | 04 | [[04-Herramientas/README\|Herramientas Lean]] | Métodos y técnicas prácticas |
-| 05 | [[05-Ramas/README\|Ramas del Lean]] | Evoluciones y especializaciones |
-| 06 | [[06-Casos/README\|Casos de Estudio]] | Aplicación en empresas reales |
+| 05 | [[05-Vertientes/README\|Ramas del Lean]] | Evoluciones y especializaciones |
+| 06 | Casos de Estudio | Aplicación en empresas reales |
 | 07 | [[07-Implementacion/README\|Implementación]] | Cómo aplicar Lean en tu organización |
 | 08 | [[08-Ruta-Aprendizaje/README\|Ruta de Aprendizaje]] | Itinerarios de estudio |
 

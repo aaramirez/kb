@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[01-lean-4-vista-general]]"
   - "[[02-gemelos-digitales-lean]]"
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
   - "[[../../05-Vertientes/5g-Lean-IT/README]]"
   - "[[03-Desperdicios/02-muda-desperdicio]]"
 ---

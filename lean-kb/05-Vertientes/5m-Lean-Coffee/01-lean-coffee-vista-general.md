@@ -14,7 +14,7 @@ related:
   - "[[02-formato-lean-coffee]]"
   - "[[03-moderacion-y-dinamica]]"
   - "[[04-lean-coffee-en-organizaciones]]"
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
   - "[[01-Fundamentos/06-valor]]"
   - "[[04-Herramientas/09-kanban]]"
 ---
@@ -79,6 +79,6 @@ Lean Coffee combina:
 
 ## Ver también
 
-- [[../../02-Filosofia/01-que-es-lean]] - Fundamentos de Lean
+- [[01-Fundamentos/01-que-es-lean]] - Fundamentos de Lean
 - [[01-Fundamentos/06-valor]] - Valor y desperdicio
 - [[02-formato-lean-coffee]] - El formato en detalle

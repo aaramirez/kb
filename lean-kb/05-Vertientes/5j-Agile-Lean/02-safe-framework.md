@@ -15,7 +15,7 @@ related:
   - "[[01-agile-lean-vista-general]]"
   - "[[05-scaling-lean-agile]]"
   - "[[04-scrum-y-lean]]"
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
   - "[[04-Herramientas/17-vsm]]"
 ---
 

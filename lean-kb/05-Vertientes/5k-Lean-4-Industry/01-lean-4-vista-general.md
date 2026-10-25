@@ -16,7 +16,7 @@ related:
   - "[[03-iot-en-manufactura-lean]]"
   - "[[04-ia-mejora-continua]]"
   - "[[05-lean-digital-transformacion]]"
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
   - "[[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]]"
 ---
 
@@ -74,6 +74,6 @@ Los desperdicios de Lean se expanden:
 
 ## Ver también
 
-- [[../../02-Filosofia/01-que-es-lean]] - Fundamentos de Lean
+- [[01-Fundamentos/01-que-es-lean]] - Fundamentos de Lean
 - [[02-gemelos-digitales-lean]] - Digital twins en detalle
 - [[05-Vertientes/5a-Manufactura/01-lean-manufactura-vista-general]] - Lean Manufacturing clásico

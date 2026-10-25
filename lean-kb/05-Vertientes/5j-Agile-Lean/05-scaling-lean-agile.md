@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[02-safe-framework]]"
   - "[[01-agile-lean-vista-general]]"
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
   - "[[04-Herramientas/17-vsm]]"
   - "[[05-Vertientes/5j-Agile-Lean/04-scrum-y-lean]]"
 ---

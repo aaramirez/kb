@@ -12,7 +12,7 @@ aliases:
 related:
   - "[[5a-Manufactura/README]]"
   - "[[5g-Lean-IT/README]]"
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
 ---
 
 # Lean 4.0

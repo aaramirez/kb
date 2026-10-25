@@ -10,7 +10,7 @@ aliases:
   - Lean Change Index
   - Índice Lean Change
 related:
-  - "[[../../02-Filosofia/01-que-es-lean]]"
+  - "[[01-Fundamentos/01-que-es-lean]]"
   - "[[02-Pilares/03-kaizen]]"
   - "[[02-Pilares/07-cultura-lean]]"
 ---
