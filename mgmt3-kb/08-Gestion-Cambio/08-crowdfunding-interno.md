@@ -10,7 +10,7 @@ aliases:
   - "Internal Crowdfunding"
   - "Presupuesto Participativo"
 related:
-  - "[[03-delegation-poker]]"
+  - "[[04-Delegacion-Empoderamiento/02-delegation-poker]]"
   - "[[08-contratos-psicologicos]]"
   - "[[10-equipos-auto-organizados]]"
   - "[[12-formula-salarial]]"
@@ -173,4 +173,4 @@ Se financieran propuestas por fases. Primero se asigna un presupuesto pequeño p
 | Riesgo | Distribuido entre todos | Concentrado en el decisor |
 | Innovación | Fomenta ideas nuevas | Tiende a financiar lo conocido |
 
-Para un enfoque más profundo de la distribución de autoridad, consulta la [[03-delegation-poker|Delegation Poker]].
+Para un enfoque más profundo de la distribución de autoridad, consulta la [[04-Delegacion-Empoderamiento/02-delegation-poker|Delegation Poker]].
