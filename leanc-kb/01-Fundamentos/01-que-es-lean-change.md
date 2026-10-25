@@ -175,5 +175,5 @@ Lean Change Management representa un cambio de paradigma en la gestión del camb
 - [[01-Fundamentos/04-resistencia-al-cambio]]
 - [[01-Fundamentos/05-cultura-cambio]]
 - [[02-Modelos/01-modelo-kotter]]
-- [[02-Modelos/02-modelo-satir]]
+- [[01-Fundamentos/02-evolucion-cambio-organizacional#Virginia Satir y el modelo de cambio humano|Modelo de cambio de Satir]]
 - [[leanchange-glossary]]

@@ -48,8 +48,8 @@ Si eres nuevo en Lean Change, te recomiendo este camino:
 1. Comienza con [[01-Fundamentos/01-que-es-lean-change|¿Qué es Lean Change?]]
 2. Explora el [[leanchange-timeline|La línea temporal del cambio organizacional]]
 3. Revisa el [[leanchange-glossary|Glossario]] para familiarizarte con los términos
-4. Avanza a [[02-Modelos/01-adkar|ADKAR]] y [[02-Modelos/02-kotter|Los 8 pasos de Kotter]]
-5. Descubre las [[03-Herramientas/01-kanban-cambio|Herramientas del Cambio]]
+4. Avanza a [[02-Modelos/04-adkar-model|ADKAR]] y [[02-Modelos/01-modelo-kotter|Los 8 pasos de Kotter]]
+5. Descubre las [[03-Herramientas/README|Herramientas del Cambio]]
 
 ## Cómo Usar Este KB
 

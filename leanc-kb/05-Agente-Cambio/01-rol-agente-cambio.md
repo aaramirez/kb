@@ -205,7 +205,7 @@ Esto implica que las organizaciones necesitan **redes de agentes de cambio** dis
 4. **Buscar la receta perfecta**: No existen mejores prácticas universales; solo prácticas que funcionan en contextos específicos.
 5. **Declarar la victoria demasiado pronto**: Los cambios son frágiles hasta que se anclan profundamente en la cultura, lo que puede tomar de tres a diez años.
 
-> Ver también: [[04-Resistencia/01-resistencia-es-sintoma|La Resistencia es un Síntoma]], [[01-Fundamentos/04-resistencia-al-cambio|Resistencia al Cambio]]
+> Ver también: [[04-Resistencia/04-resistencia-como-senal|La Resistencia es un Síntoma]], [[01-Fundamentos/04-resistencia-al-cambio|Resistencia al Cambio]]
 
 ## Resumen
 

@@ -57,7 +57,7 @@ Usa el [[Index|índice principal]] para navegar rápidamente a cualquier secció
 
 ## Navegación por Herramienta
 
-Si buscas una herramienta específica como [[03-Herramientas/01-kanban-cambio|Kanban del Cambio]] o [[03-Herramientas/03-gemba-cambio|Gemba del Cambio]], consulta directamente el [[leanchange-glossary|glosario]] o la sección de [[03-Herramientas/README|Herramientas]].
+Si buscas una herramienta específica como [[03-Herramientas/07-visual-management|Kanban del Cambio]] o [[03-Herramientas/06-gemba-cambio|Gemba del Cambio]], consulta directamente el [[leanchange-glossary|glosario]] o la sección de [[03-Herramientas/README|Herramientas]].
 
 ## Sistema de Tags
 

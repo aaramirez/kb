@@ -245,5 +245,5 @@ La resistencia al cambio es una de las fuerzas más poderosas en la gestión del
 - [[01-Fundamentos/03-pensamiento-lean-aplicado]]
 - [[01-Fundamentos/05-cultura-cambio]]
 - [[02-Modelos/01-modelo-kotter]]
-- [[02-Modelos/02-modelo-satir]]
+- [[01-Fundamentos/02-evolucion-cambio-organizacional#Virginia Satir y el modelo de cambio humano|Modelo de cambio de Satir]]
 - [[leanchange-glossary]]

@@ -228,5 +228,5 @@ El pensamiento Lean aplicado al cambio transforma la gestión del cambio de una 
 - [[01-Fundamentos/02-evolucion-cambio-organizacional]]
 - [[01-Fundamentos/04-resistencia-al-cambio]]
 - [[01-Fundamentos/05-cultura-cambio]]
-- [[02-Modelos/03-7s-mckinsey]]
+- [[01-Fundamentos/02-evolucion-cambio-organizacional#Modelo 7S de McKinsey|Modelo 7S de McKinsey]]
 - [[leanchange-glossary]]

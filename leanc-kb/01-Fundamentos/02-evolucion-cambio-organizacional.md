@@ -247,5 +247,5 @@ El campo de la gestión del cambio sigue evolucionando. Las tendencias actuales 
 - [[01-Fundamentos/04-resistencia-al-cambio]]
 - [[01-Fundamentos/05-cultura-cambio]]
 - [[02-Modelos/01-modelo-kotter]]
-- [[02-Modelos/02-modelo-satir]]
+- [[01-Fundamentos/04-resistencia-al-cambio|Modelo de Satir y la respuesta emocional al cambio]]
 - [[leanchange-glossary]]

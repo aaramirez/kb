@@ -300,6 +300,6 @@ La clave es no combatir la cultura, sino comprenderla y trabajar con ella. Como 
 - [[01-Fundamentos/03-pensamiento-lean-aplicado]]
 - [[01-Fundamentos/04-resistencia-al-cambio]]
 - [[02-Modelos/01-modelo-kotter]]
-- [[02-Modelos/03-7s-mckinsey]]
-- [[02-Modelos/04-modelo-schneider]]
+- [[01-Fundamentos/02-evolucion-cambio-organizacional#Modelo 7S de McKinsey|Modelo 7S de McKinsey]]
+- Modelo de cultura de Schneider
 - [[leanchange-glossary]]
