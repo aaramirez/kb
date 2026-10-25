@@ -11,7 +11,7 @@ aliases:
   - "Términos M3.0"
   - "Glosario Management 3.0"
 related:
-  - "[[../../mgmt3-glossary|Glosario Management 3.0]]"
+  - "[[mgmt3-glossary|Glosario Management 3.0]]"
   - "[[README|Índice de Fundamentos]]"
 ---
 
@@ -19,7 +19,7 @@ related:
 
 Referencia rápida de términos utilizados en la sección de Fundamentos de Management 3.0.
 
-> Para definiciones completas y actualizadas de todo el vocabulario Management 3.0, consulta el [[../../mgmt3-glossary|Glosario Management 3.0]].
+> Para definiciones completas y actualizadas de todo el vocabulario Management 3.0, consulta el [[mgmt3-glossary|Glosario Management 3.0]].
 
 ## Términos por categoría
 
@@ -79,4 +79,4 @@ Referencia rápida de términos utilizados en la sección de Fundamentos de Mana
 - Los términos en Management 3.0 suelen tener un significado específico que puede diferir del uso coloquial
 - Muchos términos vienen del inglés y se usan tanto en español como en su forma original
 - Algunos conceptos se superponen (ej: auto-organización y emergencia están estrechamente relacionados)
-- Consulta siempre el [[../../mgmt3-glossary|Glosario Management 3.0]] para definiciones más completas
+- Consulta siempre el [[mgmt3-glossary|Glosario Management 3.0]] para definiciones más completas

@@ -44,6 +44,6 @@ En Management 3.0, los objetivos y las métricas no son herramientas de control 
 
 ## Relación con otros módulos
 
-- [[../01-Agile-Management/README|Agile Management]] — Contexto general de M3.0
-- [[../04-Estructura-Agile/README|Estructura Agile]] — Organización que soporta las métricas
-- [[../06-Liderazgo/README|Liderazgo]] — Cómo los líderes usan las métricas
+- [[01-Fundamentos/README|Agile Management]] — Contexto general de M3.0
+- [[07-Estructura-Organizacional/README|Estructura Agile]] — Organización que soporta las métricas
+- [[09-Implementacion/04-rol-del-manager-m30|Liderazgo]] — Cómo los líderes usan las métricas

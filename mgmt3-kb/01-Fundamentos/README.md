@@ -46,4 +46,4 @@ Si eres nuevo en Management 3.0, te recomiendo seguir este orden:
 
 ## Glosario completo
 
-Para una referencia completa de términos, consulta el [[../../mgmt3-glossary|Glosario Management 3.0]].
+Para una referencia completa de términos, consulta el [[mgmt3-glossary|Glosario Management 3.0]].
