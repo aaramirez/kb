@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[../07-IA-Software/README|IA en Software]]"
   - "[[11-ai-code-review]]"
-  - "[[12-ai-testing-tools]]"
+  - "[[05-Herramientas/10-ai-testing-tools]]"
 ---
 
 ## Visión General
@@ -204,7 +204,7 @@ Referencia: [[../07-IA-Software/README|IA en Software Engineering]]
 ## Integración
 
 - **Code Review**: [[11-ai-code-review]] — AI-assisted PR reviews
-- **Testing**: [[12-ai-testing-tools]] — AI-generated tests
+- **Testing**: [[05-Herramientas/10-ai-testing-tools]] — AI-generated tests
 - **IDEs**: [[01-ides-editores]] — Environment setup
 - **CI/CD**: [[02-herramientas-ci-cd]] — AI in pipelines
 - **DX**: [[12-developer-experience]] — AI as DX component

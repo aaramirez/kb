@@ -168,5 +168,5 @@ What does "done" look like for this time box?
 - [[../11-Cultura-Equipo/01-cultura-ingenieria|Cultura de Ingeniería]] — innovation as cultural value
 - [[../10-Gestion-Proyectos/03-story-points-tshirt|Velocity]] — balance innovation with delivery
 - [[../06-Metricas/07-team-health-metrics|Salud del Equipo]] — innovation engagement metric
-- [[../01-Fundamentos/06-agile-manifesto|Agile Manifesto]] — sustainable pace includes innovation
+- [[01-Fundamentos/06-manifiesto-agile|Agile Manifesto]] — sustainable pace includes innovation
 - [[../07-IA-Software/README|IA en Software]] — AI as innovation topic

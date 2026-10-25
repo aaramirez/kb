@@ -114,7 +114,7 @@ Each service should provide a Grafana dashboard:
 | SL| actual performance contract |
 | Error Budget | allowed window of unavailability |
 
-Related: [[../06-Metricas/performance-metrics|Performance metrics]].
+Related: [[08-Calidad-Seguridad/04-performance-testing|Performance metrics]].
 
 ## Observability in practice
 

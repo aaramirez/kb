@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[01-qa-moderno|QA Moderno]]"
   - "[[02-testing-piramide|Pirámide de Testing]]"
-  - "[[../09-DevOps/01-pipelines|Pipelines]]"
+  - "[[03-Procesos/05-ci-cd-pipeline|Pipelines]]"
 ---
 
 # Quality Gates en CI/CD
@@ -240,4 +240,4 @@ echo "=== All checks passed ==="
 - [[03-automated-testing|Testing Automatizado]]
 - [[05-security-testing|Security Testing]]
 - [[12-defect-prevention|Prevención de Defectos]]
-- [[../09-DevOps/01-pipelines|Pipelines CI/CD]]
+- [[03-Procesos/05-ci-cd-pipeline|Pipelines CI/CD]]

@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[02-testing-piramide|Pirámide de Testing]]"
   - "[[03-automated-testing|Testing Automatizado]]"
-  - "[[../04-Practicas/03-code-review|Code Review]]"
+  - "[[04-Practicas/06-code-review-best-practices|Code Review]]"
 ---
 
 # QA Moderno: Más Allá del Testing Manual

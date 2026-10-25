@@ -16,7 +16,7 @@ related:
   - "[[../11-Cultura-Equipo/01-cultura-ingenieria|Cultura de Ingeniería]]"
   - "[[../11-Cultura-Equipo/11-communities-practice|Communities of Practice]]"
   - "[[../11-Cultura-Equipo/06-mentoria-coaching|Mentoring]]"
-  - "[[../08-Calidad-Seguridad/02-documentation|Documentation]]"
+  - "[[04-Practicas/07-documentacion-tecnica|Documentation]]"
 ---
 
 ## Por qué Compartir Conocimiento
@@ -170,7 +170,7 @@ We will use PostgreSQL 16.
 - [[../11-Cultura-Equipo/01-cultura-ingenieria|Cultura de Ingeniería]] — sharing culture es cultural pillar
 - [[../11-Cultura-Equipo/11-communities-practice|Communities of Practice]] — formalized sharing
 - [[../11-Cultura-Equipo/06-mentoria-coaching|Mentoring]] — 1:1 knowledge transfer
-- [[../08-Calidad-Seguridad/02-documentation|Documentation]] — documentation standards
+- [[04-Practicas/07-documentacion-tecnica|Documentation]] — documentation standards
 - [[../01-Fundamentos/07-devops-filosofia|DevOps]] — learning organization
 - [[../11-Cultura-Equipo/02-psychological-safety|Seguridad Psicológica]] — safety enables sharing
 - [[../10-Gestion-Proyectos/03-story-points-tshirt|Velocity]] — knowledge sharing improves velocity

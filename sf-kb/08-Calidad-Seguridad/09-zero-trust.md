@@ -256,4 +256,4 @@ password = secret['password']  # A1b2C3d4E5
 - [[10-supply-chain-security|Supply Chain Security]]
 - [[08-compliance-regulaciones|Compliance]]
 - [[06-owasp-top10|OWASP Top 10]]
-- [[../09-DevOps/01-pipelines|Pipelines]]
+- [[03-Procesos/05-ci-cd-pipeline|Pipelines]]

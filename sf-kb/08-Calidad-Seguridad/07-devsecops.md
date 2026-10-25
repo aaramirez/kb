@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[05-security-testing|Security Testing]]"
   - "[[06-owasp-top10|OWASP Top 10]]"
-  - "[[../09-DevOps/01-pipelines|Pipelines]]"
+  - "[[03-Procesos/05-ci-cd-pipeline|Pipelines]]"
 ---
 
 # DevSecOps: Seguridad Integrada
@@ -227,4 +227,4 @@ spec:
 - [[08-compliance-regulaciones|Compliance]]
 - [[09-zero-trust|Zero Trust]]
 - [[10-supply-chain-security|Supply Chain Security]]
-- [[../09-DevOps/01-pipelines|Pipelines CI/CD]]
+- [[03-Procesos/05-ci-cd-pipeline|Pipelines CI/CD]]

@@ -130,7 +130,7 @@ Glosario maestro con los términos, siglas y conceptos clave utilizados en esta 
 
 - **SAST (Static Application Security Testing)** — Testing de seguridad estático
 - **SCA (Software Composition Analysis)** — Análisis de composición de software
-- **Scrum** — Framework ágil de gestión de proyectos. Ver [[03-Procesos/01-scrum|Scrum]]
+- **Scrum** — Framework ágil de gestión de proyectos. Ver [[03-Procesos/03-scrum|Scrum]]
 - **Security Testing** — Pruebas de seguridad. Ver [[08-Calidad-Seguridad/05-security-testing|Security Testing]]
 - **SLO (Service Level Objective)** — Objetivo de nivel de servicio. Ver [[10-Gestion-Proyectos/09-sla-slo-error-budgets|SLOs]]
 - **SLA (Service Level Agreement)** — Acuerdo de nivel de servicio. Ver [[10-Gestion-Proyectos/09-sla-slo-error-budgets|SLAs]]

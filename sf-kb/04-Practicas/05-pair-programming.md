@@ -18,11 +18,11 @@ related:
   -  "[[./01-coding-standards|Coding Standards]]"
   -  "[[./03-test-driven-development|TDD]]"
   -  "[[./11-definition-of-done|Definition of Done]]"
-  -  "[[../03-Procesos/agile-methodology|Agile Methodology]]"
-  -  "[[../05-Herramientas/team-tools|Team tools]]"
-  -  "[[../06-Metricas/velocity-metrics|Velocity Metrics]]"
-  -  "[[../08-Calidad/READ-LINT|Calidad de código]]"
-  -  "[[../01-Fundamentos/collaboration-basics|Collaboration basics]]"
+  -  "[[01-Fundamentos/06-manifiesto-agile|Agile Methodology]]"
+  -  "[[11-Cultura-Equipo/04-collaboration-tools|Team tools]]"
+  -  "[[06-Metricas/02-velocity-throughput|Velocity Metrics]]"
+  -  "[[04-Practicas/01-coding-standards|Calidad de código]]"
+  -  "[[11-Cultura-Equipo/04-collaboration-tools|Collaboration basics]]"
   -  "[[../02-Estrucutra/README|Estructura de contenido]]"
 ---
 
@@ -113,4 +113,4 @@ Pair programming tiene una afinidad natural con TDD. El navegador escribe la pru
 - Velocidad del equipo — puede no aumentar inicialmente, pero la calidad si
 - Satisfacción del equipo: mejora en equipos complementarios
 
-Ver también [[../06-Metricas/velocity-metrics|Velocity metrics]].
+Ver también [[06-Metricas/02-velocity-throughput|Velocity metrics]].

@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[06-owasp-top10|OWASP Top 10]]"
   - "[[07-devsecops|DevSecOps]]"
-  - "[[../04-Practicas/03-code-review|Code Review]]"
+  - "[[04-Practicas/06-code-review-best-practices|Code Review]]"
 ---
 
 # Security Testing

@@ -16,7 +16,7 @@ related:
   - "[[../11-Cultura-Equipo/02-psychological-safety|Seguridad Psicológica]]"
   - "[[../11-Cultura-Equipo/10-motivacion-devs|Motivación]]"
   - "[[../06-Metricas/07-team-health-metrics|Salud del Equipo]]"
-  - "[[../01-Fundamentos/06-agile-manifesto|Agile Manifesto]]"
+  - "[[01-Fundamentos/06-manifiesto-agile|Agile Manifesto]]"
 ---
 
 ## Definición (WHO)
@@ -151,7 +151,7 @@ La OMS clasifica el burnout como "phenomenon occupational" (no disease) caracter
 - [[../11-Cultura-Equipo/02-psychological-safety|Seguridad Psicológica]] — safety prevents burnout
 - [[../11-Cultura-Equipo/10-motivacion-devs|Motivación]] — burnout destroys motivation
 - [[../06-Metricas/07-team-health-metrics|Salud del Equipo]] — track burnout indicators
-- [[../01-Fundamentos/06-agile-manifesto|Agile Manifesto]] — sustainable pace principle
+- [[01-Fundamentos/06-manifiesto-agile|Agile Manifesto]] — sustainable pace principle
 - [[../11-Cultura-Equipo/08-diversidad-inclusion|Diversidad e Inclusión]] — marginalized groups more affected
 - [[../11-Cultura-Equipo/09-burnout-prevencion|Burnout]] — self-reference for full content
 - [[../10-Gestion-Proyectos/12-delivery-ritmos|Ritmos de Delivery]] — sustainable delivery cadence

@@ -30,7 +30,7 @@ Este sección cataloga las herramientas y tecnologías clave que componen el sta
 | IDEs y Editores | [[01-ides-editores]] | Entornos de desarrollo, AI assistants integrados |
 | AI Coding Assistants | [[09-ai-coding-assistants]] | Copilot, Cursor, Cody, Codeium |
 | AI Code Review | [[11-ai-code-review]] | CodeRabbit, Qodo, SonarQube AI |
-| AI Testing Tools | [[12-ai-testing-tools]] | Diffblue, Testim, Mabl, Applitools |
+| AI Testing Tools | [[05-Herramientas/10-ai-testing-tools]] | Diffblue, Testim, Mabl, Applitools |
 
 ### Infraestructura
 

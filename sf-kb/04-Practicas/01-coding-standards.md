@@ -13,15 +13,14 @@ aliases:
   - "EditorConfig"
 related:
   - "[[../05-Herramientas/README|Herramientas]]"
-  - "[[../01-Fundamentos/READ-CODE|Code conventions]]"
   - "[[../06-Metricas/README|Métricas de calidad]]"
   - "[[02-clean-code]]"
   - "[[09-git-conventions|Git Conventions]]"
   - "[[10-refactoring-continuo|Refactoring]]"
   - "[[08-api-design-standards|API Standards]]"
   - "[[11-definition-of-done|Definition of Done]]"
-  - "[[../03-Procesos/continuous-improvement|Continuous improvement]]"
-  - "[[../05-Herramientas/code-quality|Code Quality tools]]"
+  - "[[01-Fundamentos/16-lean-software|Continuous improvement]]"
+  - "[[08-Calidad-Seguridad/11-quality-gates|Code Quality tools]]"
 ---
 
 # Estándares de Codificación
@@ -119,6 +118,6 @@ Relacionado: [[11-definition-of-done|DoD checklist]].
 
 ## Más información
 
-- [[../06-Metricas/code-quality-metrics|Métricas de calidad de código]]
-- [[../03-Procesos/workflow-git-hooks|Git hooks]]
+- [[06-Metricas/06-technical-debt-metrics|Métricas de calidad de código]]
+- [[04-Practicas/09-git-conventions|Git hooks]]
 - [[02-clean-code|Clean Code principles]]

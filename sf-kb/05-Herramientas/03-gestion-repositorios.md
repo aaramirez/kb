@@ -202,7 +202,7 @@ Referencia: [[../03-Procesos/README|Estrategias de branching]]
 - Configurar [[02-herramientas-ci-cd|pipelines]] en cada push
 - Status checks obligatorios antes de merge
 - Auto-deploy a staging tras merge a main
-- Referencia: [[03-Procesos|Procesos de deployment]]
+- Referencia: [[03-Procesos/README|Procesos de deployment]]
 
 ## Recursos
 

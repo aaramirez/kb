@@ -52,9 +52,9 @@ Múltiples capas de seguridad que se complementan entre sí. Ver [[09-zero-trust
 
 ## Relación con otras secciones
 
-- **Fundamentos**: [[../01-Fundamentos/01-que-es-devops|¿Qué es DevOps?]]
-- **Procesos**: [[../03-Procesos/01-cicd|CI/CD]]
-- **Prácticas**: [[../04-Practicas/03-code-review|Code Review]]
-- **Herramientas**: [[../05-Herramientas/01-git|Git]]
+- **Fundamentos**: [[01-Fundamentos/07-devops-filosofia|¿Qué es DevOps?]]
+- **Procesos**: [[03-Procesos/05-ci-cd-pipeline|CI/CD]]
+- **Prácticas**: [[04-Practicas/06-code-review-best-practices|Code Review]]
+- **Herramientas**: [[05-Herramientas/03-gestion-repositorios|Git]]
 - **Métricas**: [[../06-Metricas/01-dora-metrics|DORA Metrics]]
-- **DevOps**: [[../09-DevOps/01-pipelines|Pipelines]]
+- **DevOps**: [[03-Procesos/05-ci-cd-pipeline|Pipelines]]

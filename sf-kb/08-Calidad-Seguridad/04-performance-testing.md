@@ -11,9 +11,9 @@ aliases:
   - "Load Testing"
   - "Performance Testing"
 related:
-  - "[[../05-Herramientas/07-monitoring|Monitoring]]"
+  - "[[05-Herramientas/05-herramientas-monitoring|Monitoring]]"
   - "[[../06-Metricas/01-dora-metrics|DORA Metrics]]"
-  - "[[../09-DevOps/02-infraestructura|Infrastructure]]"
+  - "[[09-DevOps-Infra/03-infrastructure-as-code|Infrastructure]]"
 ---
 
 # Performance Testing y Load Testing
@@ -186,6 +186,6 @@ performance:
 ## Ver también
 
 - [[03-automated-testing|Testing Automatizado]]
-- [[../05-Herramientas/07-monitoring|Monitoring y Observabilidad]]
+- [[05-Herramientas/05-herramientas-monitoring|Monitoring y Observabilidad]]
 - [[../06-Metricas/01-dora-metrics|DORA Metrics]]
-- [[../09-DevOps/02-infraestructura|Infrastructure as Code]]
+- [[09-DevOps-Infra/03-infrastructure-as-code|Infrastructure as Code]]

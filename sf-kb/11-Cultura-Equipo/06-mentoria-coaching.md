@@ -132,5 +132,5 @@ related:
 - [[../11-Cultura-Equipo/02-psychological-safety|Seguridad Psicológica]] — safety enables honest conversations
 - [[../11-Cultura-Equipo/11-communities-practice|Communities of Practice]] — communities as mentoring context
 - [[../06-Metricas/07-team-health-metrics|Salud del Equipo]] — mentoring improves retention
-- [[../01-Fundamentos/06-agile-manifesto|Agile Manifesto]] — sustainable pace includes growth
+- [[01-Fundamentos/06-manifiesto-agile|Agile Manifesto]] — sustainable pace includes growth
 - [[../10-Gestion-Proyectos/08-contratacion-modelos|Contratación]] — mentoring improves onboarding

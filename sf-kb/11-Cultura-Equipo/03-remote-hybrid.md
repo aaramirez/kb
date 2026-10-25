@@ -15,7 +15,7 @@ aliases:
 related:
   - "[[../11-Cultura-Equipo/04-collaboration-tools|Herramientas de Colaboración]]"
   - "[[../11-Cultura-Equipo/09-burnout-prevencion|Burnout]]"
-  - "[[../03-Procesos/07-kanban|Kanban]]"
+  - "[[03-Procesos/02-kanban-software|Kanban]]"
   - "[[../10-Gestion-Proyectos/01-planificacion-agil|Planificación Ágil]]"
 ---
 
@@ -132,7 +132,7 @@ Si se mantiene oficina, diseñarla para collaboration, no para individual work:
 
 - [[../11-Cultura-Equipo/04-collaboration-tools|Herramientas de Colaboración]] — stack de herramientas detallado
 - [[../11-Cultura-Equipo/09-burnout-prevencion|Burnout]] — remote work y burnout relationship
-- [[../03-Procesos/07-kanban|Kanban]] — adaptar flujos a async
+- [[03-Procesos/02-kanban-software|Kanban]] — adaptar flujos a async
 - [[../10-Gestion-Proyectos/01-planificacion-agil|Planificación Ágil]] — ceremonies en remoto
 - [[../01-Fundamentos/07-devops-filosofia|DevOps]] — distributed teams y DevOps
 - [[../11-Cultura-Equipo/02-psychological-safety|Seguridad Psicológica]] — remoto requiere más esfuerzo en trust

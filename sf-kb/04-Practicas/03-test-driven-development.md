@@ -16,12 +16,12 @@ related:
   - "[[./10-refactoring-continuo|Refactoring]]"
   - "[[./02-clean-code|Clean Code]]"
   - "[[../03-Procesos/README|Procesos Ágiles]]"
-  - "[[../05-Herramientas/continuous-integration|CI/CD]]"
-  - "[[../06-Metricas/code-quality-metrics|Code Quality Metrics]]"
-  - "[[../01-Fundamentos/testing-fundamentals|Testing Fundamentals]]"
+  - "[[05-Herramientas/02-herramientas-ci-cd|CI/CD]]"
+  - "[[06-Metricas/06-technical-debt-metrics|Code Quality Metrics]]"
+  - "[[08-Calidad-Seguridad/02-testing-piramide|Testing Fundamentals]]"
   - "[[11-definition-of-done|Definition of Done]]"
   - "[[06-code-review-best-practices|Code Review]]"
-  - "[[../08-Calidad/READ-LINT|Calidad de código]]"
+  - "[[04-Practicas/01-coding-standards|Calidad de código]]"
 ---
 
 # Test-Driven Development
@@ -114,7 +114,7 @@ BDD es una extensión de TDD que usa lenguaje natural (Given-When-Then) para des
 
 ## Métricas asociadas
 
-- Cobertura de código. Relacionado: [[06-Metricas/code-quality-metrics]].
+- Cobertura de código. Relacionado: [[06-Metricas/05-code-coverage]].
 - Time to feedback: mide cuánto tarda una iteración TDD desde rojo a verde.
 - Número de fallos en PR abiertos: menos de 5% es buena señal.
 

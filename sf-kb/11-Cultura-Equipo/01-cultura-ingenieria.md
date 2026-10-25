@@ -156,5 +156,5 @@ Principios clave:
 - [[../11-Cultura-Equipo/11-communities-practice|Communities of Practice]] — cómo escalar cultura
 - [[../06-Metricas/07-team-health-metrics|Salud del Equipo]] — medir lo que importa
 - [[../01-Fundamentos/07-devops-filosofia|DevOps Filosofía]] — cultura como pilar DevOps
-- [[../01-Fundamentos/06-agile-manifesto|Agile Manifesto]] — valores que inspiran
+- [[01-Fundamentos/06-manifiesto-agile|Agile Manifesto]] — valores que inspiran
 - [[../10-Gestion-Proyectos/10-okr-software|OKRs]] — alinear cultura con objetivos

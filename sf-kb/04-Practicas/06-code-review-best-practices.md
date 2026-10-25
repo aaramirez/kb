@@ -18,9 +18,9 @@ related:
   -  "[[./09-git-conventions|Git conventions]]"
   -  "[[./11-definition-of-done|Definition of Done]]"
   -  "[[./01-coding-standards|Coding Standards]]"
-  -  "[[../03-Procesos/continuous-improvement|Continuous improvement]]"
-  -  "[[../05-Herramientas/gh-actions|GitHub actions]]"
-  -  "[[../06-Metricas/code-quality-metrics|Code quality metrics]]"
+  -  "[[01-Fundamentos/16-lean-software|Continuous improvement]]"
+  -  "[[05-Herramientas/02-herramientas-ci-cd|GitHub actions]]"
+  -  "[[06-Metricas/06-technical-debt-metrics|Code quality metrics]]"
   -  "../08-Calidad/READ-LINT|Calidad de código"
   -  "../01-Fundamentos/READ-OPEN|Open source contribution"
 

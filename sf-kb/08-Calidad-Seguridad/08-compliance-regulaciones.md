@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[07-devsecops|DevSecOps]]"
   - "[[09-zero-trust|Zero Trust]]"
-  - "[[../01-Fundamentos/01-que-es-devops|¿Qué es DevOps?]]"
+  - "[[01-Fundamentos/07-devops-filosofia|¿Qué es DevOps?]]"
 ---
 
 # Compliance y Regulaciones

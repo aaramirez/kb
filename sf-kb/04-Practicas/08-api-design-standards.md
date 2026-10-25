@@ -158,5 +158,5 @@ message GetUserRequest {
 
 ## Ver también
 
-- [[07-documentacion-tecnca|Documentación ADR]]
+- [[04-Practicas/07-documentacion-tecnica|Documentación ADR]]
 - [[01-coding-standards|Coding standards]]

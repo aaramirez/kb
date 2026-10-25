@@ -13,7 +13,7 @@ aliases:
 related:
   - "[[02-testing-piramide|Pirámide de Testing]]"
   - "[[11-quality-gates|Quality Gates]]"
-  - "[[../09-DevOps/01-pipelines|Pipelines]]"
+  - "[[03-Procesos/05-ci-cd-pipeline|Pipelines]]"
 ---
 
 # Testing Automatizado
@@ -179,4 +179,4 @@ test:
 - [[04-performance-testing|Performance Testing]]
 - [[05-security-testing|Security Testing]]
 - [[11-quality-gates|Quality Gates]]
-- [[../09-DevOps/01-pipelines|Pipelines CI/CD]]
+- [[03-Procesos/05-ci-cd-pipeline|Pipelines CI/CD]]

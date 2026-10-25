@@ -18,9 +18,9 @@ related:
   - "[[./11-definition-of-done|Definition of Done]]"
   - "[[./06-code-review-best-practices|Code Review]]"
   - "[[../03-Procesos/README|Procesos Ágiles]]"
-  - "[[../05-Herramientas/ci-cd-pipelines|CI/CD Pipelines]]"
-  - "[[../01-Fundamentos/testing-fundamentals|Testing Fundamentals]]"
-  - "[[./07-documentacion-tecnca|Documentación técnica]]"
+  - "[[05-Herramientas/02-herramientas-ci-cd|CI/CD Pipelines]]"
+  - "[[08-Calidad-Seguridad/02-testing-piramide|Testing Fundamentals]]"
+  - "[[04-Practicas/07-documentacion-tecnica|Documentación técnica]]"
   - "[[06-code-review-best-practices|Code Review]]"
   - "[[../02-Estructura/README|Estructura de código]]"
 category: "Prácticas y Estándares"
@@ -147,5 +147,5 @@ Feature: Checkout
 ## Ver también
 
 - [[03-test-driven-development]]: Fundamentos de TDD
-- [[07-documentacion-tecnca]]: Documentación técnica ADR y RFC
-- [[../06-Metricas/coverage-metrics|Coverage Metrics]]
+- [[04-Practicas/07-documentacion-tecnica]]: Documentación técnica ADR y RFC
+- [[06-Metricas/05-code-coverage|Coverage Metrics]]

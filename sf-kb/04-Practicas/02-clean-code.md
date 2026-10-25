@@ -12,14 +12,14 @@ aliases:
   - "Robert C. Martin"
   - "Uncle Bob"
 related:
-  - "[[../01-Fundamentos/READ-CODE|Code conventions]]"
+  - "[[04-Practicas/01-coding-standards|Code conventions]]"
   - "[[./11-definition-of-done|Definition of Done]]"
   - "[[./10-refactoring-continuo|Refactoring contínuo]]"
   - "[[./01-coding-standards|Coding Standards]]"
   - "[[./03-test-driven-development|TDD]]"
-  - "[[../08-Calidad/READ-LINT|LINT quality]]"
-  - "[[../06-Metricas/duplication|Code Duplication]]"
-  - "[[./07-documentacion-tecnca|Documentación técnica]]"
+  - "[[04-Practicas/01-coding-standards|LINT quality]]"
+  - "[[06-Metricas/06-technical-debt-metrics|Code Duplication]]"
+  - "[[04-Practicas/07-documentacion-tecnica|Documentación técnica]]"
   - "[[./06-code-review-best-practices|Code Review]]"
   - "[[../02-Estructura/README|Estructura de código]]"
 ---
@@ -90,7 +90,7 @@ if (user.role === 'admin') {}
 if (hasElevatedPrivileges(user)) {}
 ```
 
-La documentación vive en archivos README, ADRs, RFCs. Relacionado: [[07-documentacion-tecnca]].
+La documentación vive en archivos README, ADRs, RFCs. Relacionado: [[04-Practicas/07-documentacion-tecnica]].
 
 ### 4. Formato
 
@@ -154,7 +154,7 @@ Los code smells no son bugs. Guían hacia refactoring oportunistas. Ver [[10-ref
 | [[./03-test-driven-development]] | Codigo limpio es más testeable |
 | [[./11-definition-of-done]] | No DoD sin código limpio |
 | [[./06-code-review-best-practices]] | Code reviews detectan smells |
-| [[../08-Calidad/READ-LINT]] | Lint detecta olores |
+| [[04-Practicas/01-coding-standards]] | Lint detecta olores |
 
 ## Conclusión
 

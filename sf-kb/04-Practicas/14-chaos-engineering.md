@@ -125,7 +125,7 @@ See [[13-feature-flags]] for gradual rollout.
 - you have monitoring and alerting
 - your team has Incident Response processes
 
-See [[../03-Procesos/incident-reponse|IR]].
+See [[09-DevOps-Infra/09-incident-response|IR]].
 
 ## FAQs
 

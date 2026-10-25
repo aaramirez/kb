@@ -127,5 +127,5 @@ Mihaly Csikszentmihalyi's flow theory aplicada a development.
 - [[../11-Cultura-Equipo/07-career-ladders|Career Ladders]] — growth as motivator
 - [[../11-Cultura-Equipo/01-cultura-ingenieria|Cultura de Ingeniería]] — culture enables motivation
 - [[../06-Metricas/07-team-health-metrics|Salud del Equipo]] — measure motivation
-- [[../01-Fundamentos/06-agile-manifesto|Agile Manifesto]] — sustainable pace
+- [[01-Fundamentos/06-manifiesto-agile|Agile Manifesto]] — sustainable pace
 - [[../05-Herramientas/01-ides-editores|IDEs]] — good DX = better motivation
