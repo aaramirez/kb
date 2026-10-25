@@ -61,7 +61,7 @@ aliases:
 
 ## 2010s — Síntesis Moderna
 
-- **2010** — [[02-Conceptos-Clave/04-emergencia-y-auto-organización|Emergencia]] se convierte en concepto central en diseño de sistemas.
+- **2010** — [[02-Conceptos-Clave/04-emergencia-y-auto-organizacion|Emergencia]] se convierte en concepto central en diseño de sistemas.
 - **2015** — *Thinking in Systems* se convierte en lectura obligada en diseño y tecnología.
 - **2017** — *The Art of Thinking in Systems* de Steven Schuster populariza el enfoque.
 - **2018** — Cabrera Research Lab publica avances en pensamiento sistémico DSRP (Distinctions, Systems, Relationships, Perspectives).

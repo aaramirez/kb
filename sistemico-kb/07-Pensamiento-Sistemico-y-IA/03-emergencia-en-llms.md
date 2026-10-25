@@ -73,7 +73,7 @@ Ver [[02-Conceptos-Clave/04-emergencia-y-auto-organizacion]].
 - [[06-Sistemas-Complejos/01-sistemas-adaptativos-complejos]] — LLM como CAS
 - [[06-Sistemas-Complejos/02-teoria-del-caos]] — Transiciones no-lineales
 - [[06-Sistemas-Complejos/04-leyes-de-potencia]] — Scaling laws como ley de potencia
-- [[07-Pensamiento-Sistemico-y-IA/05-alineamiento-y-gobernanza-sistemica]] — Cómo gobernar lo impredecible
+- [[07-Pensamiento-Sistemico-y-IA/04-rlhf-como-sistema]] — Cómo gobernar lo impredecible
 
 ## Referencias
 

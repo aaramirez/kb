@@ -75,7 +75,7 @@ El ejemplo clásico: al añadir granos de arena uno a uno, el montón forma una 
 | **Resiliencia** | Diseñar sistemas que manejen el caso extremo |
 | **Pareto** | 80% del valor viene de 20% de las features |
 
-La criticalidad auto-organizada sugiere que los sistemas de IA pueden tender naturalmente a estados críticos donde el comportamiento es imposible de predecir completamente —una advertencia para el [[07-Pensamiento-Sistemico-y-IA/05-alineamiento-y-gobernanza-sistemica|alineamiento]].
+La criticalidad auto-organizada sugiere que los sistemas de IA pueden tender naturalmente a estados críticos donde el comportamiento es imposible de predecir completamente —una advertencia para el [[07-Pensamiento-Sistemico-y-IA/04-rlhf-como-sistema|alineamiento]].
 
 ## Referencias
 

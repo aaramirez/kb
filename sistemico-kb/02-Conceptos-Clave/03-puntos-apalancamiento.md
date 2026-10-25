@@ -72,7 +72,7 @@ En sistemas de IA, los puntos de apalancamiento son críticos:
 | **Información** | ¿El modelo ve feedback de usuarios? ¿Tiene contexto completo? |
 | **Parámetros** | Temperature, top-k, learning rate (bajo apalancamiento) |
 
-El [[07-Pensamiento-Sistemico-y-IA/05-alineamiento-y-gobernanza-sistemica|alineamiento de IA]] es inherentemente un problema de puntos de apalancamiento: ¿cambiamos parámetros, reglas o paradigmas?
+El [[07-Pensamiento-Sistemico-y-IA/04-rlhf-como-sistema|alineamiento de IA]] es inherentemente un problema de puntos de apalancamiento: ¿cambiamos parámetros, reglas o paradigmas?
 
 ## Referencias
 
