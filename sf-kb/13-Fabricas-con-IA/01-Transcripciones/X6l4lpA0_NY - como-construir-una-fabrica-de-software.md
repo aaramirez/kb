@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[como-construir-una-fabrica-de-software]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering: How to Build a Software Factory — Dru Knox, Tessl

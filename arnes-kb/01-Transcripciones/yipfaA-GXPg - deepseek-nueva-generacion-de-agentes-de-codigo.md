@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[deepseek-nueva-generacion-de-agentes-de-codigo]]"
+updated: 2026-11-27
 ---
 
 # DeepSeek Just Built the Next Generation of Coding Agents

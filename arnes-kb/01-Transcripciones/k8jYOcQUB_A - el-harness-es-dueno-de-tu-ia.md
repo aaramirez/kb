@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[el-harness-es-dueno-de-tu-ia]]"
+updated: 2026-11-27
 ---
 
 # You Don't Own Your AI. The Harness Does.

@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[harness-de-agente-de-debugging-en-uber]]"
+updated: 2026-11-27
 ---
 
 # Building a Debugging Agent Harness at Uber - Kriti Dangi

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[29-consejos-de-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering: 29 Tips to Build the Systems That Build Software

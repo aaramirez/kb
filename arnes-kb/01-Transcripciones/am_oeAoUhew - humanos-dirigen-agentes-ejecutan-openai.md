@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[humanos-dirigen-agentes-ejecutan-openai]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering: How to Build Software When Humans Steer, Agents Execute — Ryan Lopopolo, OpenAI

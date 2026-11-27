@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-engineering-forward-deployed]]"
+updated: 2026-11-27
 ---
 
 # AI Harness Engineering - Forward Deployed Engineering Tutorial

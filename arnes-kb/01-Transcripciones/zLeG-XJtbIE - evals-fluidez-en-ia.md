@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[evals-fluidez-en-ia]]"
+updated: 2026-11-27
 ---
 
 # You're Not AI-Fluent Until You Understand Evals

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-en-codigo-real-en-20-minutos]]"
+updated: 2026-11-27
 ---
 
 # You Can Learn AI Agent Harness In Real Code In 20 Min | Loop Engineering, Memory, Eval, Open Source

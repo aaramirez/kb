@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[orquestadores-de-ia-2026]]"
+updated: 2026-11-27
 ---
 
 # Orquestadores de IA 2026: ¿Cuál vale la pena? Codex, Claude, Orca y Herder

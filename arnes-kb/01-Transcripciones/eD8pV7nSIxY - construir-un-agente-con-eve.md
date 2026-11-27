@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[construir-un-agente-con-eve]]"
+updated: 2026-11-27
 ---
 
 # Build an Agent with Eve: The Open Agent Framework - Ship 26 NYC Workshop

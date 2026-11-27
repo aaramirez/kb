@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[agentes-automejorables-evolucionar-el-harness]]"
+updated: 2026-11-27
 ---
 
 # Self-Improving AI Agents | Evolving the Harness, Not the Model

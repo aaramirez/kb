@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[cuando-construir-tu-propio-harness]]"
+updated: 2026-11-27
 ---
 
 # When to Build Your Own Agent Harness | Harrison Chase, LangChain

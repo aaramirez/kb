@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[meta-harness-para-ejecutar-agentes]]"
+updated: 2026-11-27
 ---
 
 # This Meta-Harness Changes How You Run AI Agents

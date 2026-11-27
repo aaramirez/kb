@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[que-es-un-harness-construido-en-vivo]]"
+updated: 2026-11-27
 ---
 
 # What is an AI harness? I build one live in less than 30 minutes

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-engineering-antigravity-claude-code-cursor]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering Explained: Inside the Stack Behind Antigravity, Claude Code & Cursor

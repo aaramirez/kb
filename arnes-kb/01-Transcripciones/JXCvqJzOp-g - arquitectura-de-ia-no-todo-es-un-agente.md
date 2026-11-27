@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[arquitectura-de-ia-no-todo-es-un-agente]]"
+updated: 2026-11-27
 ---
 
 # Pare de chamar tudo de Agente: Aprenda Arquitetura de IA do jeito certo

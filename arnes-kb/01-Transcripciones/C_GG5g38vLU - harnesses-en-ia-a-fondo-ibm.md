@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harnesses-en-ia-a-fondo-ibm]]"
+updated: 2026-11-27
 ---
 
 # Harnesses in AI: A Deep Dive — Tejas Kumar, IBM

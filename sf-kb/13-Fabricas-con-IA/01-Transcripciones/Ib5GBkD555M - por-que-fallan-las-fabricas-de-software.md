@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[por-que-fallan-las-fabricas-de-software]]"
+updated: 2026-11-27
 ---
 
 # Why Software Factories Fail

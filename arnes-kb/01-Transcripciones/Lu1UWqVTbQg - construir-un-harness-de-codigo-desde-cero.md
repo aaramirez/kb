@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[construir-un-harness-de-codigo-desde-cero]]"
+updated: 2026-11-27
 ---
 
 # Let's build a Coding Agent Harness from Scratch (Step by Step, No frameworks)

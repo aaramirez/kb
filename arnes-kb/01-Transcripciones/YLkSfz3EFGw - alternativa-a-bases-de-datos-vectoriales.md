@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[alternativa-a-bases-de-datos-vectoriales]]"
+updated: 2026-11-27
 ---
 
 # Vector Databases Are Dead. Use This Instead

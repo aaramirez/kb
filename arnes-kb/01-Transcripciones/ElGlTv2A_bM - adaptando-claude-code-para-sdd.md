@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[adaptando-claude-code-para-sdd]]"
+updated: 2026-11-27
 ---
 
 # Esto es lo que Aprendí Adaptando Claude Code para SDD

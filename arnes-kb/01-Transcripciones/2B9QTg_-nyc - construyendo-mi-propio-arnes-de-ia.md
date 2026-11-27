@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[construyendo-mi-propio-arnes-de-ia]]"
+updated: 2026-11-27
 ---
 
 # Construyo mi propio arnés de IA… y te enseño como hacer el tuyo

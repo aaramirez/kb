@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[agentes-con-eve-y-nextjs]]"
+updated: 2026-11-27
 ---
 
 # I Found the BEST Way to Build AI Agents (Eve + Next.js)

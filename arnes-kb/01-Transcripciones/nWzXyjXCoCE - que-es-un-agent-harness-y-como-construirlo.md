@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[que-es-un-agent-harness-y-como-construirlo]]"
+updated: 2026-11-27
 ---
 
 # What is an Agent Harness? and How to build a great one!

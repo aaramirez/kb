@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[el-harness-importa-mas-que-el-modelo]]"
+updated: 2026-11-27
 ---
 
 # Why The Harness Matters More Than The Model | YC Paper Club

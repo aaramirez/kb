@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[combatir-el-code-slop-estado-de-las-fabricas]]"
+updated: 2026-11-27
 ---
 
 # Fighting Code Slop: The State of Software Factories - Dexter Horthy
