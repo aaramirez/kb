@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[arquitectura-de-harness-en-produccion]]"
+updated: 2026-11-27
 ---
 
 # The AI Agent Harness | Production AI Architecture

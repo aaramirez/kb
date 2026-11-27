@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[code-loops-y-harness-autodidacta]]"
+updated: 2026-11-27
 ---
 
 # Code Loops and A Self Learning AI Harness

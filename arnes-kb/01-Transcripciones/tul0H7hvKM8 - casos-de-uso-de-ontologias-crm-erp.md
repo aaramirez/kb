@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[casos-de-uso-de-ontologias-crm-erp]]"
+updated: 2026-11-27
 ---
 
 # Ontology Use Cases: CRM, ERP and Engineering [TalkIT Global 198, INFOCZ]

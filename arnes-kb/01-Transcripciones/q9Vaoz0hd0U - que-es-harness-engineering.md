@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[que-es-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # ¿Qué es esto del Harness Engineering?

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[de-prompt-engineering-a-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # De Prompt Engineering a Harness Engineering: La nueva arquitectura de los Agentes de IA

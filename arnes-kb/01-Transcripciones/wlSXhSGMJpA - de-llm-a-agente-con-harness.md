@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[de-llm-a-agente-con-harness]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering Explained | Turn your LLM in to AI Agent.

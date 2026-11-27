@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[paperclip]]"
+updated: 2026-11-27
 ---
 
 # you need to try Paperclip RIGHT NOW!

@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[fabrica-de-software-automejorable]]"
+updated: 2026-11-27
 ---
 
 # I Built a Self-Improving Software Factory

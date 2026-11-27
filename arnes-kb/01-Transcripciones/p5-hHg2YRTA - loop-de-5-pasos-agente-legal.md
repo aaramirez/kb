@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[loop-de-5-pasos-agente-legal]]"
+updated: 2026-11-27
 ---
 
 # You Can Build an AI Agent Harness in 20min: My 5-Step Harness Engineering Loop | Legal Agent Project

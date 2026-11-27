@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[cuatro-palancas-para-diagnosticar-agentes]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering: 4 Levers to Diagnose Any AI Agent

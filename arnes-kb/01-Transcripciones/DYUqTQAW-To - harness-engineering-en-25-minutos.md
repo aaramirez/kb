@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-engineering-en-25-minutos]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering in 25 Minutes

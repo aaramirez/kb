@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-event-sourced-con-stream-processors]]"
+updated: 2026-11-27
 ---
 
 # Make your own event-sourced agent harness using stream processors — Jonas Templestein, Iterate

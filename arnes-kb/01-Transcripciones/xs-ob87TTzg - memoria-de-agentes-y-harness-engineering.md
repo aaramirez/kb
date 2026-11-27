@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[memoria-de-agentes-y-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # Total Recall: Agent Memory and Harness Engineering — Ignacio Martinez, Oracle

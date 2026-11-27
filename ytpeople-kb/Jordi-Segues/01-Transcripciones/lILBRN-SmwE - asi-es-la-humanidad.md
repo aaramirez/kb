@@ -5,6 +5,7 @@ person: "Jordi Segues"
 videoId: "lILBRN-SmwE"
 source: "https://www.youtube.com/watch?v=lILBRN-SmwE"
 created: 2026-07-30
+updated: 2026-11-27
 ---
 
 # Así es la humanidad

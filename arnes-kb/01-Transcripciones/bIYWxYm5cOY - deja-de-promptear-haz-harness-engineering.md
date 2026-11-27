@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[deja-de-promptear-haz-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # Stop Prompting Claude. Start Harness Engineering.

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[el-auge-del-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # Rethinking AI Agents: The Rise of Harness Engineering

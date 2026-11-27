@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[curso-construir-una-fabrica-de-software-que-funcione]]"
+updated: 2026-11-27
 ---
 
 # Building a Software Factory that actually works (Full Course)

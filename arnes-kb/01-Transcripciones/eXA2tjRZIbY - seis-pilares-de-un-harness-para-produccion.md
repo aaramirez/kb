@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[seis-pilares-de-un-harness-para-produccion]]"
+updated: 2026-11-27
 ---
 
 # The 6 Pillars of an Agentic Harness for Production — Varun Krovvidi, Resolve AI

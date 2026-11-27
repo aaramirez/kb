@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[flujo-de-ingenieria-agentica-del-creador-de-pi]]"
+updated: 2026-11-27
 ---
 
 # Pi Agent dev reveals his Agentic Engineering Workflow

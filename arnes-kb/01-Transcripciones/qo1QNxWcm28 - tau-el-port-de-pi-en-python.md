@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[tau-el-port-de-pi-en-python]]"
+updated: 2026-11-27
 ---
 
 # Tau Crash Course: The Python Port of Pi

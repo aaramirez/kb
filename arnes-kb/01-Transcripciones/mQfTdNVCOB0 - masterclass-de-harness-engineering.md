@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[masterclass-de-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering Masterclass: Technical Deep Dive on how to build Agentic Systems

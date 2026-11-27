@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[anthropic-y-el-fin-de-los-harnesses]]"
+updated: 2026-11-27
 ---
 
 # Anthropic Just Killed All Your Agent Harnesses

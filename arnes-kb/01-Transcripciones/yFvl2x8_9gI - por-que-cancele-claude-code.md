@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[por-que-cancele-claude-code]]"
+updated: 2026-11-27
 ---
 
 # Why I Cancelled My Claude Code Subscription

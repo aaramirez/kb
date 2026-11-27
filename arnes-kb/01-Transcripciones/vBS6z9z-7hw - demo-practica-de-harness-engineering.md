@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[demo-practica-de-harness-engineering]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering Practical Demo | Make AI Agents Reliable

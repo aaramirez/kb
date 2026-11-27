@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[ryan-lopopolo-humanos-dirigen-agentes-ejecutan]]"
+updated: 2026-11-27
 ---
 
 # Ryan Lopopolo - Harness Engineering: How to Build Software When Humans Steer and Agents Execute

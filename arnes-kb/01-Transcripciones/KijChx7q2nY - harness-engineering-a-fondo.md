@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-engineering-a-fondo]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering Deep Dive

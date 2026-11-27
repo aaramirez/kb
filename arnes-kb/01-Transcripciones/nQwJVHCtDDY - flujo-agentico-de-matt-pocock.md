@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[flujo-agentico-de-matt-pocock]]"
+updated: 2026-11-27
 ---
 
 # Matt Pocock’s Agentic Engineering Workflow (just copy him)

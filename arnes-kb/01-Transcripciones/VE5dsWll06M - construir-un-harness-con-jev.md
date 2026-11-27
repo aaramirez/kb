@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[construir-un-harness-con-jev]]"
+updated: 2026-11-27
 ---
 
 # Building a Harness with Jev

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[ontologias-para-sistemas-agenticos]]"
+updated: 2026-11-27
 ---
 
 # Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[socio-creativo-autonomo-a-largo-plazo]]"
+updated: 2026-11-27
 ---
 
 # Build a Long-Term Autonomous AI Creative Partner (AI Harness Engineering Guide)

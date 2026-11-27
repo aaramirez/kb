@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[jaula-de-produccion-para-agentes-de-dominio]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering: Building the Production Cage for Powerful Domain Agents — Mike Chambers, AWS

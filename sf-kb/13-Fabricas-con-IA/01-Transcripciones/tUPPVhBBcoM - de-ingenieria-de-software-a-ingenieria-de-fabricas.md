@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[de-ingenieria-de-software-a-ingenieria-de-fabricas]]"
+updated: 2026-11-27
 ---
 
 # Software Engineering Is Becoming Factory Engineering — Zach Lloyd, Warp

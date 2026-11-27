@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-engineering-en-22-minutos]]"
+updated: 2026-11-27
 ---
 
 # Harness Engineering Explained in 22 Minutes

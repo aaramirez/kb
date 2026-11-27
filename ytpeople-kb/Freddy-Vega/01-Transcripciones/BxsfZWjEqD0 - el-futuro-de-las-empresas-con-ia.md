@@ -5,6 +5,7 @@ person: "Freddy Vega"
 videoId: "BxsfZWjEqD0"
 source: "https://www.youtube.com/watch?v=BxsfZWjEqD0"
 created: 2026-07-30
+updated: 2026-11-27
 ---
 
 # El futuro de las empresas con IA

@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[alternativa-construible-a-jev]]"
+updated: 2026-11-27
 ---
 
 # Better than Jev - because you can build with it

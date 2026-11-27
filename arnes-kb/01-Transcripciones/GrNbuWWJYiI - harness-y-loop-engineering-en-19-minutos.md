@@ -11,6 +11,7 @@ tags:
   - arnes/transcripcion
 related:
   - "[[harness-y-loop-engineering-en-19-minutos]]"
+updated: 2026-11-27
 ---
 
 # You Can Learn AI Agent Harness & Loop Engineering In 19 Min | LLM Ops, Eval, Tracing, RAG

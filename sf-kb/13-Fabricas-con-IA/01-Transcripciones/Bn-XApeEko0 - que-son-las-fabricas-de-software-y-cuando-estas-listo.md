@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[que-son-las-fabricas-de-software-y-cuando-estas-listo]]"
+updated: 2026-11-27
 ---
 
 # Software Factories: What They Are and When You’re Ready for One

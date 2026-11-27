@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[arquitectura-multiagente-que-entrega]]"
+updated: 2026-11-27
 ---
 
 # The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory

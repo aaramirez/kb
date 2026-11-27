@@ -12,6 +12,7 @@ tags:
   - type/transcripcion
 related:
   - "[[fabrica-de-software-afk-open-source]]"
+updated: 2026-11-27
 ---
 
 # I Open-Sourced My Own AFK Software Factory
